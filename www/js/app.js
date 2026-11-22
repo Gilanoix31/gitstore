@@ -143,6 +143,7 @@ function appRow(app) {
       <div class="app-desc">${esc(app.desc || '')}</div>
       <div class="app-meta">
         <span class="badge ghost">${esc(versionLabel(app))}</span>
+        ${Number(app.stars) > 0 ? `<span>${icon('star', 13)} ${fmtNum(app.stars)}</span>` : ''}
         ${primary ? `<span>${esc(primary.sizeText || fmtBytes(primary.size))}</span>` : ''}
         ${installed ? `<span class="badge accent">${update ? 'update' : 'installed'}</span>` : ''}
       </div>
@@ -201,7 +202,9 @@ function renderDiscover() {
   let list = cat.apps;
   if (filter === 'custom') list = list.filter((a) => a.custom);
   else if (filter !== 'all') list = list.filter((a) => a.category === filter);
-  list = [...list].sort((a, b) => String(a.name).localeCompare(String(b.name)));
+  list = [...list].sort(
+    (a, b) => (Number(b.stars) || 0) - (Number(a.stars) || 0) || String(a.name).localeCompare(String(b.name)),
+  );
 
   const feat = store.featured();
   const appsCount = cat.apps.length;
@@ -244,8 +247,8 @@ function renderDiscover() {
       <div id="livePicks">${liveHtml()}</div>
     </section>
 
-    <section class="section">
-      <div class="section-head"><h2>${esc(filter === 'all' ? 'All apps' : filter === 'custom' ? 'My additions' : categoryName(filter))}</h2><span class="muted">${list.length} apps</span></div>
+    <section class="section" id="catalogList">
+      <div class="section-head"><h2>${esc(filter === 'all' ? 'All apps' : filter === 'custom' ? 'My additions' : categoryName(filter))}</h2><span class="muted">${list.length} apps · by popularity</span></div>
       <div class="app-list">${list.map(appRow).join('') || emptyInline('Nothing here yet.')}</div>
     </section>
   `);
@@ -722,6 +725,7 @@ function addCustomFromDetail() {
     tag: latest.tag,
     version: latest.version,
     releasedAt: latest.publishedAt,
+    stars: d.meta?.stars || 0,
     asset,
     assets: latest.assets,
     custom: true,
@@ -1052,7 +1056,8 @@ async function refreshCatalogFlow() {
       try {
         const releases = await gh.scrapeReleases(seed.repo, 3);
         const rel = store.sortReleasesStableFirst(releases).find((r) => r.assets?.length);
-        const entry = rel ? store.buildEntry(seed, rel) : null;
+        const known = store.appByRepo(seed.repo);
+        const entry = rel ? store.buildEntry({ ...seed, stars: known?.stars || 0 }, rel) : null;
         if (entry) entries.push(entry);
         else skipped.push(seed.repo);
       } catch {
@@ -1113,6 +1118,7 @@ async function onViewClick(event) {
     case 'filter':
       state.catalogFilter = target.dataset.filter;
       renderDiscover();
+      $('#catalogList')?.scrollIntoView?.({ behavior: 'smooth', block: 'start' });
       return;
     case 'install':
       await installSelected();

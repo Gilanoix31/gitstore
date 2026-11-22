@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T05:55:43.270Z",
+ "generatedAt": "2026-11-22T06:07:04.877Z",
  "source": "github.com release assets (scraped)",
  "categories": [
   {
@@ -89,6 +89,7 @@
    "tag": "v1.2.0",
    "version": "1.2.0",
    "releasedAt": "2026-10-29T20:05:08Z",
+   "stars": 4306,
    "asset": {
     "name": "findroid-v1.2.0-libre-arm64-v8a.apk",
     "url": "https://github.com/jarnedemeulemeester/findroid/releases/download/v1.2.0/findroid-v1.2.0-libre-arm64-v8a.apk",
@@ -139,6 +140,7 @@
    "tag": "v2.7.3",
    "version": "2.7.3",
    "releasedAt": "2026-09-14T16:02:13Z",
+   "stars": 2877,
    "asset": {
     "name": "jellyfin-android-v2.7.3-proprietary-release.apk",
     "url": "https://github.com/jellyfin/jellyfin-android/releases/download/v2.7.3/jellyfin-android-v2.7.3-proprietary-release.apk",
@@ -189,6 +191,7 @@
    "tag": "v0.220",
    "version": "0.220",
    "releasedAt": "2026-11-12T19:47:42Z",
+   "stars": 2818,
    "asset": {
     "name": "Just.Player.v0.220-legacy.apk",
     "url": "https://github.com/moneytoo/Player/releases/download/v0.220/Just.Player.v0.220-legacy.apk",
@@ -225,6 +228,7 @@
    "tag": "v32.1",
    "version": "32.1",
    "releasedAt": "2026-08-20T20:14:34Z",
+   "stars": 13036,
    "asset": {
     "name": "app-release.apk",
     "url": "https://github.com/libre-tube/LibreTube/releases/download/v32.1/app-release.apk",
@@ -254,6 +258,7 @@
    "tag": "2026-09-17",
    "version": "2026-09-17",
    "releasedAt": "2026-09-17T14:56:18Z",
+   "stars": 3713,
    "asset": {
     "name": "app-default-arm64-v8a-release.apk",
     "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-default-arm64-v8a-release.apk",
@@ -332,6 +337,7 @@
    "tag": "v0.29.3",
    "version": "0.29.3",
    "releasedAt": "2026-11-10T09:51:54Z",
+   "stars": 40866,
    "asset": {
     "name": "NewPipe_v0.29.3.apk",
     "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.3/NewPipe_v0.29.3.apk",
@@ -368,6 +374,7 @@
    "tag": "v0.21.0",
    "version": "0.21.0",
    "releasedAt": "2026-11-14T05:59:49Z",
+   "stars": 4784,
    "asset": {
     "name": "nextplayer-v0.21.0-arm64-v8a.apk",
     "url": "https://github.com/anilbeesetti/nextplayer/releases/download/v0.21.0/nextplayer-v0.21.0-arm64-v8a.apk",
@@ -425,6 +432,7 @@
    "tag": "v6.6.5",
    "version": "6.6.5",
    "releasedAt": "2026-11-11T11:26:03Z",
+   "stars": 4825,
    "asset": {
     "name": "org.courville.nova-2674922-6.6.5-20261111.1224-arm64-v8a-release.apk",
     "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.5/org.courville.nova-2674922-6.6.5-20261111.1224-arm64-v8a-release.apk",
@@ -482,6 +490,7 @@
    "tag": "v5.6.0",
    "version": "5.6.0",
    "releasedAt": "2026-11-20T11:52:06Z",
+   "stars": 7285,
    "asset": {
     "name": "PipePipe_5.6.0-arm64-v8a-release.apk",
     "url": "https://github.com/InfinityLoop1308/PipePipe/releases/download/v5.6.0/PipePipe_5.6.0-arm64-v8a-release.apk",
@@ -532,6 +541,7 @@
    "tag": "v1.13.1",
    "version": "1.13.1",
    "releasedAt": "2024-10-16T17:00:59Z",
+   "stars": 30896,
    "asset": {
     "name": "Seal-1.13.1-arm64-v8a-release.apk",
     "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk",
@@ -589,6 +599,7 @@
    "tag": "v1.9.1.1",
    "version": "1.9.1.1",
    "releasedAt": "2026-10-19T14:58:54Z",
+   "stars": 11253,
    "asset": {
     "name": "YTDLnis-1.9.1.1-arm64-v8a-release-github.apk",
     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-arm64-v8a-release-github.apk",
@@ -681,6 +692,7 @@
    "tag": "v4.1.5",
    "version": "4.1.5",
    "releasedAt": "2026-08-04T04:07:11Z",
+   "stars": 4489,
    "asset": {
     "name": "Auxio_v4.1.5.apk",
     "url": "https://github.com/OxygenCobalt/Auxio/releases/download/v4.1.5/Auxio_v4.1.5.apk",
@@ -710,6 +722,7 @@
    "tag": "1.1.2",
    "version": "1.1.2",
    "releasedAt": "2026-08-20T09:57:21Z",
+   "stars": 2406,
    "asset": {
     "name": "Gramophone-1.1.2-release.apk",
     "url": "https://github.com/FoedusProgramme/Gramophone/releases/download/1.1.2/Gramophone-1.1.2-release.apk",
@@ -739,6 +752,7 @@
    "tag": "v1.12.2",
    "version": "1.12.2",
    "releasedAt": "2025-12-07T12:46:16Z",
+   "stars": 3092,
    "asset": {
     "name": "harmonymusic-1.12.2-arm64-v8a-release.apk",
     "url": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.2/harmonymusic-1.12.2-arm64-v8a-release.apk",
@@ -782,6 +796,7 @@
    "tag": "v0.5.10",
    "version": "0.5.10",
    "releasedAt": "2024-09-01T15:05:31Z",
+   "stars": 6151,
    "asset": {
     "name": "InnerTune_v0.5.10_full_arm64-v8a.apk",
     "url": "https://github.com/z-huang/InnerTune/releases/download/v0.5.10/InnerTune_v0.5.10_full_arm64-v8a.apk",
@@ -839,6 +854,7 @@
    "tag": "v14.0.1",
    "version": "14.0.1",
    "releasedAt": "2026-11-19T01:03:38Z",
+   "stars": 14794,
    "asset": {
     "name": "Metrolist-with-Google-Cast.apk",
     "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.1/Metrolist-with-Google-Cast.apk",
@@ -882,6 +898,7 @@
    "tag": "v0.11.1",
    "version": "0.11.1",
    "releasedAt": "2026-09-06T00:29:48Z",
+   "stars": 5461,
    "asset": {
     "name": "OuterTune-0.11.1-full-universal-release-73.apk",
     "url": "https://github.com/OuterTune/OuterTune/releases/download/v0.11.1/OuterTune-0.11.1-full-universal-release-73.apk",
@@ -911,6 +928,7 @@
    "tag": "7.3.5",
    "version": "7.3.5",
    "releasedAt": "2025-01-13T12:04:46Z",
+   "stars": 240,
    "asset": {
     "name": "Podcini.R_release_free_7.3.5_arm64-v8a.apk",
     "url": "https://github.com/XilinJia/Podcini/releases/download/7.3.5/Podcini.R_release_free_7.3.5_arm64-v8a.apk",
@@ -954,6 +972,7 @@
    "tag": "v2.6.0",
    "version": "2.6.0",
    "releasedAt": "2026-11-14T11:22:38Z",
+   "stars": 13725,
    "asset": {
     "name": "SimpMusic-full-arm64-v8a-release.apk",
     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-full-arm64-v8a-release.apk",
@@ -1039,6 +1058,7 @@
    "tag": "v6.0.0",
    "version": "6.0.0",
    "releasedAt": "2026-11-09T14:27:05Z",
+   "stars": 50880,
    "asset": {
     "name": "Spotube-android-all-arch.apk",
     "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/Spotube-android-all-arch.apk",
@@ -1068,6 +1088,7 @@
    "tag": "v2.69.0",
    "version": "2.69.0",
    "releasedAt": "2026-11-10T16:33:57Z",
+   "stars": 1881,
    "asset": {
     "name": "deltachat-gplay-release-2.69.0.apk",
     "url": "https://github.com/deltachat/deltachat-android/releases/download/v2.69.0/deltachat-gplay-release-2.69.0.apk",
@@ -1097,6 +1118,7 @@
    "tag": "v26.11.1",
    "version": "26.11.1",
    "releasedAt": "2026-11-17T15:29:02Z",
+   "stars": 2517,
    "asset": {
     "name": "app-fdroid-arm64-v8a-release-signed.apk",
     "url": "https://github.com/element-hq/element-x-android/releases/download/v26.11.1/app-fdroid-arm64-v8a-release-signed.apk",
@@ -1154,6 +1176,7 @@
    "tag": "0.0.88",
    "version": "0.0.88",
    "releasedAt": "2026-07-21T13:03:02Z",
+   "stars": 1335,
    "asset": {
     "name": "jerboa-fdroid-0.0.88.apk",
     "url": "https://github.com/LemmyNet/jerboa/releases/download/0.0.88/jerboa-fdroid-0.0.88.apk",
@@ -1183,6 +1206,7 @@
    "tag": "v7.1.4",
    "version": "7.1.4",
    "releasedAt": "2026-11-14T22:46:36Z",
+   "stars": 19742,
    "asset": {
     "name": "simplex-aarch64.apk",
     "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.4/simplex-aarch64.apk",
@@ -1226,6 +1250,7 @@
    "tag": "v29.0",
    "version": "29.0",
    "releasedAt": "2025-05-17T11:54:12Z",
+   "stars": 2560,
    "asset": {
     "name": "133.apk",
     "url": "https://github.com/tuskyapp/Tusky/releases/download/v29.0/133.apk",
@@ -1255,6 +1280,7 @@
    "tag": "v3.4.3",
    "version": "3.4.3",
    "releasedAt": "2026-09-06T10:30:39Z",
+   "stars": 13601,
    "asset": {
     "name": "aegis-v3.4.3.apk",
     "url": "https://github.com/beemdevelopment/Aegis/releases/download/v3.4.3/aegis-v3.4.3.apk",
@@ -1284,6 +1310,7 @@
    "tag": "v4.1.1",
    "version": "4.1.1",
    "releasedAt": "2026-09-04T11:42:38Z",
+   "stars": 9682,
    "asset": {
     "name": "AppManager_v4.1.1.apk",
     "url": "https://github.com/MuntashirAkon/AppManager/releases/download/v4.1.1/AppManager_v4.1.1.apk",
@@ -1313,6 +1340,7 @@
    "tag": "v2026.11.1-bwpm",
    "version": "2026.11.1-bwpm",
    "releasedAt": "2026-11-18T15:21:47Z",
+   "stars": 9671,
    "asset": {
     "name": "com.x8bit.bitwarden.apk",
     "url": "https://github.com/bitwarden/android/releases/download/v2026.11.1-bwpm/com.x8bit.bitwarden.apk",
@@ -1349,6 +1377,7 @@
    "tag": "3.0.0",
    "version": "3.0.0",
    "releasedAt": "2026-11-17T20:44:18Z",
+   "stars": 1254,
    "asset": {
     "name": "Cryptomator-3.0.0_signed.apk",
     "url": "https://github.com/cryptomator/android/releases/download/3.0.0/Cryptomator-3.0.0_signed.apk",
@@ -1392,6 +1421,7 @@
    "tag": "v2.13.0",
    "version": "2.13.0",
    "releasedAt": "2026-10-30T07:31:09Z",
+   "stars": 4207,
    "asset": {
     "name": "Dhizuku_v2.13.0-testkey.apk",
     "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.13.0/Dhizuku_v2.13.0-testkey.apk",
@@ -1428,6 +1458,7 @@
    "tag": "4.5.8",
    "version": "4.5.8",
    "releasedAt": "2026-10-31T20:04:07Z",
+   "stars": 7716,
    "asset": {
     "name": "KeePassDX-4.5.8-free.apk",
     "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.8/KeePassDX-4.5.8-free.apk",
@@ -1464,6 +1495,7 @@
    "tag": "2.337",
    "version": "2.337",
    "releasedAt": "2026-08-01T21:29:29Z",
+   "stars": 4014,
    "asset": {
     "name": "NetGuard-v2.337-release.apk",
     "url": "https://github.com/M66B/NetGuard/releases/download/2.337/NetGuard-v2.337-release.apk",
@@ -1493,6 +1525,7 @@
    "tag": "v0.7.69",
    "version": "0.7.69",
    "releasedAt": "2026-10-25T15:13:05Z",
+   "stars": 4035,
    "asset": {
     "name": "ics-openvpn-0.7.69.apk",
     "url": "https://github.com/schwabe/ics-openvpn/releases/download/v0.7.69/ics-openvpn-0.7.69.apk",
@@ -1522,6 +1555,7 @@
    "tag": "17.9.8-RC-1-tor-0.4.9.17",
    "version": "17.9.8-RC-1-tor-0.4.9.17",
    "releasedAt": "2026-11-16T19:24:08Z",
+   "stars": 3721,
    "asset": {
     "name": "Orbot-17.9.8-RC-1-tor-0.4.9.17-1-g75a2abad5-fullperm-arm64-v8a-release.apk",
     "url": "https://github.com/guardianproject/orbot-android/releases/download/17.9.8-RC-1-tor-0.4.9.17/Orbot-17.9.8-RC-1-tor-0.4.9.17-1-g75a2abad5-fullperm-arm64-v8a-release.apk",
@@ -1558,6 +1592,7 @@
    "tag": "v2.0.4",
    "version": "2.0.4",
    "releasedAt": "2026-11-20T18:31:20Z",
+   "stars": 5239,
    "asset": {
     "name": "PCAPdroid_v2.0.4.apk",
     "url": "https://github.com/emanuele-f/PCAPdroid/releases/download/v2.0.4/PCAPdroid_v2.0.4.apk",
@@ -1587,6 +1622,7 @@
    "tag": "v0.5.8",
    "version": "0.5.8",
    "releasedAt": "2026-10-13T18:03:17Z",
+   "stars": 5956,
    "asset": {
     "name": "rethink-70-arm64-v8a.apk",
     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-70-arm64-v8a.apk",
@@ -1679,6 +1715,7 @@
    "tag": "v2.2.3-rc0",
    "version": "2.2.3-rc0",
    "releasedAt": "2026-11-19T17:09:22Z",
+   "stars": 8186,
    "asset": {
     "name": "eu.darken.sdmse-v2.2.3-rc0-20203000-FOSS-RELEASE.apk",
     "url": "https://github.com/d4rken-org/sdmaid-se/releases/download/v2.2.3-rc0/eu.darken.sdmse-v2.2.3-rc0-20203000-FOSS-RELEASE.apk",
@@ -1708,6 +1745,7 @@
    "tag": "v13.6.0",
    "version": "13.6.0",
    "releasedAt": "2025-05-25T13:19:23Z",
+   "stars": 34319,
    "asset": {
     "name": "shizuku-v13.6.0.r1086.2650830c-release.apk",
     "url": "https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk",
@@ -1737,6 +1775,7 @@
    "tag": "2026110101",
    "version": "2026110101",
    "releasedAt": "2026-11-01T19:04:56Z",
+   "stars": 2757,
    "asset": {
     "name": "TrackerControl-githubRelease-latest.apk",
     "url": "https://github.com/TrackerControl/tracker-control-android/releases/download/2026110101/TrackerControl-githubRelease-latest.apk",
@@ -1766,6 +1805,7 @@
    "tag": "v3.11.4",
    "version": "3.11.4",
    "releasedAt": "2026-10-15T11:16:09Z",
+   "stars": 6473,
    "asset": {
     "name": "app-fdroid-release.apk",
     "url": "https://github.com/TeamAmaze/AmazeFileManager/releases/download/v3.11.4/app-fdroid-release.apk",
@@ -1795,6 +1835,7 @@
    "tag": "0.0.604-ci",
    "version": "0.0.604-ci",
    "releasedAt": "2026-05-28T11:22:10Z",
+   "stars": 4092,
    "asset": {
     "name": "com.apkupdater.ci-release.apk",
     "url": "https://github.com/rumboalla/apkupdater/releases/download/0.0.604-ci/com.apkupdater.ci-release.apk",
@@ -1824,6 +1865,7 @@
    "tag": "2.0.12",
    "version": "2.0.12",
    "releasedAt": "2025-09-20T09:35:51Z",
+   "stars": 7612,
    "asset": {
     "name": "DataBackup-2.0.12-arm64-v8a-premium-release.apk",
     "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-arm64-v8a-premium-release.apk",
@@ -1902,6 +1944,7 @@
    "tag": "v0.7.8",
    "version": "0.7.8",
    "releasedAt": "2026-09-12T18:58:38Z",
+   "stars": 7774,
    "asset": {
     "name": "app-release.apk",
     "url": "https://github.com/Droid-ify/client/releases/download/v0.7.8/app-release.apk",
@@ -1931,6 +1974,7 @@
    "tag": "1.6.5",
    "version": "1.6.5",
    "releasedAt": "2026-11-21T17:08:58Z",
+   "stars": 1891,
    "asset": {
     "name": "file-manager-17-foss-release.apk",
     "url": "https://github.com/FossifyOrg/File-Manager/releases/download/1.6.5/file-manager-17-foss-release.apk",
@@ -1960,6 +2004,7 @@
    "tag": "2026.11.2",
    "version": "2026.11.2",
    "releasedAt": "2026-11-08T04:22:08Z",
+   "stars": 4068,
    "asset": {
     "name": "automotive-minimal-release.apk",
     "url": "https://github.com/home-assistant/android/releases/download/2026.11.2/automotive-minimal-release.apk",
@@ -2017,6 +2062,7 @@
    "tag": "v3.4.2",
    "version": "3.4.2",
    "releasedAt": "2026-11-18T20:06:43Z",
+   "stars": 119816,
    "asset": {
     "name": "app-arm64-v8a-release.apk",
     "url": "https://github.com/immich-app/immich/releases/download/v3.4.2/app-arm64-v8a-release.apk",
@@ -2067,6 +2113,7 @@
    "tag": "v1.18.2",
    "version": "1.18.2",
    "releasedAt": "2026-08-21T13:33:28Z",
+   "stars": 100168,
    "asset": {
     "name": "LocalSend-1.18.2-android-arm64v8.apk",
     "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk",
@@ -2117,6 +2164,7 @@
    "tag": "v1.7.5",
    "version": "1.7.5",
    "releasedAt": "2026-09-20T06:28:02Z",
+   "stars": 9514,
    "asset": {
     "name": "app-release-universal.apk",
     "url": "https://github.com/zhanghai/MaterialFiles/releases/download/v1.7.5/app-release-universal.apk",
@@ -2153,6 +2201,7 @@
    "tag": "8.3.18",
    "version": "8.3.18",
    "releasedAt": "2026-05-03T20:54:00Z",
+   "stars": 3929,
    "asset": {
     "name": "Neo_Backup_8.3.18_release.apk",
     "url": "https://github.com/NeoApplications/Neo-Backup/releases/download/8.3.18/Neo_Backup_8.3.18_release.apk",
@@ -2182,6 +2231,7 @@
    "tag": "1.3.3",
    "version": "1.3.3",
    "releasedAt": "2026-10-23T00:57:58Z",
+   "stars": 5705,
    "asset": {
     "name": "Neo_Store_1.3.3_release.apk",
     "url": "https://github.com/NeoApplications/Neo-Store/releases/download/1.3.3/Neo_Store_1.3.3_release.apk",
@@ -2211,6 +2261,7 @@
    "tag": "35.1.0",
    "version": "35.1.0",
    "releasedAt": "2026-11-18T15:38:20Z",
+   "stars": 5731,
    "asset": {
     "name": "nextcloud-files-gplay-350010090.apk",
     "url": "https://github.com/nextcloud/android/releases/download/35.1.0/nextcloud-files-gplay-350010090.apk",
@@ -2254,6 +2305,7 @@
    "tag": "v1.7.4",
    "version": "1.7.4",
    "releasedAt": "2026-11-01T06:49:59Z",
+   "stars": 21781,
    "asset": {
     "name": "app-arm64-v8a-fdroid-release.apk",
     "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-arm64-v8a-fdroid-release.apk",
@@ -2332,6 +2384,7 @@
    "tag": "v4.8.4",
    "version": "4.8.4",
    "releasedAt": "2026-08-31T14:46:51Z",
+   "stars": 4174,
    "asset": {
     "name": "owncloud_4.8.4-original-release.apk",
     "url": "https://github.com/owncloud/android/releases/download/v4.8.4/owncloud_4.8.4-original-release.apk",
@@ -2361,6 +2414,7 @@
    "tag": "1.5.3",
    "version": "1.5.3",
    "releasedAt": "2026-11-09T10:17:19Z",
+   "stars": 130675,
    "asset": {
     "name": "rustdesk-1.5.3-aarch64-signed.apk",
     "url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-aarch64-signed.apk",
@@ -2411,6 +2465,7 @@
    "tag": "1.28.1",
    "version": "1.28.1",
    "releasedAt": "2024-12-03T21:18:33Z",
+   "stars": 4294,
    "asset": {
     "name": "app-release.apk",
     "url": "https://github.com/syncthing/syncthing-android/releases/download/1.28.1/app-release.apk",
@@ -2440,6 +2495,7 @@
    "tag": "v0.118.3",
    "version": "0.118.3",
    "releasedAt": "2025-05-22T22:50:29Z",
+   "stars": 65410,
    "asset": {
     "name": "termux-app_v0.118.3+github-debug_arm64-v8a.apk",
     "url": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_arm64-v8a.apk",
@@ -2497,6 +2553,7 @@
    "tag": "v0.53.0",
    "version": "0.53.0",
    "releasedAt": "2025-09-01T23:56:48Z",
+   "stars": 4687,
    "asset": {
     "name": "termux-api-app_v0.53.0+github.debug.apk",
     "url": "https://github.com/termux/termux-api/releases/download/v0.53.0/termux-api-app_v0.53.0+github.debug.apk",
@@ -2526,6 +2583,7 @@
    "tag": "v0.8.1",
    "version": "0.8.1",
    "releasedAt": "2024-06-22T17:09:50Z",
+   "stars": 1876,
    "asset": {
     "name": "termux-boot-app_v0.8.1+github.debug.apk",
     "url": "https://github.com/termux/termux-boot/releases/download/v0.8.1/termux-boot-app_v0.8.1+github.debug.apk",
@@ -2555,6 +2613,7 @@
    "tag": "v0.9.0",
    "version": "0.9.0",
    "releasedAt": "2025-09-02T19:06:58Z",
+   "stars": 1656,
    "asset": {
     "name": "termux-tasker-app_v0.9.0+github.debug.apk",
     "url": "https://github.com/termux/termux-tasker/releases/download/v0.9.0/termux-tasker-app_v0.9.0+github.debug.apk",
@@ -2584,6 +2643,7 @@
    "tag": "v0.15.0",
    "version": "0.15.0",
    "releasedAt": "2025-09-02T00:38:54Z",
+   "stars": 1865,
    "asset": {
     "name": "termux-widget-app_v0.15.0+github.debug.apk",
     "url": "https://github.com/termux/termux-widget/releases/download/v0.15.0/termux-widget-app_v0.15.0+github.debug.apk",
@@ -2613,6 +2673,7 @@
    "tag": "nightly",
    "version": "nightly",
    "releasedAt": "2026-11-15T13:12:01Z",
+   "stars": 5192,
    "asset": {
     "name": "termux-x11-universal-release.apk",
     "url": "https://github.com/termux/termux-x11/releases/download/nightly/termux-x11-universal-release.apk",
@@ -2649,6 +2710,7 @@
    "tag": "v7.9",
    "version": "7.9",
    "releasedAt": "2025-04-17T14:23:14Z",
+   "stars": 765,
    "asset": {
     "name": "app-regular-release.apk",
     "url": "https://github.com/traccar/traccar-client-android/releases/download/v7.9/app-regular-release.apk",
@@ -2678,6 +2740,7 @@
    "tag": "1.13-r2",
    "version": "1.13-r2",
    "releasedAt": "2026-09-08T02:35:26Z",
+   "stars": 3391,
    "asset": {
     "name": "ime_release.apk",
     "url": "https://github.com/AnySoftKeyboard/AnySoftKeyboard/releases/download/1.13-r2/ime_release.apk",
@@ -2707,6 +2770,7 @@
    "tag": "v0.5.2",
    "version": "0.5.2",
    "releasedAt": "2025-11-28T11:39:38Z",
+   "stars": 8794,
    "asset": {
     "name": "florisboard-0.5.2-preview.apk",
     "url": "https://github.com/florisboard/florisboard/releases/download/v0.5.2/florisboard-0.5.2-preview.apk",
@@ -2743,6 +2807,7 @@
    "tag": "1.12.2",
    "version": "1.12.2",
    "releasedAt": "2026-11-07T16:07:40Z",
+   "stars": 2297,
    "asset": {
     "name": "calendar-25-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Calendar/releases/download/1.12.2/calendar-25-foss-release.apk",
@@ -2772,6 +2837,7 @@
    "tag": "v4.2",
    "version": "4.2",
    "releasedAt": "2026-10-12T17:30:35Z",
+   "stars": 6630,
    "asset": {
     "name": "HeliBoard_4.2-release.apk",
     "url": "https://github.com/HeliBorg/HeliBoard/releases/download/v4.2/HeliBoard_4.2-release.apk",
@@ -2815,6 +2881,7 @@
    "tag": "2.0.2",
    "version": "2.0.2",
    "releasedAt": "2026-10-07T14:16:09Z",
+   "stars": 45685,
    "asset": {
     "name": "Logseq-android-2.0.2.apk",
     "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-android-2.0.2.apk",
@@ -2844,6 +2911,7 @@
    "tag": "v2026.10.0",
    "version": "2026.10.0",
    "releasedAt": "2026-10-25T21:23:48Z",
+   "stars": 6461,
    "asset": {
     "name": "net.gsantner.markor-v164-2026.10.0-flavorDefault-release.apk",
     "url": "https://github.com/gsantner/markor/releases/download/v2026.10.0/net.gsantner.markor-v164-2026.10.0-flavorDefault-release.apk",
@@ -2873,6 +2941,7 @@
    "tag": "v4.6.9",
    "version": "4.6.9",
    "releasedAt": "2026-10-23T14:51:53Z",
+   "stars": 473,
    "asset": {
     "name": "app-release.apk",
     "url": "https://github.com/appml/neutrinote/releases/download/v4.6.9/app-release.apk",
@@ -2902,6 +2971,7 @@
    "tag": "v6.2",
    "version": "6.2",
    "releasedAt": "2026-05-16T15:16:07Z",
+   "stars": 2214,
    "asset": {
     "name": "Notally.v6.2.apk",
     "url": "https://github.com/OmGodse/Notally/releases/download/v6.2/Notally.v6.2.apk",
@@ -2931,6 +3001,7 @@
    "tag": "3.4.16-android",
    "version": "3.4.16-android",
    "releasedAt": "2026-11-16T18:55:25Z",
+   "stars": 14955,
    "asset": {
     "name": "notesnook-arm64-v8a.apk",
     "url": "https://github.com/streetwriters/notesnook/releases/download/3.4.16-android/notesnook-arm64-v8a.apk",
@@ -2981,6 +3052,7 @@
    "tag": "v1.8.11",
    "version": "1.8.11",
    "releasedAt": "2026-01-29T18:21:44Z",
+   "stars": 2819,
    "asset": {
     "name": "orgzly-1.8.11.apk",
     "url": "https://github.com/orgzly/orgzly-android/releases/download/v1.8.11/orgzly-1.8.11.apk",
@@ -3010,6 +3082,7 @@
    "tag": "v1.38.0",
    "version": "1.38.0",
    "releasedAt": "2026-11-21T20:43:02Z",
+   "stars": 5055,
    "asset": {
     "name": "Saber_v1.38.0.apk",
     "url": "https://github.com/saber-notes/saber/releases/download/v1.38.0/Saber_v1.38.0.apk",
@@ -3046,6 +3119,7 @@
    "tag": "149",
    "version": "149",
    "releasedAt": "2026-10-22T09:56:14Z",
+   "stars": 1616,
    "asset": {
     "name": "app-release.apk",
     "url": "https://github.com/rkkr/simple-keyboard/releases/download/149/app-release.apk",
@@ -3075,6 +3149,7 @@
    "tag": "v3.8.11",
    "version": "3.8.11",
    "releasedAt": "2026-11-19T14:33:59Z",
+   "stars": 47337,
    "asset": {
     "name": "siyuan-3.8.11.apk",
     "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11.apk",
@@ -3104,6 +3179,7 @@
    "tag": "15.14.1",
    "version": "15.14.1",
    "releasedAt": "2026-11-17T08:34:16Z",
+   "stars": 5785,
    "asset": {
     "name": "tasks-googleplay-15.14.1.apk",
     "url": "https://github.com/tasks/tasks/releases/download/15.14.1/tasks-googleplay-15.14.1.apk",
@@ -3140,6 +3216,7 @@
    "tag": "2.2.1",
    "version": "2.2.1",
    "releasedAt": "2026-11-12T21:49:45Z",
+   "stars": 3369,
    "asset": {
     "name": "Unexpected-Keyboard-release.apk",
     "url": "https://github.com/Julow/Unexpected-Keyboard/releases/download/2.2.1/Unexpected-Keyboard-release.apk",
@@ -3169,6 +3246,7 @@
    "tag": "v0.18.2.1",
    "version": "0.18.2.1",
    "releasedAt": "2026-09-14T18:39:13Z",
+   "stars": 7909,
    "asset": {
     "name": "aniyomi-arm64-v8a-v0.18.2.1.apk",
     "url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.2.1/aniyomi-arm64-v8a-v0.18.2.1.apk",
@@ -3226,6 +3304,7 @@
    "tag": "v2.26.0alpha15",
    "version": "2.26.0alpha15",
    "releasedAt": "2026-11-19T15:45:18Z",
+   "stars": 12310,
    "asset": {
     "name": "AnkiDroid-2.26.0alpha15-arm64-v8a.apk",
     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/AnkiDroid-2.26.0alpha15-arm64-v8a.apk",
@@ -3311,6 +3390,7 @@
    "tag": "2026.11.1217",
    "version": "2026.11.1217",
    "releasedAt": "2026-11-10T02:56:04Z",
+   "stars": 1484,
    "asset": {
     "name": "app-free-release.apk",
     "url": "https://github.com/jocmp/capyreader/releases/download/2026.11.1217/app-free-release.apk",
@@ -3340,6 +3420,7 @@
    "tag": "v4.9.1",
    "version": "4.9.1",
    "releasedAt": "2026-11-09T12:56:00Z",
+   "stars": 11384,
    "asset": {
     "name": "4.9.1.apk",
     "url": "https://github.com/recloudstream/cloudstream/releases/download/v4.9.1/4.9.1.apk",
@@ -3369,6 +3450,7 @@
    "tag": "2.25.0",
    "version": "2.25.0",
    "releasedAt": "2026-10-23T09:22:39Z",
+   "stars": 3139,
    "asset": {
     "name": "app-fdroid-release.apk",
     "url": "https://github.com/spacecowboy/Feeder/releases/download/2.25.0/app-fdroid-release.apk",
@@ -3405,6 +3487,7 @@
    "tag": "4.0.1",
    "version": "4.0.1",
    "releasedAt": "2026-11-18T13:50:04Z",
+   "stars": 1557,
    "asset": {
     "name": "app-arm64-v8a-standalone.apk",
     "url": "https://github.com/kiwix/kiwix-android/releases/download/4.0.1/app-arm64-v8a-standalone.apk",
@@ -3462,6 +3545,7 @@
    "tag": "v2026.07.1",
    "version": "2026.07.1",
    "releasedAt": "2026-08-01T11:07:17Z",
+   "stars": 31257,
    "asset": {
     "name": "koreader-android-arm64-v2026.07.1.apk",
     "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-android-arm64-v2026.07.1.apk",
@@ -3505,6 +3589,7 @@
    "tag": "v0.21.3",
    "version": "0.21.3",
    "releasedAt": "2026-10-25T21:50:23Z",
+   "stars": 25527,
    "asset": {
     "name": "mihon-arm64-v8a-v0.21.3.apk",
     "url": "https://github.com/mihonapp/mihon/releases/download/v0.21.3/mihon-arm64-v8a-v0.21.3.apk",
@@ -3569,6 +3654,7 @@
    "tag": "0.16.2",
    "version": "0.16.2",
    "releasedAt": "2026-06-03T14:52:54Z",
+   "stars": 7692,
    "asset": {
     "name": "ReadYou-0.16.2-091c9207-signed.apk",
     "url": "https://github.com/ReadYouApp/ReadYou/releases/download/0.16.2/ReadYou-0.16.2-091c9207-signed.apk",
@@ -3598,6 +3684,7 @@
    "tag": "5.18.0",
    "version": "5.18.0",
    "releasedAt": "2026-11-01T21:31:06Z",
+   "stars": 13886,
    "asset": {
     "name": "luanti-5.18.0-arm64-v8a.apk",
     "url": "https://github.com/luanti-org/luanti/releases/download/5.18.0/luanti-5.18.0-arm64-v8a.apk",
@@ -3648,6 +3735,7 @@
    "tag": "v0.5.7",
    "version": "0.5.7",
    "releasedAt": "2026-11-01T10:52:33Z",
+   "stars": 16601,
    "asset": {
     "name": "OpenRCT2-v0.5.7-android.apk",
     "url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.7/OpenRCT2-v0.5.7-android.apk",
@@ -3677,6 +3765,7 @@
    "tag": "2026.1117.0-lazer",
    "version": "2026.1117.0-lazer",
    "releasedAt": "2026-11-17T08:43:09Z",
+   "stars": 19503,
    "asset": {
     "name": "sh.ppy.osulazer.apk",
     "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/sh.ppy.osulazer.apk",
@@ -3706,6 +3795,7 @@
    "tag": "v4.0.2",
    "version": "4.0.2",
    "releasedAt": "2026-10-07T16:13:21Z",
+   "stars": 6843,
    "asset": {
     "name": "ShatteredPD-v4.0.2-GPlay.apk",
     "url": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.2/ShatteredPD-v4.0.2-GPlay.apk",
@@ -3742,6 +3832,7 @@
    "tag": "v0.7.0.1",
    "version": "0.7.0.1",
    "releasedAt": "2026-11-22T05:22:44Z",
+   "stars": 3208,
    "asset": {
     "name": "SuperTux-v0.7.0.1-arm64-v8a.apk",
     "url": "https://github.com/SuperTux/supertux/releases/download/v0.7.0.1/SuperTux-v0.7.0.1-arm64-v8a.apk",
@@ -3792,6 +3883,7 @@
    "tag": "1.5",
    "version": "1.5",
    "releasedAt": "2025-10-21T13:54:44Z",
+   "stars": 5492,
    "asset": {
     "name": "SuperTuxKart-1.5.apk",
     "url": "https://github.com/supertuxkart/stk-code/releases/download/1.5/SuperTuxKart-1.5.apk",
@@ -3821,6 +3913,7 @@
    "tag": "5.0.1",
    "version": "5.0.1",
    "releasedAt": "2026-11-17T16:17:42Z",
+   "stars": 11626,
    "asset": {
     "name": "Unciv-signed.apk",
     "url": "https://github.com/yairm210/Unciv/releases/download/5.0.1/Unciv-signed.apk",
@@ -3850,6 +3943,7 @@
    "tag": "1.7.5",
    "version": "1.7.5",
    "releasedAt": "2026-08-14T19:25:02Z",
+   "stars": 6039,
    "asset": {
     "name": "VCMI-Android-arm64-v8a.apk",
     "url": "https://github.com/vcmi/vcmi/releases/download/1.7.5/VCMI-Android-arm64-v8a.apk",
@@ -3893,6 +3987,7 @@
    "tag": "continuous",
    "version": "continuous",
    "releasedAt": "2026-11-21T20:52:38Z",
+   "stars": 2961,
    "asset": {
     "name": "xash3d-fwgs-android.apk",
     "url": "https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-android.apk",
@@ -3922,6 +4017,7 @@
    "tag": "2126.2",
    "version": "2126.2",
    "releasedAt": "2026-10-08T23:06:55Z",
+   "stars": 8750,
    "asset": {
     "name": "azahar-android-googleplay-2126.2.apk",
     "url": "https://github.com/azahar-emu/azahar/releases/download/2126.2/azahar-android-googleplay-2126.2.apk",
@@ -3958,6 +4054,7 @@
    "tag": "v2.7",
    "version": "2.7",
    "releasedAt": "2026-08-19T12:25:38Z",
+   "stars": 2667,
    "asset": {
     "name": "flycast-2.7.apk",
     "url": "https://github.com/flyinghead/flycast/releases/download/v2.7/flycast-2.7.apk",
@@ -3987,6 +4084,7 @@
    "tag": "1.17.0",
    "version": "1.17.0",
    "releasedAt": "2026-05-31T08:26:01Z",
+   "stars": 4532,
    "asset": {
     "name": "lemuroid-app-free-dynamic-release.apk",
     "url": "https://github.com/Swordfish90/Lemuroid/releases/download/1.17.0/lemuroid-app-free-dynamic-release.apk",
@@ -4016,6 +4114,7 @@
    "tag": "continuous",
    "version": "continuous",
    "releasedAt": "2026-11-21T17:50:08Z",
+   "stars": 5995,
    "asset": {
     "name": "android-latest.apk",
     "url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/android-latest.apk",
@@ -4045,6 +4144,7 @@
    "tag": "v11.2.0",
    "version": "11.2.0",
    "releasedAt": "2026-09-14T14:04:23Z",
+   "stars": 20101,
    "asset": {
     "name": "Winlator_11.2.apk",
     "url": "https://github.com/brunodev85/winlator/releases/download/v11.2.0/Winlator_11.2.apk",
@@ -4074,6 +4174,7 @@
    "tag": "v0.4.1",
    "version": "0.4.1",
    "releasedAt": "2026-08-21T23:29:56Z",
+   "stars": 777,
    "asset": {
     "name": "WinNative-v0.4.1-Antutu-signed.apk",
     "url": "https://github.com/WinNative-Emu/WinNative/releases/download/v0.4.1/WinNative-v0.4.1-Antutu-signed.apk",
@@ -4124,6 +4225,7 @@
    "tag": "2026.11.11-39-android",
    "version": "2026.11.11-39-android",
    "releasedAt": "2026-11-11T22:18:56Z",
+   "stars": 16070,
    "asset": {
     "name": "OrganicMaps-26111139-web-release.apk",
     "url": "https://github.com/organicmaps/organicmaps/releases/download/2026.11.11-39-android/OrganicMaps-26111139-web-release.apk",
@@ -4153,6 +4255,7 @@
    "tag": "15.4.7",
    "version": "15.4.7",
    "releasedAt": "2026-11-07T15:07:01Z",
+   "stars": 1633,
    "asset": {
     "name": "Arcticons-15.4.7-normal-release.apk",
     "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/15.4.7/Arcticons-15.4.7-normal-release.apk",
@@ -4203,6 +4306,7 @@
    "tag": "1.10.0",
    "version": "1.10.0",
    "releasedAt": "2026-02-17T02:37:57Z",
+   "stars": 738,
    "asset": {
     "name": "launcher-16-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Launcher/releases/download/1.10.0/launcher-16-foss-release.apk",
@@ -4232,6 +4336,7 @@
    "tag": "v1.41.0",
    "version": "1.41.0",
    "releasedAt": "2026-09-15T14:18:03Z",
+   "stars": 5408,
    "asset": {
     "name": "de.mm20.launcher2.release-v1.41.0.apk",
     "url": "https://github.com/MM2-0/Kvaesitso/releases/download/v1.41.0/de.mm20.launcher2.release-v1.41.0.apk",
@@ -4261,6 +4366,7 @@
    "tag": "nightly",
    "version": "nightly",
    "releasedAt": "2026-11-22T00:29:06Z",
+   "stars": 13988,
    "asset": {
     "name": "Lawnchair.Debug.16-dev.Nightly-CI_5640-7d2f111.apk",
     "url": "https://github.com/LawnchairLauncher/lawnchair/releases/download/nightly/Lawnchair.Debug.16-dev.Nightly-CI_5640-7d2f111.apk",
@@ -4290,6 +4396,7 @@
    "tag": "v2.19.0",
    "version": "2.19.0",
    "releasedAt": "2026-10-17T15:52:45Z",
+   "stars": 2154,
    "asset": {
     "name": "Lawnicons.2.19.0.apk",
     "url": "https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.19.0/Lawnicons.2.19.0.apk",
@@ -4319,6 +4426,7 @@
    "tag": "0.9.3",
    "version": "0.9.3",
    "releasedAt": "2022-10-28T09:54:21Z",
+   "stars": 2166,
    "asset": {
     "name": "NeoLauncher-release.apk",
     "url": "https://github.com/NeoApplications/Neo-Launcher/releases/download/0.9.3/NeoLauncher-release.apk",
@@ -4348,6 +4456,7 @@
    "tag": "v6.9.17",
    "version": "6.9.17",
    "releasedAt": "2026-09-17T10:29:18Z",
+   "stars": 3998,
    "asset": {
     "name": "Olauncher-v6.9.17.apk",
     "url": "https://github.com/tanujnotes/Olauncher/releases/download/v6.9.17/Olauncher-v6.9.17.apk",
@@ -4377,6 +4486,7 @@
    "tag": "2.1.1",
    "version": "2.1.1",
    "releasedAt": "2024-01-12T15:26:21Z",
+   "stars": 405,
    "asset": {
     "name": "com.jkuester.unlauncher.apk",
     "url": "https://github.com/jkuester/unlauncher/releases/download/2.1.1/com.jkuester.unlauncher.apk",
@@ -4406,6 +4516,7 @@
    "tag": "v4.22.0",
    "version": "4.22.0",
    "releasedAt": "2025-08-24T06:58:14Z",
+   "stars": 1400,
    "asset": {
     "name": "de.dennisguse.opentracks.playstore_v4.22.0.apk",
     "url": "https://github.com/OpenTracksApp/OpenTracks/releases/download/v4.22.0/de.dennisguse.opentracks.playstore_v4.22.0.apk",
@@ -4435,6 +4546,7 @@
    "tag": "1.13.5-nightly.747a48e",
    "version": "1.13.5-nightly.747a48e",
    "releasedAt": "2026-11-20T07:16:10Z",
+   "stars": 7883,
    "asset": {
     "name": "acode-debug-normal-1.13.5-nightly.747a48e.apk",
     "url": "https://github.com/Acode-Foundation/Acode/releases/download/1.13.5-nightly.747a48e/acode-debug-normal-1.13.5-nightly.747a48e.apk",
@@ -4471,6 +4583,7 @@
    "tag": "v2.7.0-beta",
    "version": "2.7.0-beta",
    "releasedAt": "2024-01-12T15:42:17Z",
+   "stars": 3419,
    "asset": {
     "name": "androidide-v2.7.0-beta-arm64-v8a-release.apk",
     "url": "https://github.com/AndroidIDEOfficial/AndroidIDE/releases/download/v2.7.0-beta/androidide-v2.7.0-beta-arm64-v8a-release.apk",
@@ -4514,6 +4627,7 @@
    "tag": "v1.1.1",
    "version": "1.1.1",
    "releasedAt": "2026-11-05T03:01:57Z",
+   "stars": 2,
    "asset": {
     "name": "AIChat-v1.1.1.apk",
     "url": "https://github.com/lunadevph/AIChat/releases/download/v1.1.1/AIChat-v1.1.1.apk",
@@ -4543,6 +4657,7 @@
    "tag": "1.0.23",
    "version": "1.0.23",
    "releasedAt": "2026-11-04T18:58:42Z",
+   "stars": 25400,
    "asset": {
     "name": "ai_edge_gallery_app_sm8850.apk",
     "url": "https://github.com/google-ai-edge/gallery/releases/download/1.0.23/ai_edge_gallery_app_sm8850.apk",
@@ -4614,6 +4729,7 @@
    "tag": "v0.3.1",
    "version": "0.3.1",
    "releasedAt": "2026-11-03T22:15:48Z",
+   "stars": 9,
    "asset": {
     "name": "AndroidClaw-latest.apk",
     "url": "https://github.com/YJLi-new/AndroidClaw/releases/download/v0.3.1/AndroidClaw-latest.apk",
@@ -4650,6 +4766,7 @@
    "tag": "v3.1.2",
    "version": "3.1.2",
    "releasedAt": "2026-11-19T04:53:22Z",
+   "stars": 4560,
    "asset": {
     "name": "LU-3.1.2-Android.apk",
     "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v3.1.2/LU-3.1.2-Android.apk",
@@ -4679,6 +4796,7 @@
    "tag": "v0.0.125",
    "version": "0.0.125",
    "releasedAt": "2026-11-18T12:36:17Z",
+   "stars": 3409,
    "asset": {
     "name": "OffgridMobile-0.0.125.apk",
     "url": "https://github.com/off-grid-ai/OGAM/releases/download/v0.0.125/OffgridMobile-0.0.125.apk",
@@ -4708,6 +4826,7 @@
    "tag": "v1.7.0",
    "version": "1.7.0",
    "releasedAt": "2026-11-18T12:02:48Z",
+   "stars": 502,
    "asset": {
     "name": "pocket_llm_v1.7.0.apk",
     "url": "https://github.com/dineshsoudagar/local-llms-on-android/releases/download/v1.7.0/pocket_llm_v1.7.0.apk",
@@ -4737,6 +4856,7 @@
    "tag": "v1.14.1",
    "version": "1.14.1",
    "releasedAt": "2026-07-17T18:56:55Z",
+   "stars": 5048,
    "asset": {
     "name": "Komikku-arm64-v8a-v1.14.1.apk",
     "url": "https://github.com/komikku-app/komikku/releases/download/v1.14.1/Komikku-arm64-v8a-v1.14.1.apk",
@@ -4794,6 +4914,7 @@
    "tag": "1.13.2",
    "version": "1.13.2",
    "releasedAt": "2026-07-13T19:55:01Z",
+   "stars": 4218,
    "asset": {
     "name": "TachiyomiSY-arm64-v8a-v1.13.2.apk.apk",
     "url": "https://github.com/jobobby04/TachiyomiSY/releases/download/1.13.2/TachiyomiSY-arm64-v8a-v1.13.2.apk.apk",
@@ -4851,6 +4972,7 @@
    "tag": "1.4.0",
    "version": "1.4.0",
    "releasedAt": "2026-01-30T20:48:01Z",
+   "stars": 469,
    "asset": {
     "name": "calculator-10-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Calculator/releases/download/1.4.0/calculator-10-foss-release.apk",
@@ -4880,6 +5002,7 @@
    "tag": "1.6.0",
    "version": "1.6.0",
    "releasedAt": "2026-01-30T20:47:18Z",
+   "stars": 735,
    "asset": {
     "name": "clock-10-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Clock/releases/download/1.6.0/clock-10-foss-release.apk",
@@ -4909,6 +5032,7 @@
    "tag": "1.6.0",
    "version": "1.6.0",
    "releasedAt": "2026-01-30T20:46:34Z",
+   "stars": 956,
    "asset": {
     "name": "contacts-13-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Contacts/releases/download/1.6.0/contacts-13-foss-release.apk",
@@ -4938,6 +5062,7 @@
    "tag": "1.14.3",
    "version": "1.14.3",
    "releasedAt": "2026-11-21T17:10:52Z",
+   "stars": 3938,
    "asset": {
     "name": "gallery-52-foss-arm64-v8a-release.apk",
     "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.3/gallery-52-foss-arm64-v8a-release.apk",
@@ -4995,6 +5120,7 @@
    "tag": "1.10.3",
    "version": "1.10.3",
    "releasedAt": "2026-11-21T17:08:35Z",
+   "stars": 1662,
    "asset": {
     "name": "messages-27-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Messages/releases/download/1.10.3/messages-27-foss-release.apk",
@@ -5024,6 +5150,7 @@
    "tag": "1.7.0",
    "version": "1.7.0",
    "releasedAt": "2026-01-30T20:53:49Z",
+   "stars": 523,
    "asset": {
     "name": "notes-13-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Notes/releases/download/1.7.0/notes-13-foss-release.apk",
@@ -5053,6 +5180,7 @@
    "tag": "1.11.1",
    "version": "1.11.1",
    "releasedAt": "2026-02-03T02:36:23Z",
+   "stars": 1421,
    "asset": {
     "name": "phone-22-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Phone/releases/download/1.11.1/phone-22-foss-release.apk",
@@ -5082,6 +5210,7 @@
    "tag": "1.10.3",
    "version": "1.10.3",
    "releasedAt": "2026-11-21T17:08:35Z",
+   "stars": 1662,
    "asset": {
     "name": "messages-27-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Messages/releases/download/1.10.3/messages-27-foss-release.apk",
@@ -5111,6 +5240,7 @@
    "tag": "1.7.5",
    "version": "1.7.5",
    "releasedAt": "2026-11-21T17:09:25Z",
+   "stars": 1064,
    "asset": {
     "name": "voicerecorder-22-foss-release.apk",
     "url": "https://github.com/FossifyOrg/Voice-Recorder/releases/download/1.7.5/voicerecorder-22-foss-release.apk",

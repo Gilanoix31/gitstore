@@ -135,6 +135,21 @@ window.dispatchEvent(new window.Event('hashchange'));
 await wait(500);
 assert.match(view(), /In your catalog/);
 
+window.location.hash = '#/discover';
+window.dispatchEvent(new window.Event('hashchange'));
+await wait(150);
+const chip = [...document.querySelectorAll('[data-action="filter"]')].find((b) => b.dataset.filter === 'ai');
+assert.ok(chip, 'AI category chip exists');
+chip.dispatchEvent(new window.MouseEvent('click', { bubbles: true }));
+await wait(150);
+const expected = catalog.apps
+  .filter((a) => a.category === 'ai')
+  .sort((a, b) => (b.stars || 0) - (a.stars || 0) || String(a.name).localeCompare(String(b.name)))
+  .map((a) => a.repo);
+const actual = [...document.querySelectorAll('#catalogList .app-row .app-sub')].map((el) => el.textContent.trim());
+assert.deepEqual(actual, expected, 'category view must filter and sort by popularity');
+assert.match(view(), /by popularity/);
+
 window.location.hash = '#/settings';
 window.dispatchEvent(new window.Event('hashchange'));
 await wait(150);

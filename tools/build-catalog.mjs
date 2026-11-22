@@ -152,6 +152,13 @@ async function latestStableTag(repo) {
   return '';
 }
 
+async function fetchStars(repo) {
+  const page = await fetchText(`https://github.com/${repo}`);
+  if (!page.ok) return 0;
+  const m = /"stargazerCount":(\d+)/.exec(page.text);
+  return m ? Number(m[1]) : 0;
+}
+
 function releaseCandidates(tags, latestStable) {
   const ordered = [];
   const add = (t) => {
@@ -204,6 +211,7 @@ async function resolveRepo(seed) {
       tag,
       version: cleanVersion(tag),
       releasedAt: primary.releasedAt,
+      stars: await fetchStars(repo),
       asset: primary,
       assets,
     };

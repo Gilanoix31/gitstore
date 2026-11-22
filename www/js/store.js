@@ -199,6 +199,7 @@ export function buildEntry(seed, release) {
     tag: release.tag,
     version: cleanVersion(release.tag),
     releasedAt: primary.releasedAt || release.publishedAt || '',
+    stars: Number(seed.stars) || 0,
     asset: primary,
     assets,
     custom: Boolean(seed.custom),
