@@ -16,6 +16,8 @@ const KEY_SETTINGS = 'gs.settings.v1';
 const KEY_CATALOG = 'gs.catalog.v1';
 const KEY_CUSTOM = 'gs.custom.v1';
 const KEY_LIBRARY = 'gs.library.v1';
+const KEY_MIRROR = 'gs.mirror.v1';
+const REMOTE_CATALOG_URL = 'https://raw.githubusercontent.com/Gilanoix31/gitstore/master/www/data/catalog.json';
 
 const FEATURED = [
   'TeamNewPipe/NewPipe',
@@ -68,7 +70,7 @@ function rebuildMap() {
 }
 
 export async function init() {
-  state.settings = { theme: 'system', ...storageGet(KEY_SETTINGS, {}) };
+  state.settings = { theme: 'system', autoUpdate: false, ...storageGet(KEY_SETTINGS, {}) };
 
   let bundled = { apps: [], categories: [], generatedAt: '', stats: {} };
   try {
@@ -160,6 +162,42 @@ export function searchLocal(query) {
 
 export function settings() {
   return state.settings;
+}
+
+export async function mirrorCatalog(force = false) {
+  const last = Number(storageGet(KEY_MIRROR, 0)) || 0;
+  if (!force && Date.now() - last < 6 * 60 * 60 * 1000) return null;
+  try {
+    const res = await fetch(`${REMOTE_CATALOG_URL}?t=${Date.now()}`, { cache: 'no-store' });
+    if (!res.ok) return null;
+    const remote = await res.json();
+    if (!remote?.apps?.length) return null;
+    storageSet(KEY_MIRROR, Date.now());
+    const localAt = Date.parse(state.catalog.generatedAt || '') || 0;
+    const remoteAt = Date.parse(remote.generatedAt || '') || 0;
+    if (remoteAt <= localAt) return null;
+    const custom = storageGet(KEY_CUSTOM, []);
+    state.seedCategories = remote.categories?.length ? remote.categories : state.seedCategories;
+    state.catalog = {
+      apps: mergeApps(remote.apps, custom),
+      categories: remote.categories?.length ? remote.categories : state.catalog.categories,
+      generatedAt: remote.generatedAt,
+      stats: remote.stats || {},
+      skipped: remote.skipped || [],
+      customCount: custom.length,
+      refreshed: true,
+    };
+    storageSet(KEY_CATALOG, {
+      generatedAt: remote.generatedAt,
+      apps: remote.apps,
+      skipped: remote.skipped || [],
+      stats: remote.stats || {},
+    });
+    rebuildMap();
+    return state.catalog;
+  } catch {
+    return null;
+  }
 }
 
 export function saveSettings(patch) {
@@ -381,6 +419,51 @@ export function trackedApps() {
   return Object.values(lib)
     .map((entry) => ({ entry, app: appByRepo(entry.repo) }))
     .sort((a, b) => (b.entry.installedAt || 0) - (a.entry.installedAt || 0));
+}
+
+const GENERIC_PACKAGES = new Set(['app', 'android', 'mobile', 'client', 'main', 'org', 'com', 'net']);
+
+function normalizeText(value) {
+  return String(value || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+}
+
+export function scanMatches(installedApps = []) {
+  const results = [];
+  for (const installed of installedApps) {
+    if (installed.isSystem) continue;
+    const label = normalizeText(installed.label);
+    const pkgPart = normalizeText(String(installed.packageName || '').split('.').pop());
+    let best = null;
+    let bestScore = 0;
+    for (const app of state.catalog.apps) {
+      const name = normalizeText(app.name);
+      const [owner, repoName] = String(app.repo || '').split('/');
+      const ownerPart = normalizeText(owner);
+      const repoPart = normalizeText(repoName);
+      let score = 0;
+      if (name && (name === label || label.includes(name) || name.includes(label))) {
+        score = Math.max(score, 100 - Math.abs(name.length - label.length));
+      }
+      if (repoPart && (repoPart === label || label.includes(repoPart) || repoPart.includes(label))) {
+        score = Math.max(score, 88 - Math.abs(repoPart.length - label.length));
+      }
+      if (!GENERIC_PACKAGES.has(pkgPart) && pkgPart) {
+        if (pkgPart === repoPart || repoPart.includes(pkgPart) || pkgPart.includes(repoPart)) score = Math.max(score, 82);
+        if (pkgPart === name || name.includes(pkgPart)) score = Math.max(score, 78);
+        if (pkgPart === ownerPart) score = Math.max(score, 62);
+      }
+      if (score > bestScore) {
+        best = app;
+        bestScore = score;
+      }
+    }
+    if (best && bestScore >= 62) results.push({ installed, app: best, score: bestScore });
+  }
+  return results.sort((a, b) => b.score - a.score);
+}
+
+export function autoUpdateEnabled() {
+  return Boolean(state.settings.autoUpdate);
 }
 
 export function sortReleasesStableFirst(releases = []) {

@@ -13,7 +13,8 @@ const seeds = json('www/data/seeds.json');
 
 assert.ok(catalog.apps.length > 50, 'catalog should contain a useful number of apps');
 assert.ok(catalog.apps.every((a) => a.repo && a.assets?.length && a.asset?.url), 'every app needs an APK asset');
-assert.ok(seeds.seeds.length > 100, 'seed list should be populated');
+assert.ok(seeds.seeds.length > 500, 'seed list should be populated from broad GitHub discovery');
+assert.ok(catalog.apps.every((a) => Number(a.stars) > 0), 'every app should carry a popularity score');
 
 const util = await import(pathToFileURL(path.join(root, 'www/js/util.js')).href);
 assert.equal(util.compareVersions('1.2.0', '1.10.0'), -1);
@@ -155,11 +156,20 @@ window.dispatchEvent(new window.Event('hashchange'));
 await wait(150);
 assert.match(view(), /GitHub access/);
 assert.match(view(), /Refresh catalog/);
+assert.match(view(), /Auto-update tracked apps/);
+assert.match(view(), /Sync latest/);
+assert.match(view(), /v1\.1\.1/);
 
 window.location.hash = '#/library';
 window.dispatchEvent(new window.Event('hashchange'));
 await wait(150);
 assert.match(view(), /Library/);
+const scanTab = [...document.querySelectorAll('[data-action="lib-tab"]')].find((b) => b.dataset.tab === 'scan');
+assert.ok(scanTab, 'library should expose an installed-app scan tab');
+scanTab.dispatchEvent(new window.MouseEvent('click', { bubbles: true }));
+await wait(80);
+assert.match(view(), /Android only/);
+
 
 assert.equal(failures.length, 0, `unhandled rejections: ${failures.map(String).join(', ')}`);
 assert.ok(calls.some((u) => u.endsWith('data/catalog.json')), 'app should load the bundled catalog');

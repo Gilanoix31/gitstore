@@ -8,7 +8,7 @@ const CACHE = path.join(ROOT, 'tools', '.cache');
 const OUT = path.join(ROOT, 'www', 'data', 'catalog.json');
 const UA = 'GitStoreCatalogBot/1.0 (+https://github.com; catalog builder)';
 const MAX_TAGS_TO_TRY = 4;
-const CONCURRENCY = 4;
+const CONCURRENCY = 6;
 const OFFLINE = process.env.CATALOG_OFFLINE === '1';
 
 const cacheKey = (url) => createHash('sha1').update(url).digest('hex') + '.html';
@@ -220,6 +220,16 @@ async function resolveRepo(seed) {
   return { repo, category, reason: 'no apk in recent releases' };
 }
 
+function dedupeApps(apps) {
+  const best = new Map();
+  for (const app of apps) {
+    const key = `${app.category}|${String(app.name).toLowerCase()}`;
+    const prev = best.get(key);
+    if (!prev || (Number(app.stars) || 0) > (Number(prev.stars) || 0)) best.set(key, app);
+  }
+  return [...best.values()];
+}
+
 async function pool(items, limit, worker) {
   const results = new Array(items.length);
   let next = 0;
@@ -250,7 +260,7 @@ async function main() {
     return r;
   });
 
-  const apps = results.filter((r) => r.asset);
+  const apps = dedupeApps(results.filter((r) => r.asset));
   apps.sort((a, b) => {
     const ca = CATEGORIES.findIndex((c) => c.id === a.category);
     const cb = CATEGORIES.findIndex((c) => c.id === b.category);

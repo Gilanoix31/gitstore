@@ -24,6 +24,7 @@ import * as gh from './github.js';
 import * as native from './native.js';
 import * as store from './store.js';
 
+const APP_VERSION = '1.1.1';
 const memo = new Map();
 let pendingInstall = null;
 
@@ -38,6 +39,8 @@ const state = {
   installedLoading: false,
   installedError: '',
   installedQuery: '',
+  scanMatches: [],
+  autoRunning: false,
   showSystem: false,
   libTab: 'installed',
   checking: false,
@@ -690,9 +693,11 @@ async function installDirect(repo, asset, app) {
     toast('Installer opened. Confirm to finish.', 'success');
     setTimeout(() => loadInstalled(true), 2200);
     if (state.route.name === 'detail' && state.detail?.repo === repo) paintDetail();
+    return true;
   } catch (err) {
     hideProgress();
     toast(err.message || 'Install failed', 'error');
+    return false;
   }
 }
 
@@ -780,6 +785,7 @@ function libTabs(updates) {
       ['installed', `Installed${counts.installed ? ` ${counts.installed}` : ''}`],
       ['updates', `Updates${counts.updates ? ` ${counts.updates}` : ''}`],
       ['tracked', `Tracked${counts.tracked ? ` ${counts.tracked}` : ''}`],
+      ['scan', `Scan${state.scanMatches.length ? ` ${state.scanMatches.length}` : ''}`],
     ]
       .map(
         ([id, label]) =>
@@ -873,11 +879,38 @@ function trackedPanel() {
     .join('')}</div>`;
 }
 
+function scanPanel() {
+  if (!native.hasNative) {
+    return `<div class="empty">${icon('info', 30)}<h3>Android only</h3><p>Install the Android APK to scan installed apps.</p></div>`;
+  }
+  if (state.installedLoading && !state.installedLoaded) return skeleton(4);
+  const tracked = new Set(Object.values(store.getLibrary()).map((entry) => entry.packageName));
+  const matches = state.scanMatches;
+  if (!matches.length) {
+    return `<div class="empty">${icon('search', 30)}<h3>No matches found</h3><p>None of your installed apps matched the GitHub catalog by name or package.</p></div>`;
+  }
+  return `<div class="card"><div class="card-head"><h2>${matches.length} GitHub apps found</h2><span class="muted">tap Track to receive updates</span></div></div>
+    <div class="app-list">${matches
+      .map(
+        ({ installed, app }) => `<div class="app-row static">
+        ${appIcon(app)}
+        <div class="app-main">
+          <div class="app-title">${esc(installed.label)} <span class="badge ghost">${esc(app.name)}</span></div>
+          <div class="app-sub">${esc(installed.packageName)}</div>
+          <div class="app-meta"><span>v${esc(installed.versionName || '?')}</span><span>${esc(app.repo)}</span></div>
+        </div>
+        <button class="btn tiny ${tracked.has(installed.packageName) ? 'ghost' : 'primary'}" data-action="track-installed" data-repo="${esc(app.repo)}" data-package="${esc(installed.packageName)}" ${tracked.has(installed.packageName) ? 'disabled' : ''}>${tracked.has(installed.packageName) ? 'Tracked' : 'Track'}</button>
+      </div>`,
+      )
+      .join('')}</div>`;
+}
+
 async function renderLibrary() {
   if (!state.installedLoaded && native.hasNative && !state.installedLoading) {
     setView(`${pageHead('Library', 'Installed and tracked apps.')}${skeleton(5)}`);
     await loadInstalled(true);
   }
+  state.scanMatches = store.scanMatches(state.installed);
   const updates = store.getUpdates(state.installed);
   let body = '';
   if (state.libTab === 'installed') {
@@ -891,6 +924,8 @@ async function renderLibrary() {
       ${installedRows(updates)}`;
   } else if (state.libTab === 'updates') {
     body = `<div class="lib-tools"><button class="btn ghost" data-action="check-updates">${icon('refresh')} Check for updates</button></div>${updatesPanel(updates)}`;
+  } else if (state.libTab === 'scan') {
+    body = `<div class="lib-tools"><button class="btn ghost" data-action="refresh-installed">${icon('refresh')} Rescan device</button></div>${scanPanel()}`;
   } else {
     body = trackedPanel();
   }
@@ -979,12 +1014,19 @@ function renderSettings() {
     </section>
 
     <section class="card">
+      <div class="card-head"><h2>Updates</h2><span class="muted">${s.autoUpdate ? 'automatic' : 'manual'}</span></div>
+      <div class="kv"><span>Auto-update tracked apps</span><button class="btn tiny ${s.autoUpdate ? 'primary' : 'ghost'}" data-action="toggle-auto-update">${s.autoUpdate ? 'On' : 'Off'}</button></div>
+      <p class="hint">When GitStore opens, newer mirrored releases are downloaded and handed to Android's installer.</p>
+    </section>
+
+    <section class="card">
       <div class="card-head"><h2>Catalog</h2><span class="muted">${cat.apps.length} apps</span></div>
       <div class="kv"><span>Generated</span><b>${cat.generatedAt ? esc(timeAgo(cat.generatedAt)) : 'bundled'}</b></div>
       <div class="kv"><span>Source</span><b>github.com release assets</b></div>
       <div class="kv"><span>Seed repos</span><b>${store.seeds().length || '—'}</b></div>
       <div class="row-gap">
         <button class="btn primary" data-action="refresh-catalog">${icon('refresh')} Refresh catalog</button>
+        <button class="btn ghost" data-action="mirror-catalog">Sync latest</button>
         <button class="btn ghost" data-action="reset-catalog">Reset</button>
       </div>
       <p class="hint">Refresh scrapes github.com release pages for all seed repos. It uses no API token and no quota.</p>
@@ -999,7 +1041,7 @@ function renderSettings() {
     </section>
 
     <section class="card about">
-      <div class="brand-line">${icon('github', 22)} <b>GitStore</b> <span class="badge ghost">v1.0.0</span></div>
+      <div class="brand-line">${icon('github', 22)} <b>GitStore</b> <span class="badge ghost">v${APP_VERSION}</span></div>
       <p class="muted">A GitHub-only app store. The catalog is scraped from public release assets. Not affiliated with GitHub. GPL-3.0.</p>
     </section>
   `);
@@ -1244,6 +1286,25 @@ async function onViewClick(event) {
       store.saveSettings({ theme: target.dataset.theme });
       renderSettings();
       return;
+    case 'track-installed': {
+      const installed = state.installed.find((a) => a.packageName === target.dataset.package);
+      if (!installed) return;
+      store.saveLibraryEntry(target.dataset.repo, installed);
+      toast(`Tracking ${installed.label}`, 'success');
+      state.libTab = 'tracked';
+      renderLibrary();
+      return;
+    }
+    case 'toggle-auto-update':
+      store.saveSettings({ autoUpdate: !store.settings().autoUpdate });
+      toast(`Auto-update ${store.autoUpdateEnabled() ? 'enabled' : 'disabled'}`, 'success');
+      renderSettings();
+      return;
+    case 'mirror-catalog': {
+      const updated = await maybeMirror(true);
+      toast(updated ? 'Catalog synced' : 'Already up to date', updated ? 'success' : 'info');
+      return;
+    }
     case 'refresh-installed':
       state.installedLoaded = false;
       await loadInstalled(true);
@@ -1274,6 +1335,33 @@ async function onViewClick(event) {
   }
 }
 
+async function maybeMirror(force = false) {
+  const updated = await store.mirrorCatalog(force).catch(() => null);
+  if (!updated) return false;
+  toast(`Catalog updated · ${updated.apps.length} apps`, 'success');
+  await route();
+  if (native.hasNative && state.installedLoaded) runAutoUpdates();
+  return true;
+}
+
+async function runAutoUpdates() {
+  if (!native.hasNative || !store.autoUpdateEnabled() || state.autoRunning) return;
+  state.autoRunning = true;
+  try {
+    const updates = store.getUpdates(state.installed).slice(0, 3);
+    let sent = 0;
+    for (const update of updates) {
+      const asset = update.app.asset || pickPrimaryAsset(update.app.assets || []);
+      if (!asset) continue;
+      const ok = await installDirect(update.repo, asset, update.app);
+      if (ok) sent++;
+    }
+    if (sent) toast(`${sent} update${sent > 1 ? 's' : ''} sent to installer`, 'success');
+  } finally {
+    state.autoRunning = false;
+  }
+}
+
 async function boot() {
   $('#backBtn').addEventListener('click', () => {
     if (history.length > 1) history.back();
@@ -1285,6 +1373,8 @@ async function boot() {
   document.addEventListener('visibilitychange', async () => {
     if (document.hidden) return;
     refreshInstallPermission();
+    maybeMirror();
+    runAutoUpdates();
     if (pendingInstall) {
       const can = await native.canInstall().catch(() => ({ granted: false }));
       if (can.granted) {
@@ -1295,7 +1385,10 @@ async function boot() {
     }
   });
 
-  window.addEventListener('online', () => toast('Back online', 'success'));
+  window.addEventListener('online', () => {
+    toast('Back online', 'success');
+    maybeMirror();
+  });
   window.addEventListener('offline', () => toast('You are offline', 'error'));
 
   try {
@@ -1304,6 +1397,7 @@ async function boot() {
     console.error(err);
   }
   gh.pruneCache();
+  maybeMirror();
   await route();
 
   if (native.hasNative) {
@@ -1311,6 +1405,7 @@ async function boot() {
     loadInstalled(true).then(() => {
       if (state.route.name === 'discover') renderDiscover();
       if (state.route.name === 'detail') paintDetail();
+      runAutoUpdates();
     });
     refreshInstallPermission();
   }

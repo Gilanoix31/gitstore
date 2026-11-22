@@ -1,3 +1,8 @@
+import { createRequire } from 'node:module';
+
+const require = createRequire(import.meta.url);
+const discovered = require('./discovered.json');
+
 export const CATEGORIES = [
   { id: 'all', name: 'All apps' },
   { id: 'media', name: 'Media & Streaming' },
@@ -20,7 +25,7 @@ export const CATEGORIES = [
 
 // repo, category, name, description. The build script verifies each one has
 // an APK attached to a recent GitHub release and drops the rest.
-export const SEEDS = [
+const BASE_SEEDS = [
   // Media & streaming
   ['TeamNewPipe/NewPipe', 'media', 'NewPipe', 'Lightweight libre YouTube and streaming front-end.'],
   ['libre-tube/LibreTube', 'media', 'LibreTube', 'Alternative YouTube front-end with subscriptions and playlists.'],
@@ -224,3 +229,5 @@ export const SEEDS = [
   ['endless-sky/endless-sky', 'games', 'Endless Sky', 'Open-world space exploration game.'],
   ['vcmi/vcmi', 'games', 'VCMI', 'Open-source Heroes of Might and Magic III engine.'],
 ];
+
+export const SEEDS = [...BASE_SEEDS, ...discovered.seeds];

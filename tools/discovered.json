@@ -1,0 +1,4904 @@
+{
+ "seeds": [
+  [
+   "morluto/rea",
+   "ai",
+   "Rea",
+   "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   473072
+  ],
+  [
+   "flutter/flutter",
+   "tools",
+   "Flutter",
+   "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+   181373
+  ],
+  [
+   "Genymobile/scrcpy",
+   "lifestyle",
+   "Scrcpy",
+   "Display and control your Android device",
+   155362
+  ],
+  [
+   "react/react-native",
+   "tools",
+   "React Native",
+   "A framework for building native applications using React",
+   126993
+  ],
+  [
+   "Hack-with-Github/Awesome-Hacking",
+   "privacy",
+   "Awesome Hacking",
+   "A collection of various awesome lists for hackers, pentesters and security researchers",
+   126185
+  ],
+  [
+   "justjavac/free-programming-books-zh_CN",
+   "reading",
+   "Free Programming Books Zh CN",
+   ":books: \u514d\u8d39\u7684\u8ba1\u7b97\u673a\u7f16\u7a0b\u7c7b\u4e2d\u6587\u4e66\u7c4d\uff0c\u6b22\u8fce\u6295\u7a3f",
+   119682
+  ],
+  [
+   "2dust/v2rayNG",
+   "privacy",
+   "V2rayNG",
+   "A V2Ray client for Android, support Xray core and v2fly core",
+   66323
+  ],
+  [
+   "tldr-pages/tldr",
+   "reading",
+   "Tldr",
+   "Collaborative cheatsheets for console commands \ud83d\udcda.",
+   64270
+  ],
+  [
+   "topjohnwu/Magisk",
+   "privacy",
+   "Magisk",
+   "The Magic Mask for Android",
+   64196
+  ],
+  [
+   "Solido/awesome-flutter",
+   "privacy",
+   "Awesome Flutter",
+   "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+   62001
+  ],
+  [
+   "Gathin23/cleanyourtv",
+   "ai",
+   "Cleanyourtv",
+   "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+   60143
+  ],
+  [
+   "wasabeef/awesome-android-ui",
+   "tools",
+   "Awesome Ui",
+   "A curated list of awesome Android UI/UX libraries",
+   58611
+  ],
+  [
+   "appwrite/appwrite",
+   "launchers",
+   "Appwrite",
+   "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+   58527
+  ],
+  [
+   "laurent22/joplin",
+   "privacy",
+   "Joplin",
+   "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+   57289
+  ],
+  [
+   "google/material-design-icons",
+   "tools",
+   "Material Design Icons",
+   "Material Design icons by Google (Material Symbols)",
+   54350
+  ],
+  [
+   "expo/expo",
+   "dev",
+   "Expo",
+   "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+   53709
+  ],
+  [
+   "skylot/jadx",
+   "dev",
+   "Jadx",
+   "Dex to Java decompiler",
+   51932
+  ],
+  [
+   "team-spotube/spotube",
+   "music",
+   "Spotube",
+   "\ud83c\udfa7 Open source music streaming app! Available for both desktop & mobile!",
+   50881
+  ],
+  [
+   "lysine-dev/okhttp",
+   "tools",
+   "Okhttp",
+   "A meticulous HTTP client for the JVM, Android, and GraalVM.",
+   47117
+  ],
+  [
+   "android/architecture-samples",
+   "tools",
+   "Architecture Samples",
+   "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+   45904
+  ],
+  [
+   "gkd-kit/gkd",
+   "privacy",
+   "Gkd",
+   "\u57fa\u4e8e\u65e0\u969c\u788d\uff0c\u9ad8\u7ea7\u9009\u62e9\u5668\uff0c\u8ba2\u9605\u89c4\u5219\u7684\u81ea\u5b9a\u4e49\u5c4f\u5e55\u70b9\u51fb\u5b89\u5353\u5e94\u7528 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+   45197
+  ],
+  [
+   "lysine-dev/retrofit",
+   "emulation",
+   "Retrofit",
+   "A type-safe HTTP client for Android and the JVM",
+   43941
+  ],
+  [
+   "sxyazi/yazi",
+   "dev",
+   "Yazi",
+   "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.",
+   43576
+  ],
+  [
+   "Predidit/Kazumi",
+   "tools",
+   "Kazumi",
+   "\u57fa\u4e8e\u81ea\u5b9a\u4e49\u89c4\u5219\u7684\u756a\u5267\u91c7\u96c6APP\uff0c\u652f\u6301\u6d41\u5a92\u4f53\u5728\u7ebf\u89c2\u770b\uff0c\u652f\u6301\u5f39\u5e55\uff0c\u652f\u6301\u5b9e\u65f6\u8d85\u5206\u8fa8\u7387\u3002",
+   43518
+  ],
+  [
+   "fastlane/fastlane",
+   "dev",
+   "Fastlane",
+   "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps",
+   42425
+  ],
+  [
+   "dcloudio/uni-app",
+   "dev",
+   "Uni",
+   "A cross-platform framework using Vue.js",
+   41696
+  ],
+  [
+   "DioxusLabs/dioxus",
+   "tools",
+   "Dioxus",
+   "Fullstack app framework for web, desktop, and mobile.",
+   39874
+  ],
+  [
+   "PhilJay/MPAndroidChart",
+   "reading",
+   "MPAndroidChart",
+   "A powerful \ud83d\ude80 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+   38186
+  ],
+  [
+   "google-ai-edge/mediapipe",
+   "ai",
+   "Mediapipe",
+   "Cross-platform, customizable ML solutions for live and streaming media.",
+   37777
+  ],
+  [
+   "shadowsocks/shadowsocks-android",
+   "tools",
+   "Shadowsocks",
+   "A shadowsocks client for Android",
+   36847
+  ],
+  [
+   "yuliskov/SmartTube",
+   "emulation",
+   "SmartTube",
+   "Browse media content with your own rules on Android TV",
+   36536
+  ],
+  [
+   "airbnb/lottie-android",
+   "tools",
+   "Lottie",
+   "Render After Effects animations natively on Android and iOS, Web, and React Native",
+   35776
+  ],
+  [
+   "raysan5/raylib",
+   "games",
+   "Raylib",
+   "A simple and easy-to-use library to enjoy videogames programming",
+   35763
+  ],
+  [
+   "bumptech/glide",
+   "media",
+   "Glide",
+   "An image loading and caching library for Android focused on smooth scrolling",
+   35007
+  ],
+  [
+   "xitu/gold-miner",
+   "ai",
+   "Gold Miner",
+   "\ud83e\udd47\u6398\u91d1\u7ffb\u8bd1\u8ba1\u5212\uff0c\u53ef\u80fd\u662f\u4e16\u754c\u6700\u5927\u6700\u597d\u7684\u82f1\u8bd1\u4e2d\u6280\u672f\u793e\u533a\uff0c\u6700\u61c2\u8bfb\u8005\u548c\u8bd1\u8005\u7684\u7ffb\u8bd1\u5e73\u53f0\uff1a",
+   34380
+  ],
+  [
+   "zxing/zxing",
+   "social",
+   "Zxing",
+   "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
+   34216
+  ],
+  [
+   "Blankj/AndroidUtilCode",
+   "maps",
+   "AndroidUtilCode",
+   ":fire: Android developers should collect the following utils(updating).",
+   33596
+  ],
+  [
+   "google/comprehensive-rust",
+   "maps",
+   "Comprehensive Rust",
+   "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+   33558
+  ],
+  [
+   "bilibili/ijkplayer",
+   "music",
+   "Ijkplayer",
+   "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+   33230
+  ],
+  [
+   "barry-ran/QtScrcpy",
+   "lifestyle",
+   "QtScrcpy",
+   "Android real-time display control software",
+   32979
+  ],
+  [
+   "AvaloniaUI/Avalonia",
+   "emulation",
+   "Avalonia",
+   "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI",
+   31855
+  ],
+  [
+   "Trinea/android-open-project",
+   "tools",
+   "Open Project",
+   "A categorized collection of Android Open Source Projects, More powerful web version:",
+   31818
+  ],
+  [
+   "librepods-org/librepods",
+   "emulation",
+   "Librepods",
+   "AirPods liberated from Apple's ecosystem.",
+   30918
+  ],
+  [
+   "TelegramMessenger/Telegram-Android",
+   "social",
+   "Telegram",
+   "Telegram for Android source",
+   30370
+  ],
+  [
+   "ente/ente",
+   "privacy",
+   "Ente",
+   "\ud83d\udc9a End-to-end encrypted cloud for everything.",
+   30369
+  ],
+  [
+   "ReVanced/revanced-manager",
+   "productivity",
+   "Revanced Manager",
+   "\ud83d\udc8a Application to use ReVanced on Android",
+   30222
+  ],
+  [
+   "square/leakcanary",
+   "reading",
+   "Leakcanary",
+   "A memory leak detection library for Android.",
+   30008
+  ],
+  [
+   "ccch1mneyyy/dsh-Go",
+   "emulation",
+   "Dsh Go",
+   "dsh-go \u2014 DeepSeek Harness \u88c5\u8fdb\u53e3\u888b\uff1a\u624b\u673a\u672c\u673a\u8fd0\u884c\uff0c\u4e5f\u80fd\u9065\u63a7\u4f60\u7684\u7535\u8111\u3002",
+   29778
+  ],
+  [
+   "signalapp/Signal-Android",
+   "social",
+   "Signal",
+   "A private messenger for Android.",
+   29682
+  ],
+  [
+   "xiaojieonly/Ehviewer_CN_SXJ",
+   "emulation",
+   "Ehviewer CN SXJ",
+   "ehviewer\uff0c\u7528\u7231\u53d1\u7535\uff0c\u5feb\u4e50\u524d\u884c",
+   29444
+  ],
+  [
+   "youhunwl/TVAPP",
+   "media",
+   "TVAPP",
+   "\u6536\u96c6\u5168\u7f51 Android TV\u7535\u89c6\u76d2\u5b50\u5e94\u7528\uff0c\u6db5\u76d6\u5f71\u89c6\u3001\u76f4\u64ad\u3001K\u6b4c\u3001\u5de5\u5177\u3001\u6e38\u620f\u7b49\u7c7b\u578b\uff0c\u6574\u7406\u4f18\u8d28APK\u8d44\u6e90\uff0c\u652f\u6301\u4fbf\u6377\u4e0b\u8f7d\u4e0e\u81ea\u52a8\u66f4\u65b0\u3002\u63d0\u4f9b\u5b89\u5168\u9a8c\u8bc1\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e\u517c\u5bb9\u6027\u6807\u6ce8\uff0c\u52a9\u529b\u7528\u6237\u6253\u9020\u5bb6\u5ead\u5f71\u97f3\u5a31\u4e50\u4e2d\u5fc3\uff01 \u2705 TVBox/\u5f71\u89c6\u4ed3\u7b49\u5f71\u97f3\u58f3\u63a5\u53e3\u914d\u7f6e\u6e90\u3002",
+   29107
+  ],
+  [
+   "pppscn/SmsForwarder",
+   "ai",
+   "SmsForwarder",
+   "\u77ed\u4fe1\u8f6c\u53d1\u5668\u2014\u2014\u76d1\u63a7Android\u624b\u673a\u77ed\u4fe1\u3001\u6765\u7535\u3001APP\u901a\u77e5\uff0c\u5e76\u6839\u636e\u6307\u5b9a\u89c4\u5219\u8f6c\u53d1\u5230\u5176\u4ed6\u624b\u673a\uff1a\u9489\u9489\u7fa4\u81ea\u5b9a\u4e49\u673a\u5668\u4eba\u3001\u9489\u9489\u4f01\u4e1a\u5185\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u7fa4\u673a\u5668\u4eba\u3001\u98de\u4e66\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u5e94\u7528\u6d88\u606f\u3001\u90ae\u7bb1\u3001bark\u3001webhook\u3001Telegram\u673a\u5668\u4eba\u3001Server\u9171\u3001PushPlus\u3001\u624b\u673a\u77ed\u4fe1\u7b49\u3002\u5305\u62ec\u4e3b\u52a8\u63a7\u5236\u670d\u52a1\u7aef\u4e0e\u5ba2\u6237\u7aef\uff0c\u8ba9\u4f60\u8f7b\u677e\u8fdc\u7a0b\u53d1\u77ed\u4fe1\u3001\u67e5\u77ed\u4fe1\u3001\u67e5\u901a\u8bdd\u3001\u67e5\u8bdd\u7c3f\u3001\u67e5\u7535\u91cf\u7b49\u3002",
+   28976
+  ],
+  [
+   "fyne-io/fyne",
+   "launchers",
+   "Fyne",
+   "Cross platform GUI toolkit in Go inspired by Material Design",
+   28855
+  ],
+  [
+   "codepath/android_guides",
+   "privacy",
+   "Guides",
+   "Extensive Open-Source Guides for Android Developers",
+   28343
+  ],
+  [
+   "GopeedLab/gopeed",
+   "privacy",
+   "Gopeed",
+   "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
+   27882
+  ],
+  [
+   "BeyondDimension/SteamTools",
+   "emulation",
+   "SteamTools",
+   "\ud83d\udee0\u300cWatt Toolkit\u300d\u662f\u4e00\u4e2a\u5f00\u6e90\u8de8\u5e73\u53f0\u7684\u591a\u529f\u80fd Steam \u5de5\u5177\u7bb1\u3002",
+   27688
+  ],
+  [
+   "iBotPeaches/Apktool",
+   "productivity",
+   "Apktool",
+   "A tool for reverse engineering Android apk files",
+   27325
+  ],
+  [
+   "quasarframework/quasar",
+   "launchers",
+   "Quasar",
+   "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+   27197
+  ],
+  [
+   "react-native-elements/react-native-elements",
+   "lifestyle",
+   "React Native Elements",
+   "Cross-Platform React Native UI Toolkit",
+   25868
+  ],
+  [
+   "NativeScript/NativeScript",
+   "dev",
+   "NativeScript",
+   "\u26a1 Write Native with TypeScript \u2728 Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love \u2764\ufe0f Angular, React, Solid, Svelte, Vue with: iOS (UIKit, ",
+   25710
+  ],
+  [
+   "LSPosed/LSPosed",
+   "tools",
+   "LSPosed",
+   "LSPosed Framework",
+   25593
+  ],
+  [
+   "libgdx/libgdx",
+   "games",
+   "Libgdx",
+   "Desktop/Android/HTML5/iOS Java game development framework",
+   25549
+  ],
+  [
+   "JakeWharton/butterknife",
+   "tools",
+   "Butterknife",
+   "Bind Android views and callbacks to fields and methods.",
+   25307
+  ],
+  [
+   "scwang90/SmartRefreshLayout",
+   "privacy",
+   "SmartRefreshLayout",
+   "\ud83d\udd25\u4e0b\u62c9\u5237\u65b0\u3001\u4e0a\u62c9\u52a0\u8f7d\u3001\u4e8c\u7ea7\u5237\u65b0\u3001\u6dd8\u5b9d\u4e8c\u697c\u3001RefreshLayout\u3001OverScroll\uff0cAndroid\u667a\u80fd\u4e0b\u62c9\u5237\u65b0\u6846\u67b6\uff0c\u652f\u6301\u8d8a\u754c\u56de\u5f39\u3001\u8d8a\u754c\u62d6\u52a8\uff0c\u5177\u6709\u6781\u5f3a\u7684\u6269\u5c55\u6027\uff0c\u96c6\u6210\u4e86\u51e0\u5341\u79cd\u70ab\u9177\u7684Header\u548c Footer\u3002",
+   25080
+  ],
+  [
+   "greenrobot/EventBus",
+   "maps",
+   "EventBus",
+   "Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.",
+   24674
+  ],
+  [
+   "getpaseo/paseo",
+   "ai",
+   "Paseo",
+   "Orchestrate multiple coding agents from desktop and mobile",
+   24636
+  ],
+  [
+   "CymChad/BaseRecyclerViewAdapterHelper",
+   "health",
+   "BaseRecyclerViewAdapterHelper",
+   "BRVAH:Powerful and flexible RecyclerAdapter",
+   24554
+  ],
+  [
+   "Tencent/ncnn",
+   "ai",
+   "Ncnn",
+   "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+   24085
+  ],
+  [
+   "super-productivity/super-productivity",
+   "health",
+   "Super Productivity",
+   "A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.",
+   23924
+  ],
+  [
+   "android/compose-samples",
+   "tools",
+   "Compose Samples",
+   "Official Jetpack Compose samples.",
+   23568
+  ],
+  [
+   "dotnet/maui",
+   "lifestyle",
+   "Maui",
+   ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+   23322
+  ],
+  [
+   "DuarteSantos8/openGym",
+   "emulation",
+   "OpenGym",
+   "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from St",
+   23179
+  ],
+  [
+   "MobSF/Mobile-Security-Framework-MobSF",
+   "privacy",
+   "Mobile Security Framework MobSF",
+   "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of pe",
+   22290
+  ],
+  [
+   "appium/appium",
+   "dev",
+   "Appium",
+   "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
+   22244
+  ],
+  [
+   "jarun/nnn",
+   "launchers",
+   "Nnn",
+   "n\u00b3 The unorthodox terminal file manager",
+   22138
+  ],
+  [
+   "android/nowinandroid",
+   "tools",
+   "Nowinandroid",
+   "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+   22115
+  ],
+  [
+   "open-ani/animeko",
+   "manga",
+   "Animeko",
+   "\u96c6\u627e\u756a\u3001\u8ffd\u756a\u3001\u770b\u756a\u7684\u4e00\u7ad9\u5f0f\u5f39\u5e55\u8ffd\u756a\u5e73\u53f0\uff0c\u4e91\u6536\u85cf\u540c\u6b65 (Bangumi)\uff0c\u79bb\u7ebf\u7f13\u5b58\uff0cBitTorrent\uff0c\u5f39\u5e55\u4e91\u8fc7\u6ee4\u3002100% Kotlin/Compose Multiplatform",
+   21980
+  ],
+  [
+   "komi-store/komi-store",
+   "privacy",
+   "Komi Store",
+   "\ud83e\ude75 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo \u2014 browse, discover, and install apps with one click. Formerly GitHub Store.",
+   21850
+  ],
+  [
+   "CarGuo/GSYVideoPlayer",
+   "emulation",
+   "GSYVideoPlayer",
+   "Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pr",
+   21538
+  ],
+  [
+   "iampawan/FlutterExampleApps",
+   "tools",
+   "FlutterExampleApps",
+   "[Example APPS] Basic Flutter apps, for flutter devs.",
+   21502
+  ],
+  [
+   "Droid-Deck/DroidDeck",
+   "games",
+   "DroidDeck",
+   "DroidDeck brings the SteamOS experience to Android",
+   21253
+  ],
+  [
+   "bggRGjQaUbCoE/PiliPlus",
+   "tools",
+   "PiliPlus",
+   "PiliPlus",
+   21229
+  ],
+  [
+   "tiann/KernelSU",
+   "privacy",
+   "KernelSU",
+   "A Kernel based root solution for Android",
+   20883
+  ],
+  [
+   "google/filament",
+   "tools",
+   "Filament",
+   "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2",
+   20784
+  ],
+  [
+   "0x192/universal-android-debloater",
+   "privacy",
+   "Universal Debloater",
+   "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+   20462
+  ],
+  [
+   "didi/DoKit",
+   "privacy",
+   "DoKit",
+   "\u4e00\u6b3e\u9762\u5411\u6cdb\u524d\u7aef\u4ea7\u54c1\u7814\u53d1\u5168\u751f\u547d\u5468\u671f\u7684\u6548\u7387\u5e73\u53f0\u3002",
+   20420
+  ],
+  [
+   "futurice/android-best-practices",
+   "tools",
+   "Best Practices",
+   "Do's and Don'ts for Android development, by Futurice developers",
+   20398
+  ],
+  [
+   "GeekyAnts/NativeBase",
+   "lifestyle",
+   "NativeBase",
+   "Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.",
+   20367
+  ],
+  [
+   "ReactiveX/RxAndroid",
+   "tools",
+   "RxAndroid",
+   "RxJava bindings for Android",
+   19890
+  ],
+  [
+   "JetBrains/compose-multiplatform",
+   "dev",
+   "Compose Multiplatform",
+   "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+   19492
+  ],
+  [
+   "cocos2d/cocos2d-x",
+   "games",
+   "Cocos2d X",
+   "Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for",
+   19252
+  ],
+  [
+   "MustardChef/WSABuilds",
+   "emulation",
+   "WSABuilds",
+   "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) buil",
+   19117
+  ],
+  [
+   "kivy/kivy",
+   "health",
+   "Kivy",
+   "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+   19030
+  ],
+  [
+   "framework7io/framework7",
+   "reading",
+   "Framework7",
+   "Full featured HTML framework for building iOS & Android apps",
+   18787
+  ],
+  [
+   "Baseflow/PhotoView",
+   "media",
+   "PhotoView",
+   "Implementation of ImageView for Android that supports zooming, by various touch gestures.",
+   18787
+  ],
+  [
+   "Tencent/MMKV",
+   "privacy",
+   "MMKV",
+   "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.",
+   18779
+  ],
+  [
+   "square/picasso",
+   "media",
+   "Picasso",
+   "A powerful image downloading and caching library for Android",
+   18754
+  ],
+  [
+   "alibaba/weex",
+   "tools",
+   "Weex",
+   "A framework for building Mobile cross-platform UI",
+   18499
+  ],
+  [
+   "google/artemis",
+   "ai",
+   "Artemis",
+   "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants ",
+   17876
+  ],
+  [
+   "Tencent/tinker",
+   "social",
+   "Tinker",
+   "Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+   17668
+  ],
+  [
+   "flet-dev/flet",
+   "dev",
+   "Flet",
+   "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+   17583
+  ],
+  [
+   "xiaye13579/BBLL",
+   "media",
+   "BBLL",
+   "\u4e00\u4e2a\u7b2c\u4e09\u65b9\u54d4\u54e9\u54d4\u54e9\u5ba2\u6237\u7aef\uff0cA third-party bilibili client\u3002",
+   17509
+  ],
+  [
+   "material-components/material-components-android",
+   "tools",
+   "Material Components",
+   "[MAINTENANCE MODE] Modular and customizable Material Design UI components for Android",
+   17470
+  ],
+  [
+   "termux/termux-packages",
+   "dev",
+   "Termux Packages",
+   "A package build system for Termux.",
+   17430
+  ],
+  [
+   "meta/fresco",
+   "media",
+   "Fresco",
+   "An Android library for managing images and the memory they use.",
+   17162
+  ],
+  [
+   "ionic-team/capacitor",
+   "privacy",
+   "Capacitor",
+   "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web \u26a1\ufe0f",
+   17135
+  ],
+  [
+   "nostra13/Android-Universal-Image-Loader",
+   "media",
+   "Universal Image Loader",
+   "Powerful and flexible library for loading, caching and displaying images on Android.",
+   16788
+  ],
+  [
+   "mobile-dev-inc/Maestro",
+   "dev",
+   "Maestro",
+   "Painless E2E Automation for Mobile and Web",
+   16482
+  ],
+  [
+   "budtmo/docker-android",
+   "emulation",
+   "Docker",
+   "Android in docker solution with noVNC supported, video recording, mcp server and AI-agent",
+   16186
+  ],
+  [
+   "nickbutcher/plaid",
+   "reading",
+   "Plaid",
+   "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
+   16153
+  ],
+  [
+   "android-hacker/VirtualXposed",
+   "privacy",
+   "VirtualXposed",
+   "A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.",
+   16089
+  ],
+  [
+   "Konloch/bytecode-viewer",
+   "privacy",
+   "Bytecode Viewer",
+   "A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",
+   15729
+  ],
+  [
+   "android10/Android-CleanArchitecture",
+   "tools",
+   "CleanArchitecture",
+   "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
+   15526
+  ],
+  [
+   "alphacep/vosk-api",
+   "emulation",
+   "Vosk Api",
+   "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+   15280
+  ],
+  [
+   "OrchestratorInc/agent-orchestrator",
+   "ai",
+   "Agent Orchestrator",
+   "Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps. Supports Claude Code, Codex & 35+ coding agents.",
+   15003
+  ],
+  [
+   "MetrolistGroup/Metrolist",
+   "music",
+   "Metrolist",
+   "Material Design YouTube Music client for Android, iOS and desktop",
+   14795
+  ],
+  [
+   "Tencent/QMUI_Android",
+   "tools",
+   "QMUI",
+   "\u63d0\u9ad8 Android UI \u5f00\u53d1\u6548\u7387\u7684 UI \u5e93",
+   14476
+  ],
+  [
+   "hdodenhof/CircleImageView",
+   "launchers",
+   "CircleImageView",
+   "A circular ImageView for Android",
+   14459
+  ],
+  [
+   "alibaba/ARouter",
+   "maps",
+   "ARouter",
+   "\ud83d\udcaa A framework for assisting in the renovation of Android componentization (\u5e2e\u52a9 Android App \u8fdb\u884c\u7ec4\u4ef6\u5316\u6539\u9020\u7684\u8def\u7531\u6846\u67b6)",
+   14447
+  ],
+  [
+   "thunderbird/thunderbird-android",
+   "social",
+   "Thunderbird",
+   "Thunderbird for Android \u2013 Open Source Email App for Android (fka K-9 Mail)",
+   14260
+  ],
+  [
+   "shihabal3amri/DiPlay",
+   "tools",
+   "DiPlay",
+   "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+   14072
+  ],
+  [
+   "orhanobut/logger",
+   "tools",
+   "Logger",
+   "\u2714\ufe0f Simple, pretty and powerful logger for android",
+   13827
+  ],
+  [
+   "JessYanCoding/AndroidAutoSize",
+   "tools",
+   "AndroidAutoSize",
+   "\ud83d\udd25 A low-cost Android screen adaptation solution (\u4eca\u65e5\u5934\u6761\u5c4f\u5e55\u9002\u914d\u65b9\u6848\u7ec8\u6781\u7248\uff0c\u4e00\u4e2a\u6781\u4f4e\u6210\u672c\u7684 Android \u5c4f\u5e55\u9002\u914d\u65b9\u6848).",
+   13723
+  ],
+  [
+   "LuckSiege/PictureSelector",
+   "privacy",
+   "PictureSelector",
+   "Picture Selector Library for Android or \u56fe\u7247\u9009\u62e9\u5668",
+   13574
+  ],
+  [
+   "lgvalle/Material-Animations",
+   "maps",
+   "Material Animations",
+   "Android Transition animations explanation with examples.",
+   13522
+  ],
+  [
+   "Bigkoo/Android-PickerView",
+   "tools",
+   "PickerView",
+   "This is a picker view for android , support linkage effect, timepicker and optionspicker.\uff08\u65f6\u95f4\u9009\u62e9\u5668\u3001\u7701\u5e02\u533a\u4e09\u7ea7\u8054\u52a8\uff09",
+   13411
+  ],
+  [
+   "OWASP/mastg",
+   "emulation",
+   "Mastg",
+   "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for ",
+   13366
+  ],
+  [
+   "pxb1988/dex2jar",
+   "productivity",
+   "Dex2jar",
+   "Tools to work with android .dex and java .class files",
+   13152
+  ],
+  [
+   "youth5201314/banner",
+   "privacy",
+   "Banner",
+   "\ud83d\udd25\ud83d\udd25\ud83d\udd25Banner 2.0 \u6765\u4e86\uff01Android\u5e7f\u544a\u56fe\u7247\u8f6e\u64ad\u63a7\u4ef6\uff0c\u5185\u90e8\u57fa\u4e8eViewPager2\u5b9e\u73b0\uff0cIndicator\u548cUI\u90fd\u53ef\u4ee5\u81ea\u5b9a\u4e49\u3002",
+   13002
+  ],
+  [
+   "pengchujin/aerial-tv",
+   "launchers",
+   "Aerial Tv",
+   "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+   12877
+  ],
+  [
+   "greenrobot/greenDAO",
+   "maps",
+   "GreenDAO",
+   "greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.",
+   12578
+  ],
+  [
+   "zhihu/Matisse",
+   "privacy",
+   "Matisse",
+   ":fireworks: A well-designed local image and video selector for Android",
+   12489
+  ],
+  [
+   "daimajia/AndroidViewAnimations",
+   "tools",
+   "AndroidViewAnimations",
+   "Cute view animation collection.",
+   12429
+  ],
+  [
+   "amitshekhariitbhu/android-interview-questions",
+   "emulation",
+   "Interview Questions",
+   "Your Cheat Sheet For Android Interview - Android Interview Questions and Answers",
+   12366
+  ],
+  [
+   "daimajia/AndroidSwipeLayout",
+   "tools",
+   "AndroidSwipeLayout",
+   "The Most Powerful Swipe Layout!",
+   12342
+  ],
+  [
+   "Tamsiree/RxTool",
+   "maps",
+   "RxTool",
+   "Android\u5f00\u53d1\u4eba\u5458\u4e0d\u5f97\u4e0d\u6536\u96c6\u7684\u5de5\u5177\u7c7b\u96c6\u5408 | \u652f\u4ed8\u5b9d\u652f\u4ed8 | \u5fae\u4fe1\u652f\u4ed8\uff08\u7edf\u4e00\u4e0b\u5355\uff09 | \u5fae\u4fe1\u5206\u4eab | Zip4j\u538b\u7f29\uff08\u652f\u6301\u5206\u5377\u538b\u7f29\u4e0e\u52a0\u5bc6\uff09 | \u4e00\u952e\u96c6\u6210UCrop\u9009\u62e9\u5706\u5f62\u5934\u50cf | \u4e00\u952e\u96c6\u6210\u4e8c\u7ef4\u7801\u548c\u6761\u5f62\u7801\u7684\u626b\u63cf\u4e0e\u751f\u6210 | \u5e38\u7528Dialog | WebView\u7684\u5c01\u88c5\u53ef\u64ad\u653e\u89c6\u9891 | \u4eff\u6597\u9c7c\u6ed1\u52a8\u9a8c\u8bc1\u7801 | Toast\u5c01\u88c5 | \u9707\u52a8 | GPS | Locatio",
+   12287
+  ],
+  [
+   "Yalantis/uCrop",
+   "media",
+   "UCrop",
+   "Image Cropping Library for Android",
+   12078
+  ],
+  [
+   "utkarshdalal/GameNative",
+   "games",
+   "GameNative",
+   "Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android",
+   11966
+  ],
+  [
+   "coil-kt/coil",
+   "emulation",
+   "Coil",
+   "Image loading for Android and Compose Multiplatform.",
+   11962
+  ],
+  [
+   "ZCShou/GoGoGo",
+   "maps",
+   "GoGoGo",
+   "\u4e00\u4e2a\u57fa\u4e8e Android \u8c03\u8bd5 API + \u767e\u5ea6\u5730\u56fe\u5b9e\u73b0\u7684\u865a\u62df\u5b9a\u4f4d\u5de5\u5177\uff0c\u5e76\u4e14\u540c\u65f6\u5b9e\u73b0\u4e86\u4e00\u4e2a\u53ef\u4ee5\u81ea\u7531\u79fb\u52a8\u7684\u6447\u6746",
+   11893
+  ],
+  [
+   "YiiGuxing/TranslationPlugin",
+   "ai",
+   "TranslationPlugin",
+   "Translation plugin for IntelliJ-based IDEs/Android Studio.",
+   11870
+  ],
+  [
+   "Tencent/VasSonic",
+   "health",
+   "VasSonic",
+   "VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS",
+   11845
+  ],
+  [
+   "mikepenz/MaterialDrawer",
+   "launchers",
+   "MaterialDrawer",
+   "The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.",
+   11642
+  ],
+  [
+   "wasabeef/recyclerview-animators",
+   "health",
+   "Recyclerview Animators",
+   "An Android Animation library which easily add itemanimator to RecyclerView items.",
+   11522
+  ],
+  [
+   "gyf-dev/ImmersionBar",
+   "launchers",
+   "ImmersionBar",
+   "android 4.4\u4ee5\u4e0a\u6c89\u6d78\u5f0f\u72b6\u6001\u680f\u548c\u6c89\u6d78\u5f0f\u5bfc\u822a\u680f\u7ba1\u7406\uff0c\u9002\u914d\u6a2a\u7ad6\u5c4f\u5207\u6362\u3001\u5218\u6d77\u5c4f\u3001\u8f6f\u952e\u76d8\u5f39\u51fa\u7b49\u95ee\u9898\uff0c\u53ef\u4ee5\u4fee\u6539\u72b6\u6001\u680f\u5b57\u4f53\u989c\u8272\u548c\u5bfc\u822a\u680f\u56fe\u6807\u989c\u8272\uff0c\u4ee5\u53ca\u4e0d\u53ef\u4fee\u6539\u5b57\u4f53\u989c\u8272\u624b\u673a\u7684\u9002\u914d\uff0c\u9002\u7528\u4e8eActivity\u3001Fragment\u3001DialogFragment\u3001Dialog\uff0cPopupWindow\uff0c\u4e00\u53e5\u4ee3\u7801\u8f7b\u677e\u5b9e\u73b0\uff0c\u4ee5\u53ca\u5bf9bar\u7684\u5176\u4ed6\u8bbe\u7f6e\uff0c\u8be6\u89c1README\u3002\u7b80\u4e66\u8bf7\u53c2\u8003\uff1ahtt",
+   11479
+  ],
+  [
+   "daniulive/SmarterStreaming",
+   "music",
+   "SmarterStreaming",
+   "\u4e1a\u5185\u4e3a\u6570\u4e0d\u591a\u81f4\u529b\u4e8e\u6781\u81f4\u4f53\u9a8c\u7684\u8d85\u5f3a\u5168\u81ea\u7814\u8de8\u5e73\u53f0(windows/linux/android/iOS)\u6d41\u5a92\u4f53\u5185\u6838\uff0c\u901a\u8fc7\u6a21\u5757\u5316\u81ea\u7531\u7ec4\u5408\uff0c\u652f\u6301\u5b9e\u65f6RTMP\u63a8\u6d41\u3001RTSP\u63a8\u6d41\u3001RTMP\u64ad\u653e\u5668\u3001RTSP\u64ad\u653e\u5668\u3001\u5f55\u50cf\u3001\u591a\u8def\u6d41\u5a92\u4f53\u8f6c\u53d1\u3001\u97f3\u89c6\u9891\u5bfc\u64ad\u3001\u52a8\u6001\u89c6\u9891\u5408\u6210\u3001\u97f3\u9891\u6df7\u97f3\u3001\u76f4\u64ad\u4e92\u52a8\u3001\u5185\u7f6e\u8f7b\u91cf\u7ea7RTSP\u670d\u52a1\u7b49\uff0c\u6bd4\u5feb\u66f4\u5feb\uff0c\u4e1a\u754c\u771f\u6b63\u9760\u8c31\u7684\u8d85\u4f4e\u5ef6\u8fdf\u76f4\u64adSDK(\u5ef6\u8fdf\u4f4e\u81f3100~200m",
+   11175
+  ],
+  [
+   "jwtk/jjwt",
+   "dev",
+   "Jjwt",
+   "Java JWT: JSON Web Token for Java and Android",
+   11148
+  ],
+  [
+   "permissions-dispatcher/PermissionsDispatcher",
+   "privacy",
+   "PermissionsDispatcher",
+   "A declarative API to handle Android runtime permissions.",
+   11140
+  ],
+  [
+   "asLody/VirtualApp",
+   "emulation",
+   "VirtualApp",
+   "Virtual Engine for Android(Support 14.0 in business version)",
+   11138
+  ],
+  [
+   "H07000223/FlycoTabLayout",
+   "tools",
+   "FlycoTabLayout",
+   "An Android TabLayout Lib",
+   11074
+  ],
+  [
+   "jfeinstein10/SlidingMenu",
+   "reading",
+   "SlidingMenu",
+   "An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the licens",
+   10976
+  ],
+  [
+   "timschneeb/awesome-shizuku",
+   "privacy",
+   "Awesome Shizuku",
+   "Curated list of awesome Android apps making use of Shizuku",
+   10968
+  ],
+  [
+   "JakeWharton/timber",
+   "dev",
+   "Timber",
+   "A logger with a small, extensible API which provides utility on top of Android's normal Log class.",
+   10856
+  ],
+  [
+   "signalapp/Signal-Server",
+   "social",
+   "Signal Server",
+   "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+   10798
+  ],
+  [
+   "mobile-next/mobile-mcp",
+   "emulation",
+   "Mobile Mcp",
+   "Mobile MCP: let AI agents drive your iOS and Android apps. MCP server for simulators, emulators and real devices. Works with Claude Code, Codex, Cursor and any MCP client.",
+   10790
+  ],
+  [
+   "MorpheApp/morphe-manager",
+   "media",
+   "Morphe Manager",
+   "Morphe app patcher for Android",
+   10713
+  ],
+  [
+   "niedev/RTranslator",
+   "ai",
+   "RTranslator",
+   "Open source real-time translation app for Android that runs locally",
+   10705
+  ],
+  [
+   "android/skills",
+   "tools",
+   "Skills",
+   "Skills for Android.",
+   10695
+  ],
+  [
+   "pcqpcq/open-source-android-apps",
+   "tools",
+   "Open Source Apps",
+   "Open-Source Android Apps",
+   10608
+  ],
+  [
+   "AppIntro/AppIntro",
+   "dev",
+   "AppIntro",
+   "Make a cool intro for your Android app.",
+   10564
+  ],
+  [
+   "android-async-http/android-async-http",
+   "productivity",
+   "Async Http",
+   "An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries.",
+   10562
+  ],
+  [
+   "tonyantony300/dashbeam",
+   "privacy",
+   "Dashbeam",
+   "Share files nearby and beyond.",
+   10374
+  ],
+  [
+   "makecindy/cindy",
+   "ai",
+   "Cindy",
+   "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+   10366
+  ],
+  [
+   "RunanywhereAI/runanywhere-sdks",
+   "ai",
+   "Runanywhere Sdks",
+   "Production ready toolkit to run AI locally",
+   10354
+  ],
+  [
+   "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+   "privacy",
+   "Universal Debloater Next Generation",
+   "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+   10256
+  ],
+  [
+   "JessYanCoding/MVPArms",
+   "emulation",
+   "MVPArms",
+   "\u2694\ufe0f A common architecture for Android applications developing based on MVP, integrates many open source projects, to make your developing quicker and easier (\u4e00\u4e2a\u6574\u5408\u4e86\u5927\u91cf\u4e3b\u6d41\u5f00\u6e90\u9879\u76ee\u9ad8\u5ea6\u53ef\u914d\u7f6e\u5316\u7684 An",
+   10221
+  ],
+  [
+   "happydog-intj/JsBridge",
+   "social",
+   "JsBridge",
+   "android java and javascript bridge, inspired by wechat webview jsbridge",
+   9909
+  ],
+  [
+   "wasabeef/glide-transformations",
+   "media",
+   "Glide Transformations",
+   "An Android transformation library providing a variety of image transformations for Glide.",
+   9867
+  ],
+  [
+   "H-M-H/Weylus",
+   "lifestyle",
+   "Weylus",
+   "Use your tablet as graphic tablet/touch screen on your computer.",
+   9793
+  ],
+  [
+   "AAswordman/Operit",
+   "ai",
+   "Operit",
+   "The most powerful AI agent and AI chat software on Android/Operit\u662f\u4e00\u6b3eAndroid\u4e0a\u80fd\u529b\u6700\u4e3a\u5f3a\u5927\u3001\u53d1\u5c55\u6700\u4e45\u7684AI Agent",
+   9775
+  ],
+  [
+   "AirtestProject/Airtest",
+   "games",
+   "Airtest",
+   "UI Automation Framework for Games and Apps",
+   9657
+  ],
+  [
+   "YoKeyword/Fragmentation",
+   "reading",
+   "Fragmentation",
+   "[DEPRECATED] A powerful library that manage Fragment for Android",
+   9653
+  ],
+  [
+   "koral--/android-gif-drawable",
+   "lifestyle",
+   "Gif Drawable",
+   "Views and Drawable for displaying animated GIFs on Android",
+   9640
+  ],
+  [
+   "bilibili/DanmakuFlameMaster",
+   "tools",
+   "DanmakuFlameMaster",
+   "Android\u5f00\u6e90\u5f39\u5e55\u5f15\u64ce\u00b7\u70c8\u7130\u5f39\u5e55\u4f7f \uff5e",
+   9607
+  ],
+  [
+   "ksoichiro/Android-ObservableScrollView",
+   "reading",
+   "ObservableScrollView",
+   "Android library to observe scroll events on scrollable views.",
+   9601
+  ],
+  [
+   "wangzan101/Mika",
+   "ai",
+   "Mika",
+   "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+   9527
+  ],
+  [
+   "liaohuqiu/android-Ultra-Pull-To-Refresh",
+   "tools",
+   "Ultra Pull To Refresh",
+   "Ultra Pull to Refresh for Android. Support all the views.",
+   9487
+  ],
+  [
+   "Justson/AgentWeb",
+   "social",
+   "AgentWeb",
+   "AgentWeb is a powerful library based on Android WebView.",
+   9441
+  ],
+  [
+   "umano/AndroidSlidingUpPanel",
+   "maps",
+   "AndroidSlidingUpPanel",
+   "This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.",
+   9432
+  ],
+  [
+   "huanghaibin-dev/CalendarView",
+   "launchers",
+   "CalendarView",
+   "RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory. Android\u4e0a",
+   9419
+  ],
+  [
+   "berty/berty",
+   "privacy",
+   "Berty",
+   "Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",
+   9364
+  ],
+  [
+   "pockethub/PocketHub",
+   "tools",
+   "PocketHub",
+   "PocketHub Android App",
+   9356
+  ],
+  [
+   "GcsSloop/AndroidNote",
+   "productivity",
+   "AndroidNote",
+   "\u5b89\u5353\u5b66\u4e60\u7b14\u8bb0",
+   9344
+  ],
+  [
+   "firebase/quickstart-android",
+   "tools",
+   "Quickstart",
+   "Firebase Quickstart Samples for Android",
+   9344
+  ],
+  [
+   "android/testing-samples",
+   "tools",
+   "Testing Samples",
+   "A collection of samples demonstrating different frameworks and techniques for automated testing",
+   9289
+  ],
+  [
+   "wasabeef/android-gpuimage",
+   "media",
+   "Gpuimage",
+   "Android filters based on OpenGL (idea from GPUImage for iOS)",
+   9154
+  ],
+  [
+   "rikkahub/rikkahub",
+   "ai",
+   "Rikkahub",
+   "RikkaHub is an Android APP that supports for multiple LLM providers.",
+   9093
+  ],
+  [
+   "RoutineMiku/apkstart",
+   "emulation",
+   "Apkstart",
+   "Windows \u4e0a\u7684\u5b89\u5353\u5e94\u7528\u8fd0\u884c\u5668\uff1a\u53cc\u51fb APK \u5373\u88c5\uff0c\u5e94\u7528\u4ee5\u72ec\u7acb\u7a97\u53e3\u4e0e\u684c\u9762\u56fe\u6807\u8fd0\u884c\uff0c\u81ea\u6301 QEMU \u8fd0\u884c\u65f6",
+   9066
+  ],
+  [
+   "lysine-dev/okio",
+   "reading",
+   "Okio",
+   "A modern I/O library for Android, Java, and Kotlin Multiplatform.",
+   9053
+  ],
+  [
+   "Freelander/Android_Data",
+   "reading",
+   "Data",
+   "Some Android learning materials, hoping to help you learn Android development.",
+   8970
+  ],
+  [
+   "kivy/python-for-android",
+   "dev",
+   "Python For",
+   "Turn your Python application into an Android APK",
+   8950
+  ],
+  [
+   "navasmdc/MaterialDesignLibrary",
+   "reading",
+   "MaterialDesignLibrary",
+   "This is a library with components of Android L to you use in android 2.2",
+   8907
+  ],
+  [
+   "SimoneAvogadro/android-reverse-engineering-skill",
+   "ai",
+   "Reverse Engineering Skill",
+   "Claude Code skill to support Android app's reverse engineering",
+   8763
+  ],
+  [
+   "houzi3/StatusBarUtil",
+   "launchers",
+   "StatusBarUtil",
+   "A util for setting status bar style on Android App.",
+   8725
+  ],
+  [
+   "amitshekhariitbhu/Android-Debug-Database",
+   "emulation",
+   "Debug Database",
+   "A library for debugging android databases and shared preferences - Make Debugging Great Again",
+   8715
+  ],
+  [
+   "rukamori/ArchiveTune",
+   "music",
+   "ArchiveTune",
+   "\ud83c\udf38 The Cutest Music Player With Support Local File and Youtube Music for Android!",
+   8661
+  ],
+  [
+   "shwenzhang/AndResGuard",
+   "social",
+   "AndResGuard",
+   "proguard resource for Android by wechat team",
+   8643
+  ],
+  [
+   "ybq/Android-SpinKit",
+   "tools",
+   "SpinKit",
+   "Android loading animations",
+   8622
+  ],
+  [
+   "airbnb/epoxy",
+   "health",
+   "Epoxy",
+   "Epoxy is an Android library for building complex screens in a RecyclerView",
+   8540
+  ],
+  [
+   "jev-chat/jev-chat-jarvis",
+   "ai",
+   "Jev Chat Jarvis",
+   "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android \u00b7 Windows \u00b7 macOS \u00b7 ",
+   8490
+  ],
+  [
+   "DImuthuUpe/AndroidPdfViewer",
+   "reading",
+   "AndroidPdfViewer",
+   "Android view for displaying PDFs rendered with PdfiumAndroid",
+   8474
+  ],
+  [
+   "ComicSparks/pikapika",
+   "manga",
+   "Pikapika",
+   "bika \u54d4\u5494 \u5168\u5e73\u53f0\u5ba2\u6237\u7aef\u3002A comic browser\uff0csupport Android / iOS / MacOS / Windows / Linux.",
+   8432
+  ],
+  [
+   "skydoves/Pokedex",
+   "emulation",
+   "Pokedex",
+   "\ud83d\udde1\ufe0f Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",
+   8388
+  ],
+  [
+   "CeuiLiSA/Pixiv-Shaft",
+   "tools",
+   "Pixiv Shaft",
+   "Pixiv\u7b2c\u4e09\u65b9Android\u5ba2\u6237\u7aef",
+   8372
+  ],
+  [
+   "bmax121/APatch",
+   "privacy",
+   "APatch",
+   "The patching of Android kernel and Android system",
+   8204
+  ],
+  [
+   "alibaba/atlas",
+   "tools",
+   "Atlas",
+   "A powerful Android Dynamic Component Framework.",
+   8142
+  ],
+  [
+   "Suwayomi/Suwayomi-Server",
+   "manga",
+   "Suwayomi Server",
+   "A rewrite of Tachiyomi for the Desktop",
+   8089
+  ],
+  [
+   "Genymobile/gnirehtet",
+   "privacy",
+   "Gnirehtet",
+   "Gnirehtet provides reverse tethering for Android",
+   8082
+  ],
+  [
+   "aritraroy/UltimateAndroidReference",
+   "games",
+   "UltimateAndroidReference",
+   ":rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer",
+   8064
+  ],
+  [
+   "guolindev/LitePal",
+   "reading",
+   "LitePal",
+   "An Android library that makes developers use SQLite database extremely easy.",
+   8040
+  ],
+  [
+   "junixapp/XPopup",
+   "privacy",
+   "XPopup",
+   "\ud83d\udd25XPopup2.0\u7248\u672c\u91cd\u78c5\u6765\u88ad\uff0c2\u500d\u4ee5\u4e0a\u6027\u80fd\u63d0\u5347\uff0c\u5e26\u6765\u53ef\u89c2\u7684\u52a8\u753b\u6027\u80fd\u4f18\u5316\u548c\u4ea4\u4e92\u7ec6\u8282\u7684\u63d0\u5347\uff01\uff01\uff01\u529f\u80fd\u5f3a\u5927\uff0c\u4ea4\u4e92\u4f18\u96c5\uff0c\u52a8\u753b\u4e1d\u6ed1\u7684\u901a\u7528\u5f39\u7a97\uff01\u53ef\u4ee5\u66ff\u4ee3Dialog\uff0cPopupWindow\uff0cPopupMenu\uff0cBottomSheet\uff0cDrawerLayout\uff0cSpinner\u7b49\u7ec4\u4ef6\uff0c\u81ea\u5e26\u5341\u51e0\u79cd\u6548\u679c\u826f\u597d\u7684\u52a8\u753b\uff0c \u652f\u6301\u5b8c\u5168\u7684UI\u548c\u52a8\u753b\u81ea\u5b9a\u4e49\uff01(Powerful and ",
+   8020
+  ],
+  [
+   "permissionlesstech/bitchat-android",
+   "social",
+   "Bitchat",
+   "decentralized mesh chat",
+   8016
+  ],
+  [
+   "davemorrissey/subsampling-scale-image-view",
+   "maps",
+   "Subsampling Scale Image View",
+   "Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans et",
+   8007
+  ],
+  [
+   "uber/RIBs",
+   "privacy",
+   "RIBs",
+   "Uber's cross-platform mobile architecture framework - Android Repository",
+   7952
+  ],
+  [
+   "vladikoff/chromeos-apk",
+   "tools",
+   "Chromeos Apk",
+   "\u2622\ufe0f Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.",
+   7836
+  ],
+  [
+   "skydoves/android-developer-roadmap",
+   "maps",
+   "Developer Roadmap",
+   "\ud83d\uddfa The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.",
+   7807
+  ],
+  [
+   "meta/litho",
+   "tools",
+   "Litho",
+   "A declarative framework for building efficient UIs on Android.",
+   7807
+  ],
+  [
+   "HannahMitt/HomeMirror",
+   "lifestyle",
+   "HomeMirror",
+   "Android application powering the mirror in my house",
+   7804
+  ],
+  [
+   "Tencent/Shadow",
+   "tools",
+   "Shadow",
+   "\u96f6\u53cd\u5c04\u5168\u52a8\u6001Android\u63d2\u4ef6\u6846\u67b6",
+   7788
+  ],
+  [
+   "goldze/MVVMHabit",
+   "emulation",
+   "MVVMHabit",
+   "\ud83d\udc55\u57fa\u4e8e\u8c37\u6b4c\u6700\u65b0AAC\u67b6\u6784\uff0cMVVM\u8bbe\u8ba1\u6a21\u5f0f\u7684\u4e00\u5957\u5feb\u901f\u5f00\u53d1\u5e93\uff0c\u6574\u5408Okhttp+RxJava+Retrofit+Glide\u7b49\u4e3b\u6d41\u6a21\u5757\uff0c\u6ee1\u8db3\u65e5\u5e38\u5f00\u53d1\u9700\u6c42\u3002\u4f7f\u7528\u8be5\u6846\u67b6\u53ef\u4ee5\u5feb\u901f\u5f00\u53d1\u4e00\u4e2a\u9ad8\u8d28\u91cf\u3001\u6613\u7ef4\u62a4\u7684Android\u5e94\u7528\u3002",
+   7690
+  ],
+  [
+   "samolego/Canta",
+   "privacy",
+   "Canta",
+   "Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!",
+   7654
+  ],
+  [
+   "trello-archive/RxLifecycle",
+   "health",
+   "RxLifecycle",
+   "Lifecycle handling APIs for Android apps using RxJava",
+   7630
+  ],
+  [
+   "chrisbanes/cheesesquare",
+   "reading",
+   "Cheesesquare",
+   "Demos the new Android Design library.",
+   7626
+  ],
+  [
+   "wxxsfxyzm/InstallerX-Revived",
+   "privacy",
+   "InstallerX Revived",
+   "More Expressive InstallerX !",
+   7614
+  ],
+  [
+   "moonlight-stream/moonlight-android",
+   "games",
+   "Moonlight",
+   "GameStream client for Android",
+   7568
+  ],
+  [
+   "lecho/hellocharts-android",
+   "reading",
+   "Hellocharts",
+   "Charts library for Android compatible with API 8+, several chart types with scaling, scrolling and animations \ud83d\udcca",
+   7558
+  ],
+  [
+   "ArisGuimera/Android-Expert",
+   "emulation",
+   "Expert",
+   "Aprende a PROGRAMAR aplicaciones ANDROID en KOTLIN sin conocimientos previos",
+   7547
+  ],
+  [
+   "koush/AndroidAsync",
+   "reading",
+   "AndroidAsync",
+   "Asynchronous socket, http(s) (client+server) and websocket library for android. Based on nio, not threads.",
+   7518
+  ],
+  [
+   "kaushikgopal/RxJava-Android-Samples",
+   "reading",
+   "RxJava Samples",
+   "Learning RxJava for Android by example",
+   7484
+  ],
+  [
+   "aistra0528/Hail",
+   "privacy",
+   "Hail",
+   "Disable / Hide / Suspend / Uninstall Android apps without root.",
+   7403
+  ],
+  [
+   "SukiSU-Nova/SukiSU-Nova",
+   "privacy",
+   "SukiSU Nova",
+   "Kernel-based Android Root Solution & KPM",
+   7360
+  ],
+  [
+   "LibChecker/LibChecker",
+   "tools",
+   "LibChecker",
+   "An app to view libraries used in apps in your device.",
+   7353
+  ],
+  [
+   "Qihoo360/RePlugin",
+   "tools",
+   "RePlugin",
+   "RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework",
+   7340
+  ],
+  [
+   "shiaho777/web-to-app",
+   "tools",
+   "Web To",
+   "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
+   7316
+  ],
+  [
+   "plainhub/plain-app",
+   "privacy",
+   "Plain",
+   "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use int",
+   7246
+  ],
+  [
+   "zetbaitsu/Compressor",
+   "emulation",
+   "Compressor",
+   "An android image compression library.",
+   7228
+  ],
+  [
+   "hwdsl2/docker-ipsec-vpn-server",
+   "launchers",
+   "Docker Ipsec Vpn Server",
+   "Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Androi",
+   7162
+  ],
+  [
+   "hect0x7/JMComic-APK",
+   "manga",
+   "JMComic APK",
+   "\u9632\u8ff7\u8def | \u7981\u6f2b\u5929\u5802APK | \u7981\u6f2bAPP\u5b89\u5353\u5b89\u88c5\u5305 | jm\u5929\u5802 | \u56de\u5bb6 | GitHub Actions | JMComic3 | JMComic2",
+   7050
+  ],
+  [
+   "naman14/Timber",
+   "music",
+   "Timber",
+   "Material Design Music Player",
+   7033
+  ],
+  [
+   "PixelPlayerHQ/PixelPlayer",
+   "privacy",
+   "PixelPlayer",
+   "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
+   7028
+  ],
+  [
+   "reqable/reqable-app",
+   "dev",
+   "Reqable",
+   "Reqable issue track repo",
+   6971
+  ],
+  [
+   "alibaba/AndFix",
+   "reading",
+   "AndFix",
+   "AndFix is a library that offer hot-fix for Android App.",
+   6956
+  ],
+  [
+   "namidaco/namida",
+   "music",
+   "Namida",
+   "A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter",
+   6898
+  ],
+  [
+   "guardianproject/haven",
+   "privacy",
+   "Haven",
+   "Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors",
+   6834
+  ],
+  [
+   "igorwojda/android-showcase",
+   "emulation",
+   "Showcase",
+   "\ud83d\udc8e Android application following best practices: Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...",
+   6807
+  ],
+  [
+   "simbasjungles/free-my-tv",
+   "ai",
+   "Free My Tv",
+   "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+   6600
+  ],
+  [
+   "ACRA/acra",
+   "tools",
+   "Acra",
+   "Application Crash Reports for Android",
+   6504
+  ],
+  [
+   "meta/facebook-android-sdk",
+   "reading",
+   "Facebook Sdk",
+   "Used to integrate Android apps with Facebook Platform.",
+   6471
+  ],
+  [
+   "Archmage83/tvapk",
+   "media",
+   "Tvapk",
+   "\u6536\u96c6\u5404\u5927AndroidTV\u7684apk\u5e94\u7528\uff0c\u53ef\u514d\u8d39\u770bvip\u548c\u56fd\u5916\u7535\u5f71\u7535\u89c6\u3002\u5982\u5927\u5bb6\u6709\u4e5f\u53ef\u4ee5\u8d21\u732e\u4e00\u4e0b\u3002",
+   6436
+  ],
+  [
+   "manga-download/hakuneko",
+   "manga",
+   "Hakuneko",
+   "Manga & Anime Downloader for Linux, Windows & MacOS",
+   6416
+  ],
+  [
+   "dwisiswant0/apkleaks",
+   "privacy",
+   "Apkleaks",
+   "Scanning APK file for URIs, endpoints & secrets.",
+   6399
+  ],
+  [
+   "bromite/bromite",
+   "privacy",
+   "Bromite",
+   "Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!",
+   6323
+  ],
+  [
+   "meta/redex",
+   "dev",
+   "Redex",
+   "A bytecode optimizer for Android apps",
+   6319
+  ],
+  [
+   "awesome-android-root/awesome-android-root",
+   "privacy",
+   "Awesome Root",
+   "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
+   6285
+  ],
+  [
+   "czy0729/Bangumi",
+   "media",
+   "Bangumi",
+   ":electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. \u4e00\u4e2a\u65e0\u5e7f\u544a\u3001\u4ee5\u7231\u597d\u4e3a\u9a71\u52a8\u3001\u4e0d\u4ee5\u76c8\u5229\u4e3a\u76ee\u7684\u3001\u4e13\u95e8\u505a ACG \u7684\u7c7b\u4f3c\u8c46\u74e3\u7684\u8ffd\u756a\u8bb0\u5f55\uff0cbgm.tv \u7b2c\u4e09\u65b9\u5ba2\u6237\u7aef\u3002\u4e3a\u79fb\u52a8\u7aef\u91cd\u65b0\u8bbe\u8ba1\uff0c\u5185\u7f6e\u5927\u91cf\u52a0\u5f3a\u7684\u7f51\u9875\u7aef\u96be",
+   6270
+  ],
+  [
+   "cactus-compute/engine",
+   "ai",
+   "Engine",
+   "2bit quants, kernels and runtime for consumer devices.",
+   6199
+  ],
+  [
+   "waligoraamodio288-rgb/hongguo-desktop-releases",
+   "ai",
+   "Hongguo Desktop Releases",
+   "\u7ea2\u679c\u77ed\u5267\u7535\u8111\u7248\uff5c\u5728 Windows \u7535\u8111\u4e0a\u627e\u5267\u3001\u9009\u96c6\u3001\u6536\u85cf\u548c\u63a5\u7740\u4e0a\u6b21\u770b\u3002\u514d\u8d39\u7b2c\u4e09\u65b9\u5ba2\u6237\u7aef\uff0c\u7531\u6e20\u9053\u6709\u6570\u72ec\u7acb\u7ef4\u62a4\uff0c\u63d0\u4f9b Windows \u6b63\u5f0f\u7248\u3001Mac M \u7cfb\u5217\u548c Android TV \u6d4b\u8bd5\u7248\u3002",
+   6189
+  ],
+  [
+   "androidx/androidx",
+   "reading",
+   "Androidx",
+   "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.",
+   6145
+  ],
+  [
+   "capcom6/android-sms-gateway",
+   "games",
+   "Sms Gateway",
+   "The SMS Gateway for Android\u2122 app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device acce",
+   6041
+  ],
+  [
+   "opengapps/opengapps",
+   "privacy",
+   "Opengapps",
+   "The main repository of the Open GApps Project",
+   5973
+  ],
+  [
+   "fcitx5-android/fcitx5-android",
+   "emulation",
+   "Fcitx5",
+   "Fcitx5 input method framework and engines ported to Android",
+   5940
+  ],
+  [
+   "airbnb/mavericks",
+   "tools",
+   "Mavericks",
+   "Mavericks: Android on Autopilot",
+   5920
+  ],
+  [
+   "maziyarpanahi/openmed",
+   "ai",
+   "Openmed",
+   "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and ",
+   5832
+  ],
+  [
+   "miru-project/miru-app",
+   "manga",
+   "Miru",
+   "\ud83c\udf89 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.",
+   5819
+  ],
+  [
+   "kickstarter/android-oss",
+   "dev",
+   "Oss",
+   "Kickstarter for Android. Bring new ideas to life, anywhere.",
+   5784
+  ],
+  [
+   "hanmin0822/MisakaTranslator",
+   "emulation",
+   "MisakaTranslator",
+   "\u5fa1\u5742\u7ffb\u8bd1\u5668\u2014Galgame/\u6587\u5b57\u6e38\u620f/\u6f2b\u753b\u591a\u8bed\u79cd\u5b9e\u65f6\u673a\u7ffb\u5de5\u5177",
+   5778
+  ],
+  [
+   "drakeet/MultiType",
+   "health",
+   "MultiType",
+   "Flexible multiple types for Android RecyclerView.",
+   5743
+  ],
+  [
+   "kizitonwose/Calendar",
+   "maps",
+   "Calendar",
+   "A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.",
+   5629
+  ],
+  [
+   "JakeWharton/u2020",
+   "tools",
+   "U2020",
+   "A sample Android app which showcases advanced usage of Dagger among other open source libraries.",
+   5610
+  ],
+  [
+   "dovecoteescapee/ByeDPIAndroid",
+   "tools",
+   "ByeDPIAndroid",
+   "App to bypass censorship on Android",
+   5609
+  ],
+  [
+   "Tapadoo/Alerter",
+   "reading",
+   "Alerter",
+   "An Android Alerting Library",
+   5501
+  ],
+  [
+   "android/camera-samples",
+   "media",
+   "Camera Samples",
+   "Multiple samples showing the best practices in camera APIs on Android.",
+   5469
+  ],
+  [
+   "sockeqwe/mosby",
+   "reading",
+   "Mosby",
+   "A Model-View-Presenter / Model-View-Intent library for modern Android apps",
+   5421
+  ],
+  [
+   "RetroMusicPlayer/RetroMusicPlayer",
+   "emulation",
+   "RetroMusicPlayer",
+   "Best Material You Design music player for Android",
+   5408
+  ],
+  [
+   "spieglt/FlyingCarpet",
+   "music",
+   "FlyingCarpet",
+   "Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and op",
+   5385
+  ],
+  [
+   "CreditTone/hooker",
+   "privacy",
+   "Hooker",
+   "\ud83d\udd25\ud83d\udd25 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/se",
+   5346
+  ],
+  [
+   "Evernote/android-job",
+   "reading",
+   "Job",
+   "Android library to handle jobs in the background.",
+   5342
+  ],
+  [
+   "zhkl0228/unidbg",
+   "emulation",
+   "Unidbg",
+   "Allows you to emulate an Android native library, and an experimental iOS emulation",
+   5338
+  ],
+  [
+   "Doikki/DKVideoPlayer",
+   "health",
+   "DKVideoPlayer",
+   "Android Video Player. \u5b89\u5353\u89c6\u9891\u64ad\u653e\u5668\uff0c\u5c01\u88c5MediaPlayer\u3001ExoPlayer\u3001IjkPlayer\u3002\u6a21\u4eff\u6296\u97f3\u5e76\u5b9e\u73b0\u9884\u52a0\u8f7d\uff0c\u5217\u8868\u64ad\u653e\uff0c\u60ac\u6d6e\u64ad\u653e\uff0c\u5e7f\u544a\u64ad\u653e\uff0c\u5f39\u5e55\uff0c\u89c6\u9891\u6c34\u5370\uff0c\u89c6\u9891\u6ee4\u955c",
+   5333
+  ],
+  [
+   "tanprathan/MobileApp-Pentest-Cheatsheet",
+   "dev",
+   "MobileApp Pentest Cheatsheet",
+   "The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.",
+   5324
+  ],
+  [
+   "karma9874/AndroRAT",
+   "dev",
+   "AndroRAT",
+   "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+   5301
+  ],
+  [
+   "mosra/magnum",
+   "games",
+   "Magnum",
+   "Lightweight and modular C++11 graphics middleware for games and data visualization",
+   5235
+  ],
+  [
+   "benoitvallon/react-native-nw-react-calculator",
+   "privacy",
+   "React Native Nw React Calculator",
+   "Mobile, desktop and website Apps with the same code",
+   5207
+  ],
+  [
+   "streetcomplete/StreetComplete",
+   "maps",
+   "StreetComplete",
+   "Easy to use OpenStreetMap editor for Android and iOS",
+   5163
+  ],
+  [
+   "niklashigi/apk-mitm",
+   "productivity",
+   "Apk Mitm",
+   "\ud83e\udd16 A CLI application that automatically prepares Android APK files for HTTPS inspection",
+   5148
+  ],
+  [
+   "tiajinsha/JKVideo",
+   "music",
+   "JKVideo",
+   "\u9ad8\u989c\u503c\u7b2c\u4e09\u65b9 B \u7ad9 React Native \u5ba2\u6237\u7aef",
+   4997
+  ],
+  [
+   "simondankelmann/Bluetooth-LE-Spam",
+   "music",
+   "Bluetooth LE Spam",
+   "Bluetooth LE Spam for Android.",
+   4996
+  ],
+  [
+   "WooVictory/Ready-For-Tech-Interview",
+   "reading",
+   "Ready For Tech Interview",
+   "\ud83d\udcbb \uc2e0\uc785 \uac1c\ubc1c\uc790\ub85c\uc11c \uc9c0\uc2dd\uc744 \uc313\uae30 \uc704\ud574 \uacf5\ubd80\ud558\ub294 \uacf5\uac04 \ud83d\udc68\u200d\ud83d\udcbb",
+   4980
+  ],
+  [
+   "nisrulz/app-privacy-policy-generator",
+   "privacy",
+   "Privacy Policy Generator",
+   "Generate a customized Privacy Policy and Terms of Use document for your mobile apps",
+   4964
+  ],
+  [
+   "Aliucord/Aliucord",
+   "social",
+   "Aliucord",
+   "A mod for the Discord Android App",
+   4940
+  ],
+  [
+   "duckduckgo/Android",
+   "privacy",
+   "DuckDuckGo",
+   "DuckDuckGo Android App",
+   4916
+  ],
+  [
+   "AlmasB/FXGL",
+   "games",
+   "FXGL",
+   "Java / JavaFX / Kotlin Game Library (Engine)",
+   4879
+  ],
+  [
+   "abuanwar072/E-commerce-Complete-Flutter-UI",
+   "lifestyle",
+   "E Commerce Complete Flutter UI",
+   "The FlutterShop template makes it easier to develop an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for both Android and iOS using flut",
+   4851
+  ],
+  [
+   "harmonoid/harmonoid",
+   "music",
+   "Harmonoid",
+   "\ud83c\udfb5 Beautiful music player for desktop & mobile.",
+   4829
+  ],
+  [
+   "M66B/FairEmail",
+   "privacy",
+   "FairEmail",
+   "Fully featured, open source, privacy friendly email app for Android",
+   4807
+  ],
+  [
+   "jellyfin/jellyfin-androidtv",
+   "media",
+   "Jellyfin Androidtv",
+   "Android TV Client for Jellyfin",
+   4758
+  ],
+  [
+   "Chevey339/kelivo",
+   "ai",
+   "Kelivo",
+   "A Flutter LLM Chat Client. Support Mobile & Desktop.",
+   4724
+  ],
+  [
+   "CalebFenton/simplify",
+   "emulation",
+   "Simplify",
+   "Android virtual machine and deobfuscator",
+   4684
+  ],
+  [
+   "JetBrains/koog",
+   "ai",
+   "Koog",
+   "Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms \u2013 from backend services to Android and iOS, J",
+   4667
+  ],
+  [
+   "hussien89aa/AndroidTutorialForBeginners",
+   "health",
+   "AndroidTutorialForBeginners",
+   "Step by step to build Android apps using Android Studio",
+   4641
+  ],
+  [
+   "VonChange/utao",
+   "media",
+   "Utao",
+   "\u6cb9\u6843TV \u7535\u89c6\u6d4f\u89c8\u5668 \u53ef\u770b\u5404\u5927\u536b\u89c6CCTV\u76f4\u64ad \u65e0\u9700\u7535\u89c6VIP \u9002\u914d\u7231\u5947\u827a\u7b49\u4e3b\u6d41\u89c6\u9891\u5e73\u53f0",
+   4621
+  ],
+  [
+   "kodjodevf/mangayomi",
+   "manga",
+   "Mangayomi",
+   "Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows",
+   4543
+  ],
+  [
+   "tortuvshin/open-apps",
+   "privacy",
+   "Open Apps",
+   "A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to",
+   4507
+  ],
+  [
+   "gokadzev/Musify",
+   "music",
+   "Musify",
+   "Unlock the full potential of music: Stream effortlessly with one app!",
+   4474
+  ],
+  [
+   "fumiama/copymanga",
+   "manga",
+   "Copymanga",
+   "\u62f7\u8d1d\u6f2b\u753b\u7684\u7b2c\u4e09\u65b9APP\uff0c\u4ec5\u63d0\u4f9b\u57fa\u7840\u529f\u80fd\uff0c\u66f4\u591a\u4e30\u5bcc\u529f\u80fd\u8bf7\u79fb\u6b65\u5b98\u65b9\u7248\u672c",
+   4399
+  ],
+  [
+   "kksimp/Mac.apk",
+   "tools",
+   "Mac.Apk",
+   "Mac.apk: Run Android apps natively on Apple Silicon Macs",
+   4395
+  ],
+  [
+   "InukaAsith/TwinDesk",
+   "reading",
+   "TwinDesk",
+   "All your computers and your phone/iPhone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux ",
+   4384
+  ],
+  [
+   "cwuom/NeriPlayer",
+   "emulation",
+   "NeriPlayer",
+   "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / \u2728 \u4e00\u4e2a\u628a\u591a\u6e90\u5728\u7ebf\u64ad\u653e\u3001\u672c\u5730\u7ba1\u7406\u3001\u6b4c\u8bcd\u4f53\u9a8c\u548c\u81ea\u5efa\u540c\u6b65\u505a\u8fdb\u539f\u751f Android \u7684\u97f3\u9891\u64ad\u653e\u5668 \ud83c\udfb5",
+   4370
+  ],
+  [
+   "cnlohr/rawdrawandroid",
+   "tools",
+   "Rawdrawandroid",
+   "Build android apps without any java, entirely in C and Make",
+   4340
+  ],
+  [
+   "ProtonVPN/android-app",
+   "privacy",
+   "Proton VPN",
+   "Official ProtonVPN Android app",
+   4331
+  ],
+  [
+   "vivizzz007/vivi-music",
+   "music",
+   "Vivi Music",
+   "Vivi-Music is an expressive Material 3\u2013based YouTube Music client for Android.",
+   4228
+  ],
+  [
+   "easybangumiorg/EasyBangumi",
+   "tools",
+   "EasyBangumi",
+   "\u7eaf\u7eaf\u770b\u756a\uff0c\u4f7f\u7528 Compose \u5f00\u53d1\u7684 Android \u770b\u756a\u8f6f\u4ef6\uff0c\u652f\u6301\u591a\u756a\u5267\u6e90",
+   4088
+  ],
+  [
+   "google/bundletool",
+   "tools",
+   "Bundletool",
+   "Bundletool is a command-line tool to manipulate Android App Bundles",
+   4053
+  ],
+  [
+   "Haleydu/Cimoc",
+   "manga",
+   "Cimoc",
+   "\u6f2b\u753b\u9605\u8bfb\u5668",
+   4048
+  ],
+  [
+   "mayukh4/linux-android",
+   "privacy",
+   "Linux",
+   "Turn an old Android phone into a GPU-accelerated Linux desktop (XFCE4 / KDE Plasma / LXQt / MATE) or a Home Assistant smart home server \u2014 using Termux. No root, no PC, no cloud.",
+   4022
+  ],
+  [
+   "Shrey113/Android-Dex",
+   "games",
+   "Dex",
+   "Universal Samsung DeX alternative for all Android devices. Run Android apps on Windows, Linux & macOS with resizable windows, advanced FPS gaming controls, and high-performance wir",
+   3978
+  ],
+  [
+   "iqiyi/xCrash",
+   "privacy",
+   "XCrash",
+   "\ud83d\udd25 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.",
+   3955
+  ],
+  [
+   "aaa1115910/bv",
+   "tools",
+   "Bv",
+   "\u54d4\u54e9\u54d4\u54e9 \u7684\u7b2c\u4e09\u65b9 Android \u5e94\u7528\u3002A third-party Android app for Bilibili.",
+   3942
+  ],
+  [
+   "ExTV/Podroid",
+   "launchers",
+   "Podroid",
+   "A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.",
+   3902
+  ],
+  [
+   "claraverse-space/ClaraVerse",
+   "ai",
+   "ClaraVerse",
+   "Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.",
+   3897
+  ],
+  [
+   "TomBursch/kitchenowl",
+   "games",
+   "Kitchenowl",
+   "KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shop",
+   3879
+  ],
+  [
+   "ax/apk.sh",
+   "productivity",
+   "Apk.Sh",
+   "Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.",
+   3871
+  ],
+  [
+   "Nain57/Smart-AutoClicker",
+   "media",
+   "Smart AutoClicker",
+   "An open-source auto clicker on images for Android",
+   3794
+  ],
+  [
+   "gmh5225/awesome-game-security",
+   "games",
+   "Awesome Game Security",
+   "awesome game security [Welcome to PR]",
+   3785
+  ],
+  [
+   "doublesymmetry/react-native-track-player",
+   "music",
+   "React Native Track Player",
+   "The best audio player for React Native. Built on the New Architecture \u2014 Android Auto, caching, preloading, background playback, and more.",
+   3706
+  ],
+  [
+   "iSimar/HackerNews-React-Native",
+   "reading",
+   "HackerNews React Native",
+   "Hacker News iOS and Android App - Made with React Native.",
+   3701
+  ],
+  [
+   "Verlintas/NOIR",
+   "privacy",
+   "NOIR",
+   "\u624b\u673a\u9690\u79c1\u5ba1\u8ba1\uff1a\u7528 adb \u626b\u51fa Android \u5e94\u7528\u7684\u6743\u9650\u3001\u4e0a\u62a5\u7aef\u70b9\u4e0e\u6570\u636e\u6d41\u5411\uff0c\u5e76\u7ed9\u51fa\u53ef\u56de\u6eda\u7684\u5904\u7f6e\u3002Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+   3676
+  ],
+  [
+   "TakuSemba/Spotlight",
+   "privacy",
+   "Spotlight",
+   "Android Library that lights items for tutorials or walk-throughs etc...",
+   3668
+  ],
+  [
+   "Flow-Tube/Flow",
+   "privacy",
+   "Flow",
+   "A modern, feature-rich YouTube and YouTube Music client with local recommendation for Android built with Jetpack Compose",
+   3654
+  ],
+  [
+   "DSH-APP/DSHA",
+   "emulation",
+   "DSHA",
+   "\u514d ROOT \u514d Termux\uff0c\u5728\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5b8c\u6574 Ubuntu \u73af\u5883 + proroot \u96f6 ptrace \u5f00\u9500 \u00b7 AI \u8f93\u51fa\u5b9e\u65f6\u4e0a\u5c4f \u00b7 ADB \u76f4\u8fde \u00b7 \u6570\u636e\u4e0d\u4e22",
+   3640
+  ],
+  [
+   "nano-muse/nanoMuse",
+   "ai",
+   "NanoMuse",
+   "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you",
+   3634
+  ],
+  [
+   "NextAlone/Nagram",
+   "social",
+   "Nagram",
+   "The third-party Telegram android app.",
+   3602
+  ],
+  [
+   "kelvinBen/AppInfoScanner",
+   "privacy",
+   "AppInfoScanner",
+   "\u4e00\u6b3e\u9002\u7528\u4e8e\u4ee5HW\u884c\u52a8/\u7ea2\u961f/\u6e17\u900f\u6d4b\u8bd5\u56e2\u961f\u4e3a\u573a\u666f\u7684\u79fb\u52a8\u7aef(Android\u3001iOS\u3001WEB\u3001H5\u3001\u9759\u6001\u7f51\u7ad9)\u4fe1\u606f\u6536\u96c6\u626b\u63cf\u5de5\u5177\uff0c\u53ef\u4ee5\u5e2e\u52a9\u6e17\u900f\u6d4b\u8bd5\u5de5\u7a0b\u5e08\u3001\u653b\u51fb\u961f\u6210\u5458\u3001\u7ea2\u961f\u6210\u5458\u5feb\u901f\u6536\u96c6\u5230\u79fb\u52a8\u7aef\u6216\u8005\u9759\u6001WEB\u7ad9\u70b9\u4e2d\u5173\u952e\u7684\u8d44\u4ea7\u4fe1\u606f\u5e76\u63d0\u4f9b\u57fa\u672c\u7684\u4fe1\u606f\u8f93\u51fa,\u5982\uff1aTitle\u3001Domain\u3001CDN\u3001\u6307\u7eb9\u4fe1\u606f\u3001\u72b6\u6001\u4fe1\u606f\u7b49\u3002",
+   3588
+  ],
+  [
+   "Leviidev/Husk",
+   "emulation",
+   "Husk",
+   "Run Android on iOS. Natively or Emulated.",
+   3521
+  ],
+  [
+   "futo-org/android-keyboard",
+   "ai",
+   "Keyboard",
+   "Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime",
+   3511
+  ],
+  [
+   "andremion/Music-Player",
+   "maps",
+   "Music Player",
+   "From UI Proposal to Code :notes::arrow_forward:",
+   3505
+  ],
+  [
+   "codeestX/GeekNews",
+   "emulation",
+   "GeekNews",
+   ":books:A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide",
+   3488
+  ],
+  [
+   "GhostenEditor/Ghosten-Player",
+   "music",
+   "Ghosten Player",
+   "\u4e00\u4e2a\u89c6\u9891\u64ad\u653e\u5668\uff0c\u652f\u6301\u7f51\u76d8\u76f4\u8fde\u3001\u5143\u6570\u636e\u522e\u524a\u3001IPTV\u3001\u6587\u4ef6\u7ba1\u7406\u7b49 / A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.",
+   3460
+  ],
+  [
+   "CollaboraOnline/online",
+   "privacy",
+   "Online",
+   "Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.",
+   3405
+  ],
+  [
+   "textbee/textbee",
+   "social",
+   "Textbee",
+   "Open-source SMS gateway. Turn your Android phone into an SMS API: send and receive SMS from your apps over REST and webhooks. Self-hostable, with a free hosted plan.",
+   3387
+  ],
+  [
+   "wgtunnel/android",
+   "privacy",
+   "WG Tunnel",
+   "An advanced, open-source client for WireGuard and AmneziaWG on Android.",
+   3381
+  ],
+  [
+   "damontecres/Wholphin",
+   "media",
+   "Wholphin",
+   "An OSS Android TV client for Jellyfin",
+   3379
+  ],
+  [
+   "cirosantilli/china-dictatorship",
+   "emulation",
+   "China Dictatorship",
+   "\u53cd\u4e2d\u5171\u653f\u6cbb\u5ba3\u4f20\u5e93\u3002Anti Chinese government propaganda. \u4f4f\u5728\u4e2d\u56fd\u771f\u540d\u7528\u6237\u7684\u7f51\u53cb\u8bf7\u522b\u7ed9\u661f\u661f\uff0c\u4e0d\u7136\u4f60\u8981\u88ab\u8b66\u5bdf\u8bf7\u559d\u8336\u3002\u5e38\u89c1\u95ee\u7b54\u96c6\uff0c\u65b0\u95fb\u96c6\u548c\u996d\u5e97\u548c\u97f3\u4e50\u5efa\u8bae\u3002\u5350\u4e60\u4e07\u5c81\u5350\u3002\u51a0\u72b6\u75c5\u6bd2\u5ba1\u67e5\u90dd\u6d77\u4e1c\u65b0\u7586\u6539\u9020\u4e2d\u5fc3\u516d\u56db\u4e8b\u4ef6\u6cd5\u8f6e\u529f 996.ICU709\u5927\u6293\u6355\u5df4\u62ff\u9a6c\u6587\u4ef6\u9093\u5bb6\u8d35\u4f4e\u7aef\u4eba\u53e3\u897f\u85cf\u9a9a\u4e71\u3002Friends who live in China and ",
+   3363
+  ],
+  [
+   "deltazefiro/Amarok-Hider",
+   "privacy",
+   "Amarok Hider",
+   "Hide your private files and apps with a single click.",
+   3349
+  ],
+  [
+   "luojilab/DDComponentForAndroid",
+   "tools",
+   "DDComponentForAndroid",
+   "\u4e00\u5957\u5b8c\u6574\u6709\u6548\u7684android\u7ec4\u4ef6\u5316\u65b9\u6848\uff0c\u652f\u6301\u7ec4\u4ef6\u7684\u7ec4\u4ef6\u5b8c\u5168\u9694\u79bb\u3001\u5355\u72ec\u8c03\u8bd5\u3001\u96c6\u6210\u8c03\u8bd5\u3001\u7ec4\u4ef6\u4ea4\u4e92\u3001UI\u8df3\u8f6c\u3001\u52a8\u6001\u52a0\u8f7d\u5378\u8f7d\u7b49\u529f\u80fd",
+   3309
+  ],
+  [
+   "ivacf/archi",
+   "privacy",
+   "Archi",
+   "Repository that showcases 3 Android app architectures: \"Standard Android\", MVP and MVVM. The exact same app is built 3 times following the different patterns.",
+   3294
+  ],
+  [
+   "shmykelsa/AAAD",
+   "privacy",
+   "AAAD",
+   "The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.",
+   3289
+  ],
+  [
+   "blokadaorg/blokada",
+   "privacy",
+   "Blokada",
+   "The official repo for Blokada apps.",
+   3268
+  ],
+  [
+   "software-mansion/argent",
+   "emulation",
+   "Argent",
+   "MCP server for AI agents to control, debug and profile iOS simulators, Android emulators, MacOS apps and TVs. Made by Software Mansion.",
+   3224
+  ],
+  [
+   "Psyhackological/AAA",
+   "privacy",
+   "AAA",
+   ":iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!",
+   3192
+  ],
+  [
+   "JackyAndroid/AndroidTVLauncher",
+   "launchers",
+   "AndroidTVLauncher",
+   "This is a leanback style tv launcher(minSdkVersion 17)",
+   3144
+  ],
+  [
+   "mytv-android/mytv-android",
+   "music",
+   "Mytv",
+   "Material 3 Expressive \u98ce\u683c\u7684Android/Android TV IPTV\u64ad\u653e\u5668\uff0c\u5185\u5efaMedia3,IJKplayer\u548c VLC\u3002A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.",
+   3142
+  ],
+  [
+   "BlackHatDevX/openspot-music-app",
+   "music",
+   "Openspot Music",
+   "OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience,",
+   3106
+  ],
+  [
+   "listen1/listen1_mobile",
+   "music",
+   "Listen1 Mobile",
+   "one for all free music in china (iOS, Android)",
+   3079
+  ],
+  [
+   "wikimedia/apps-android-wikipedia",
+   "emulation",
+   "Apps Wikipedia",
+   "\ud83d\udcf1The official Wikipedia app for Android!",
+   3071
+  ],
+  [
+   "kylecorry31/Trail-Sense",
+   "emulation",
+   "Trail Sense",
+   "An offline multi-tool Android app for hiking, backpacking, camping, wilderness survival, foraging, and hunting.",
+   3044
+  ],
+  [
+   "bitfireAT/davx5-ose",
+   "games",
+   "Davx5 Ose",
+   "DAVx\u2075 is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.",
+   3040
+  ],
+  [
+   "CtripMobile/DynamicAPK",
+   "tools",
+   "DynamicAPK",
+   "Solution to implement multi apk dynamic loading and hot fixing for Android App. (\u5b9e\u73b0Android App\u591aapk\u63d2\u4ef6\u5316\u548c\u52a8\u6001\u52a0\u8f7d\uff0c\u652f\u6301\u8d44\u6e90\u5206\u5305\u548c\u70ed\u4fee\u590d)",
+   3017
+  ],
+  [
+   "simonoppowa/OpenNutriTracker",
+   "emulation",
+   "OpenNutriTracker",
+   "\ud83c\udf74 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.",
+   3009
+  ],
+  [
+   "ac-pm/Inspeckage",
+   "privacy",
+   "Inspeckage",
+   "Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)",
+   2987
+  ],
+  [
+   "Jermic/Android-Crack-Tool",
+   "tools",
+   "Crack Tool",
+   "\ud83d\udc1eAndroid crack tool For Mac",
+   2936
+  ],
+  [
+   "AltBeacon/android-beacon-library",
+   "reading",
+   "Beacon Library",
+   "Allows Android apps to interact with BLE beacons",
+   2915
+  ],
+  [
+   "anonfaded/FadCam",
+   "music",
+   "FadCam",
+   "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+   2911
+  ],
+  [
+   "nic-delhi/AarogyaSetu_Android",
+   "games",
+   "AarogyaSetu",
+   "Aarogya Setu Android app native code",
+   2904
+  ],
+  [
+   "coronalabs/corona",
+   "games",
+   "Corona",
+   "Solar2D Game Engine main repository (ex Corona SDK)",
+   2903
+  ],
+  [
+   "Gedsh/InviZible",
+   "privacy",
+   "InviZible",
+   "Android application for online privacy and security",
+   2901
+  ],
+  [
+   "jxlarrea/kiosk-satellite",
+   "ai",
+   "Kiosk Satellite",
+   "Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.",
+   2891
+  ],
+  [
+   "amitshekhariitbhu/android-developer-roadmap",
+   "maps",
+   "Developer Roadmap",
+   "Android Developer Roadmap - A complete roadmap to learn Android App Development",
+   2865
+  ],
+  [
+   "keymapperorg/KeyMapper",
+   "maps",
+   "KeyMapper",
+   "An Android app to remap the buttons on your devices",
+   2857
+  ],
+  [
+   "youniaogu/MangaReader",
+   "manga",
+   "MangaReader",
+   "\u4e00\u4e2a\u6f2b\u753b APP\ud83d\udcf1\uff0c\u57fa\u4e8e react-native \u6784\u5efa\uff0c\u517c\u5bb9 Android\u3001Ios \u5e73\u53f0",
+   2856
+  ],
+  [
+   "TNT-Likely/BeeCount",
+   "emulation",
+   "BeeCount",
+   "Local-first bookkeeping for iOS/Android/Web \u00b7 Self-hosted cloud + iCloud/WebDAV/S3 sync \u00b7 AI capture \u00b7 MCP | \u672c\u5730\u4f18\u5148\u7684\u8de8\u7aef\u8bb0\u8d26 \u00b7 \u81ea\u5efa\u4e91 + iCloud/WebDAV/S3 \u540c\u6b65 \u00b7 AI \u8bb0\u8d26 \u00b7 MCP",
+   2856
+  ],
+  [
+   "wangchenyan/ponymusic",
+   "music",
+   "Ponymusic",
+   "An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer",
+   2854
+  ],
+  [
+   "harjot-oberai/MusicDNA",
+   "music",
+   "MusicDNA",
+   "A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.",
+   2850
+  ],
+  [
+   "topfreegames/pitaya",
+   "games",
+   "Pitaya",
+   "Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.",
+   2847
+  ],
+  [
+   "nekomangaorg/Neko",
+   "manga",
+   "Neko",
+   "Unofficial MangaDex Reader for Android 8+",
+   2827
+  ],
+  [
+   "patrickfav/uber-apk-signer",
+   "privacy",
+   "Uber Apk Signer",
+   "A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 ",
+   2815
+  ],
+  [
+   "xoureldeen/Vectras-VM-Android",
+   "emulation",
+   "Vectras VM",
+   "It's a Virtual Machine App for Android Which is Based on QEMU",
+   2810
+  ],
+  [
+   "tidev/titanium-sdk",
+   "dev",
+   "Titanium Sdk",
+   "\ud83d\ude80 Native iOS and Android Apps with JavaScript & TypeScript",
+   2804
+  ],
+  [
+   "jonan/ForkHub",
+   "dev",
+   "ForkHub",
+   "GitHub client for Android based on the abandoned official app",
+   2803
+  ],
+  [
+   "Trixarian/NetherSX2-patch",
+   "emulation",
+   "NetherSX2 Patch",
+   "Continuation of NetherSX2 based on AetherSX2 4248",
+   2796
+  ],
+  [
+   "pass-with-high-score/blockads-android",
+   "games",
+   "Blockads",
+   "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
+   2794
+  ],
+  [
+   "PimpinPumpkin/Vela",
+   "emulation",
+   "Vela",
+   "Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock ca",
+   2793
+  ],
+  [
+   "nikita36078/J2ME-Loader",
+   "emulation",
+   "J2ME Loader",
+   "A J2ME emulator for Android.",
+   2753
+  ],
+  [
+   "mattermost/mattermost-mobile",
+   "lifestyle",
+   "Mattermost Mobile",
+   "Next generation iOS and Android apps for Mattermost in React Native",
+   2748
+  ],
+  [
+   "QuantumBadger/RedReader",
+   "social",
+   "RedReader",
+   "An unofficial open source Android app for Reddit.",
+   2732
+  ],
+  [
+   "Apps2Samsung/Apps2Samsung",
+   "emulation",
+   "Apps2Samsung",
+   "One-click app installer for Samsung TVs, projectors and smart monitors (Tizen) -Jellyfin, Moonlight, and the whole community catalog.",
+   2706
+  ],
+  [
+   "WSTxda/QP-Gallery-Releases",
+   "health",
+   "QP Gallery Releases",
+   "A modern, lightweight QuickPic Gallery with a fast, offline-first experience.",
+   2703
+  ],
+  [
+   "goreleaser/nfpm",
+   "games",
+   "Nfpm",
+   "nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go",
+   2702
+  ],
+  [
+   "Mahmud0808/ColorBlendr",
+   "launchers",
+   "ColorBlendr",
+   "An Android app for customizing Material You colors on devices with Android 12+. It lets you tweak accent colors, background saturation, and more for a personalized look.",
+   2637
+  ],
+  [
+   "yjeanrenaud/yj_nearbyglasses",
+   "privacy",
+   "Yj Nearbyglasses",
+   "attempting to detect smart glasses nearby and warn you",
+   2624
+  ],
+  [
+   "dkrivoruchko/ScreenStream",
+   "media",
+   "ScreenStream",
+   "ScreenStream Android App",
+   2591
+  ],
+  [
+   "terrakok/Cicerone",
+   "maps",
+   "Cicerone",
+   "\ud83d\udea6 Cicerone is a lightweight library that makes the navigation in an Android app easy.",
+   2580
+  ],
+  [
+   "yeriomin/YalpStore",
+   "privacy",
+   "YalpStore",
+   "Download apks from Google Play Store",
+   2560
+  ],
+  [
+   "team-supercharge/ShimmerLayout",
+   "tools",
+   "ShimmerLayout",
+   "DEPRECATED - Memory efficient shimmering effect for Android applications by Supercharge.",
+   2507
+  ],
+  [
+   "ndroi/easy163",
+   "privacy",
+   "Easy163",
+   "\u5b89\u5353\u7aef\u4e00\u952e\u89e3\u9501\u7f51\u6613\u4e91\u97f3\u4e50\uff0c\u65e0\u987b ROOT",
+   2496
+  ],
+  [
+   "cogwheel0/conduit",
+   "ai",
+   "Conduit",
+   "Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents.",
+   2489
+  ],
+  [
+   "ppogg/YOLOv5-Lite",
+   "ai",
+   "YOLOv5 Lite",
+   "\ud83c\udf45\ud83c\udf45\ud83c\udf45YOLOv5-Lite: Evolved from yolov5 and the size of model is only 900+kb (int8) and 1.7M (fp16). Reach 15 FPS on the Raspberry Pi 4B~",
+   2485
+  ],
+  [
+   "OWASP/masvs",
+   "privacy",
+   "Masvs",
+   "The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.",
+   2482
+  ],
+  [
+   "azhon/AppUpdate",
+   "emulation",
+   "AppUpdate",
+   "Android App update library. Android\u7248\u672c\u66f4\u65b0\u5e93\uff0c\u7b80\u5355\u3001\u8f7b\u91cf\u3001\u53ef\u968f\u610f\u5b9a\u5236",
+   2467
+  ],
+  [
+   "Xed-Editor/Xed-Editor",
+   "emulation",
+   "Xed Editor",
+   "Advanced Text Editor for Android",
+   2448
+  ],
+  [
+   "CyrilPeng/Venera-Next",
+   "manga",
+   "Venera Next",
+   "VeneraNext \u662f\u4e00\u4e2a\u8de8\u5e73\u53f0\u6f2b\u753b\u9605\u8bfb\u5668\uff0c\u652f\u6301\u672c\u5730\u6f2b\u753b\u3001WebDAV \u6f2b\u753b\u6e90\u3001\u7b2c\u4e09\u65b9\u7f51\u7edc\u6f2b\u753b\u6e90\uff0c\u652f\u6301 Android\u3001iOS\u3001Windows\u3001Linux\u3001macOS \u5e73\u53f0\u3002",
+   2448
+  ],
+  [
+   "VadimBoev/FlappyBird",
+   "games",
+   "FlappyBird",
+   "Less than 100 Kilobytes. Works for Android 5.0 and above",
+   2445
+  ],
+  [
+   "REAndroid/APKEditor",
+   "privacy",
+   "APKEditor",
+   "Powerful android apk editor - aapt/aapt2 independent",
+   2445
+  ],
+  [
+   "imxieyi/Kernarium",
+   "emulation",
+   "Kernarium",
+   "Run real Linux kernel natively on iOS",
+   2414
+  ],
+  [
+   "mqzhangw/JIMU",
+   "tools",
+   "JIMU",
+   "\u4e00\u79cd\u7b80\u5355\u6709\u6548\u7684android\u7ec4\u4ef6\u5316\u65b9\u6848\uff0c\u652f\u6301\u7ec4\u4ef6\u7684\u4ee3\u7801\u8d44\u6e90\u9694\u79bb\u3001\u5355\u72ec\u8c03\u8bd5\u3001\u96c6\u6210\u8c03\u8bd5\u3001\u7ec4\u4ef6\u4ea4\u4e92\u3001UI\u8df3\u8f6c\u3001\u751f\u547d\u5468\u671f\u7b49\u5b8c\u6574\u529f\u80fd\u3002",
+   2407
+  ],
+  [
+   "xuexiangjys/XUpdate",
+   "health",
+   "XUpdate",
+   "\ud83d\ude80A lightweight, high availability Android version update framework.(\u4e00\u4e2a\u8f7b\u91cf\u7ea7\u3001\u9ad8\u53ef\u7528\u6027\u7684Android\u7248\u672c\u66f4\u65b0\u6846\u67b6)",
+   2406
+  ],
+  [
+   "FoedusProgramme/Gramophone",
+   "privacy",
+   "Gramophone",
+   "A sane music player built with media3 and material design library that is following android's standard strictly.",
+   2406
+  ],
+  [
+   "lbryio/lbry-android",
+   "lifestyle",
+   "Lbry",
+   "The LBRY Android app",
+   2391
+  ],
+  [
+   "hefuyicoder/ListenerMusicPlayer",
+   "emulation",
+   "ListenerMusicPlayer",
+   "A Grace Material Design Music Player",
+   2388
+  ],
+  [
+   "udhaykumarbala/cleanyourtv-app",
+   "launchers",
+   "Cleanyourtv",
+   "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
+   2388
+  ],
+  [
+   "dana-at-cp/backdoor-apk",
+   "dev",
+   "Backdoor Apk",
+   "backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Me",
+   2376
+  ],
+  [
+   "AnyChart/AnyChart-Android",
+   "launchers",
+   "AnyChart",
+   "AnyChart Android Chart is an amazing data visualization library for easily creating interactive charts in Android apps. It runs on API 19+ (Android 4.4) and features dozens of buil",
+   2369
+  ],
+  [
+   "dmzz-yyhyy/LightNovelReader",
+   "manga",
+   "LightNovelReader",
+   "\u4e00\u6b3e\u57fa\u4e8eCompose\u7684\u591a\u6570\u636e\u6e90\u8f7b\u5c0f\u8bf4\u9605\u8bfb\u5668\u3002\u652f\u6301epub\u5bfc\u51fa\uff0c\u81ea\u5b9a\u4e49\u80cc\u666f\u6837\u5f0f\uff0c\u672c\u5730\u4e66\u67b6\u548c\u66f4\u65b0\u63d0\u9192\u7b49\u529f\u80fd\u3002",
+   2363
+  ],
+  [
+   "strato-emu/strato",
+   "emulation",
+   "Strato",
+   "Run Nintendo Switch homebrew & games on your Android device!",
+   2350
+  ],
+  [
+   "accrescent/accrescent",
+   "manga",
+   "Accrescent",
+   "A novel Android app store focused on security, privacy, and usability",
+   2330
+  ],
+  [
+   "HemantKArya/BloomeeTunes",
+   "emulation",
+   "BloomeeTunes",
+   "\ud83c\udf38Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. \ud83c\udf3c\ud83c\udfb5",
+   2328
+  ],
+  [
+   "GrapheneOS/Vanadium",
+   "privacy",
+   "Vanadium",
+   "Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other Gr",
+   2323
+  ],
+  [
+   "Rukey7/MvpApp",
+   "emulation",
+   "MvpApp",
+   "Android MVP Architecture",
+   2318
+  ],
+  [
+   "kota-zo/Orpheon",
+   "privacy",
+   "Orpheon",
+   "Orpheon for Android.",
+   2309
+  ],
+  [
+   "grishka/Houseclub",
+   "emulation",
+   "Houseclub",
+   "A barebones unofficial Android app for Clubhouse",
+   2306
+  ],
+  [
+   "lamster2018/EasyProtector",
+   "emulation",
+   "EasyProtector",
+   "\u4e00\u884c\u4ee3\u7801\u68c0\u6d4bXP/\u8c03\u8bd5/\u591a\u5f00/\u6a21\u62df\u5668/root",
+   2292
+  ],
+  [
+   "badmojr/1Hosts",
+   "privacy",
+   "1Hosts",
+   "Advanced DNS filter/blocklists for privacy, security, and clean browsing.",
+   2282
+  ],
+  [
+   "jo-duchan/tapflow",
+   "emulation",
+   "Tapflow",
+   "Self-hosted iOS & Android simulator streaming for the whole team",
+   2280
+  ],
+  [
+   "lscambo13/ElegantFin",
+   "launchers",
+   "ElegantFin",
+   "A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.",
+   2279
+  ],
+  [
+   "4xmen/anubias",
+   "dev",
+   "Anubias",
+   "Developed mobile apps so easy and native with GUI \ud83d\udcf1",
+   2278
+  ],
+  [
+   "CappielloAntonio/tempo",
+   "health",
+   "Tempo",
+   "An open source and lightweight music client for Subsonic, designed and built natively for Android.",
+   2273
+  ],
+  [
+   "prajwalch/TorrentSearch",
+   "privacy",
+   "TorrentSearch",
+   "An Android app for searching torrents across multiple providers with fast search speed, detailed results, and packed with complete torrent actions.",
+   2248
+  ],
+  [
+   "skalesapp/skales",
+   "emulation",
+   "Skales",
+   "Personal AI agent harness for macOS, Windows, Linux, Android & iOS. New: Skales Scout, lasting AI agents that keep working on your desk, each optionally in its own virtual machine.",
+   2240
+  ],
+  [
+   "mhss1/MyBrain",
+   "ai",
+   "MyBrain",
+   "All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.",
+   2240
+  ],
+  [
+   "jianjunxiao/NiceVieoPlayer",
+   "music",
+   "NiceVieoPlayer",
+   "IjkPlayer/MediaPlayer+TextureView\uff0c\u652f\u6301\u5217\u8868\uff0c\u5b8c\u7f8e\u5207\u6362\u5168\u5c4f\u3001\u5c0f\u7a97\u53e3\u7684Android\u89c6\u9891\u64ad\u653e\u5668",
+   2233
+  ],
+  [
+   "kaaass/ZerotierFix",
+   "tools",
+   "ZerotierFix",
+   "An unofficial Zerotier Android client patched from official client",
+   2213
+  ],
+  [
+   "eleme/lancet",
+   "health",
+   "Lancet",
+   "A lightweight and fast AOP framework for Android App and SDK developers",
+   2208
+  ],
+  [
+   "humblemuzzu/dumbtv",
+   "launchers",
+   "Dumbtv",
+   "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+   2205
+  ],
+  [
+   "man15h/tellyscope",
+   "privacy",
+   "Tellyscope",
+   "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. no root, no PC.",
+   2196
+  ],
+  [
+   "Tencent/Hardcoder",
+   "social",
+   "Hardcoder",
+   "Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API",
+   2195
+  ],
+  [
+   "StellarSand/privacy-settings",
+   "privacy",
+   "Privacy Settings",
+   "Guide to privacy settings for most major software and services.",
+   2181
+  ],
+  [
+   "dmilicic/Android-Clean-Boilerplate",
+   "tools",
+   "Clean Boilerplate",
+   "This is starter template for writing Android apps using Clean architecture",
+   2170
+  ],
+  [
+   "UweTrottmann/SeriesGuide",
+   "media",
+   "SeriesGuide",
+   "Track your favorite TV shows and movies with this Android app",
+   2169
+  ],
+  [
+   "TrianguloY/URLCheck",
+   "privacy",
+   "URLCheck",
+   "Android app by TrianguloY: URLCheck",
+   2162
+  ],
+  [
+   "kitsumed/ShizuCallRecorder",
+   "privacy",
+   "ShizuCallRecorder",
+   "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! Free, no ads or telemetry.",
+   2153
+  ],
+  [
+   "Predidit/oneAnime",
+   "manga",
+   "OneAnime",
+   "\u4e00\u6b3e\u7b80\u6d01\u6e05\u723d\u65e0\u5e7f\u544a\u7684\u770b\u756a\u8f6f\u4ef6\u3002 \u4e00\u6b3e\u5e26\u5f39\u5e55\u7684 anime1 \u7b2c\u4e09\u65b9\u5ba2\u6237\u7aef\uff0c\u754c\u9762\u7b26\u5408 Material You \u89c4\u8303\u3002",
+   2152
+  ],
+  [
+   "REBOOTERS/AndroidAnimationExercise",
+   "emulation",
+   "AndroidAnimationExercise",
+   "Android \u52a8\u753b\u5404\u79cd\u5b9e\u73b0\uff0c\u5305\u62ec\u5e27\u52a8\u753b\u3001\u8865\u95f4\u52a8\u753b\u548c\u5c5e\u6027\u52a8\u753b\u7684\u603b\u7ed3\u5206\u4eab",
+   2122
+  ],
+  [
+   "LinwoodDev/Butterfly",
+   "productivity",
+   "Butterfly",
+   "\ud83c\udfa8 Powerful, minimalistic, cross-platform, opensource note-taking app",
+   2116
+  ],
+  [
+   "gege-circle/.github",
+   "emulation",
+   ".Github",
+   "\u8fd9\u91cc\u662fGitHub\u7684\u8349\u573a\uff0c\u4e5f\u662f\u6208\u6208\u5708\u7231\u597d\u8005\u7684\u4ea4\u6d41\u5730\uff0c\u4e3b\u8981\u8ba8\u8bba\u52a8\u6f2b\u3001\u6e38\u620f\u3001\u79d1\u6280\u3001\u4eba\u6587\u3001\u751f\u6d3b\u7b49\u6240\u6709\u8bdd\u9898\uff0c\u6b22\u8fce\u5404\u4f4d\u5c0f\u4f19\u4f34\u4eec\u5728\u6b64\u8ba8\u8bba\u8da3\u4e8b\u3002This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology",
+   2115
+  ],
+  [
+   "CYB3RMX/Qu1cksc0pe",
+   "emulation",
+   "Qu1cksc0pe",
+   "All-in-One malware analysis tool.",
+   2103
+  ],
+  [
+   "mastodon/mastodon-android",
+   "social",
+   "Mastodon",
+   "Official Android app for Mastodon",
+   2082
+  ],
+  [
+   "x0b/rcx",
+   "privacy",
+   "Rcx",
+   "Rclone for Android",
+   2072
+  ],
+  [
+   "Dar9586/NClientV2",
+   "manga",
+   "NClientV2",
+   "An unofficial NHentai android client",
+   2063
+  ],
+  [
+   "1hakr/AnExplorer",
+   "emulation",
+   "AnExplorer",
+   "\ud83d\udcc1 Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones",
+   2059
+  ],
+  [
+   "ollm/OpenComic",
+   "manga",
+   "OpenComic",
+   "Comic and Manga reader, written with Node.js and using Electron",
+   2048
+  ],
+  [
+   "netguru/sticky-parallax-header",
+   "reading",
+   "Sticky Parallax Header",
+   "A simple React Native library, enabling the creation of fully customized header for your iOS and Android apps.",
+   2026
+  ],
+  [
+   "medyo/android-about-page",
+   "tools",
+   "About Page",
+   "Create an awesome About Page for your Android App in 2 minutes",
+   2024
+  ],
+  [
+   "Hamza417/Inure",
+   "emulation",
+   "Inure",
+   "An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a cus",
+   2011
+  ],
+  [
+   "TapiocaFox/Daijishou",
+   "emulation",
+   "Daijishou",
+   "Daijish\u014d is a retro launcher that manages your retro games libraries. This repo is for assets and served as a main page.",
+   1992
+  ],
+  [
+   "fyhertz/spydroid-ipcamera",
+   "media",
+   "Spydroid Ipcamera",
+   "A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC",
+   1986
+  ],
+  [
+   "Sathvik-Rao/ClipCascade",
+   "launchers",
+   "ClipCascade",
+   "ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.",
+   1985
+  ],
+  [
+   "Jasonzhu1207/ZenConverter",
+   "maps",
+   "ZenConverter",
+   "Local Android file converter built with Kotlin and Jetpack Compose. Convert files on device, with no ads, accounts, or upload-based fallback.",
+   1971
+  ],
+  [
+   "flexn-io/renative",
+   "media",
+   "Renative",
+   "\ud83d\ude80\ud83d\ude80\ud83d\ude80 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firef",
+   1969
+  ],
+  [
+   "AirtestProject/Poco",
+   "games",
+   "Poco",
+   "A cross-engine test automation framework based on UI inspection",
+   1964
+  ],
+  [
+   "androiddevnotes/awesome-android-learning-resources",
+   "emulation",
+   "Awesome Learning Resources",
+   "\ud83d\udc53 A curated list of awesome android learning resources for android app developers.",
+   1957
+  ],
+  [
+   "inulute/freedium-app",
+   "reading",
+   "Freedium",
+   "Medium Unlocker (now Freedium App) is an android app designed to access Medium, NYT, Bloomberg, Washington Post, Financial Times, Reuters, The Economist articles without any paywal",
+   1946
+  ],
+  [
+   "mgerdes/Open-Golf",
+   "games",
+   "Open Golf",
+   "A cross-platform minigolf game written in C.",
+   1941
+  ],
+  [
+   "InlitX/GymMane",
+   "emulation",
+   "GymMane",
+   "Offline gym log for Android. No account, no ads, no internet.",
+   1934
+  ],
+  [
+   "cortinico/kotlin-android-template",
+   "privacy",
+   "Kotlin Template",
+   "Android + Kotlin + Github Actions + ktlint + Detekt + Gradle Kotlin DSL + buildSrc = \u2764\ufe0f",
+   1917
+  ],
+  [
+   "githubXiaowangzi/NP-Manager",
+   "privacy",
+   "NP Manager",
+   "Apk\u63a7\u5236\u6d41\u6df7\u6dc6\uff1bApk-Dex2C\uff1bRes\u8d44\u6e90\u6df7\u6dc6\uff1bDex\u3001jar\u3001smali\u6587\u4ef6\u7684\u76f8\u4e92\u8f6c\u6362\uff1b Dex\u3001Pdf\u6587\u4ef6\u5408\u5e76\uff1b Apk\u3001dex\u3001jar\u6df7\u6dc6\u548c\u5b57\u7b26\u4e32\u52a0\u5bc6\uff1b Apk\u7b7e\u540d\u3001\u5171\u5b58\uff1b Res\u8d44\u6e90\u6df7\u6dc6\uff1b Dex\u3001AXML\u3001ARSC\u6587\u4ef6\u7f16\u8f91\u53ca\u7ffb\u8bd1\uff1b\u5b57\u7b26\u4e32\u52a0\u5bc6(Apk\u3001dex)\uff1b \u4e00\u952e\u6dfb\u52a0Xposed\u68c0\u6d4b\uff0c\u4e00\u952e\u6dfb\u52a0\u5f39\u7a97\u3001\u5bf9\u8bdd\u6846\uff1b axml\u53cd\u7f16\u8bd1/\u56de\u7f16\u8bd1\uff1b \u4e00\u952eL",
+   1909
+  ],
+  [
+   "yrom/ScreenRecorder",
+   "privacy",
+   "ScreenRecorder",
+   "Implement screen capture without root on Android 5.0+ by using MediaProjectionManager, VirtualDisplay, AudioRecord, MediaCodec and MediaMuxer APIs",
+   1906
+  ],
+  [
+   "meganz/android",
+   "privacy",
+   "MEGA",
+   "MEGA Android App",
+   1899
+  ],
+  [
+   "LagradOst/QuickNovel",
+   "manga",
+   "QuickNovel",
+   "Android app for downloading novels",
+   1898
+  ],
+  [
+   "ethereal-developers/OpenScan",
+   "privacy",
+   "OpenScan",
+   "Document Scanner that protects your privacy",
+   1889
+  ],
+  [
+   "ptrpaws/Oculess",
+   "reading",
+   "Oculess",
+   "Removes account requirements and telemetry from Oculus Quest devices",
+   1880
+  ],
+  [
+   "aptabase/aptabase",
+   "privacy",
+   "Aptabase",
+   "\u2728 Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps",
+   1879
+  ],
+  [
+   "Waboodoo/HTTP-Shortcuts",
+   "launchers",
+   "HTTP Shortcuts",
+   "Android app to create home screen shortcuts that trigger arbitrary HTTP requests and more",
+   1872
+  ],
+  [
+   "chame1eon/jnitrace",
+   "dev",
+   "Jnitrace",
+   "A Frida based tool that traces usage of the JNI API in Android apps.",
+   1865
+  ],
+  [
+   "thejaustin/ShizukuPlus",
+   "privacy",
+   "ShizukuPlus",
+   "Shizuku+ brings Root/ADB/Dhizuku unification, a Plus API suite, OneUI/Android 16+ support, M3E theming, TCP connectivity, improved customization, & more.",
+   1862
+  ],
+  [
+   "media-kit/media-kit",
+   "music",
+   "Media Kit",
+   "Cross-platform video player & audio player for Flutter & Dart.",
+   1856
+  ],
+  [
+   "minivision-ai/Silent-Face-Anti-Spoofing",
+   "ai",
+   "Silent Face Anti Spoofing",
+   "\u9759\u9ed8\u6d3b\u4f53\u68c0\u6d4b\uff08Silent-Face-Anti-Spoofing\uff09",
+   1855
+  ],
+  [
+   "SchneeHertz/exhentai-manga-manager",
+   "manga",
+   "Exhentai Manga Manager",
+   "ExHentai\u672c\u5730\u6f2b\u753b\u6807\u7b7e\u7ba1\u7406\u9605\u8bfb\u5e94\u7528, ExHentai local manga tag-manager and reader",
+   1850
+  ],
+  [
+   "aeharding/voyager",
+   "privacy",
+   "Voyager",
+   "Voyager \u2014 a beautiful app for Lemmy and Piefed",
+   1838
+  ],
+  [
+   "ElderDrivers/EdXposedManager",
+   "social",
+   "EdXposedManager",
+   "Companion Android application for EdXposed",
+   1835
+  ],
+  [
+   "abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+   "social",
+   "Flutter Responsive Email Ui Mobile Tablet And Web",
+   "We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.",
+   1827
+  ],
+  [
+   "tonyofrancis/Fetch",
+   "emulation",
+   "Fetch",
+   "The best file downloader library for Android",
+   1827
+  ],
+  [
+   "aidanpark/openclaw-android",
+   "ai",
+   "Openclaw",
+   "Run OpenClaw on Android with a single command \u2014 no proot, no Linux",
+   1815
+  ],
+  [
+   "Moustachauve/cookie-editor",
+   "privacy",
+   "Cookie Editor",
+   "A powerful browser extension to create, edit and delete cookies",
+   1796
+  ],
+  [
+   "kha-white/mokuro",
+   "emulation",
+   "Mokuro",
+   "Read Japanese manga inside browser with selectable text.",
+   1792
+  ],
+  [
+   "iampawan/Flutter-Music-Player",
+   "privacy",
+   "Flutter Music Player",
+   "Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files.",
+   1788
+  ],
+  [
+   "intika/Librefox",
+   "privacy",
+   "Librefox",
+   "Librefox: Firefox with privacy enhancements",
+   1782
+  ],
+  [
+   "rafaelvcaetano/melonDS-android",
+   "emulation",
+   "MelonDS",
+   "Android port of melonDS",
+   1772
+  ],
+  [
+   "rawnaldclark/Stash",
+   "music",
+   "Stash",
+   "Your music is infinite on Stash. Connect your service & experience the joy of music. Free and open source forever.",
+   1765
+  ],
+  [
+   "raoxwup/haka_comic",
+   "manga",
+   "Haka Comic",
+   "\u54d4\u5494\u6f2b\u753b(PicACG/Bika/Pica)\u7b2c\u4e09\u65b9\u8de8\u5e73\u53f0\u5ba2\u6237\u7aef\uff0c\u6e05\u723d\u65e0\u5e7f\u544a",
+   1762
+  ],
+  [
+   "teamclouday/AndroidMic",
+   "music",
+   "AndroidMic",
+   "Use your Android phone as a microphone for your PC",
+   1762
+  ],
+  [
+   "The404Hacking/AndroRAT",
+   "privacy",
+   "AndroRAT",
+   "AndroRAT | Remote Administrator Tool for Android OS Hacking",
+   1758
+  ],
+  [
+   "chadyi/StudyOnTV",
+   "launchers",
+   "StudyOnTV",
+   "StudyOnTV (Tiledaoti TV) \u2014 open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and ",
+   1754
+  ],
+  [
+   "CatimaLoyalty/Android",
+   "lifestyle",
+   "Catima",
+   "Catima, a Loyalty Card & Ticket Manager for Android",
+   1749
+  ],
+  [
+   "ladingwu/dimens_sw",
+   "tools",
+   "Dimens Sw",
+   "Android UI\u9002\u914d\u65b9\u6848",
+   1743
+  ],
+  [
+   "vega-org/vega-app",
+   "media",
+   "Vega",
+   "A app to Play, Stream or Cast Media for andorid.",
+   1736
+  ],
+  [
+   "Myzel394/Alibi",
+   "privacy",
+   "Alibi",
+   "Use your phone as a dashcam and save the last 30 minutes when you need them.",
+   1736
+  ],
+  [
+   "Paving-Base/APK-Installer",
+   "tools",
+   "APK Installer",
+   "An Android Application Installer for Windows",
+   1726
+  ],
+  [
+   "niuhuan/kobi",
+   "manga",
+   "Kobi",
+   "\u7f8e\u89c2\u6613\u7528\u4e14\u65e0\u5e7f\u544a\u7684\u6f2b\u753b\u548c\u8f7b\u5c0f\u8bf4\u5ba2\u6237\u7aef, \u540c\u65f6\u652f\u6301MacOS\uff0cWindows\uff0cAndroid\uff0ciOS\u3002(\u62f7\u8d1d\u6f2b\u753b)",
+   1724
+  ],
+  [
+   "zyrouge/symphony",
+   "health",
+   "Symphony",
+   "\ud83c\udfb5 Lightweight, elegant music player for Android 9+.",
+   1723
+  ],
+  [
+   "befovy/fijkplayer",
+   "music",
+   "Fijkplayer",
+   "ijkplayer for flutter. ijkplayer \u7684 flutter \u5c01\u88c5\u3002 Flutter video/audio player. Flutter media player plugin for android/iOS based on ijkplayer. fijkplayer \u662f\u57fa\u4e8e ijkplayer \u5c01\u88c5\u7684 flutter \u5a92\u4f53\u64ad\u653e",
+   1715
+  ],
+  [
+   "niuhuan/daisy",
+   "manga",
+   "Daisy",
+   "\u7f8e\u89c2\u6613\u7528\u4e14\u65e0\u5e7f\u544a\u7684\u6f2b\u753b\u548c\u8f7b\u5c0f\u8bf4\u5ba2\u6237\u7aef, \u540c\u65f6\u652f\u6301MacOS\uff0cWindows\uff0cAndroid\uff0ciOS\u3002(\u52a8\u6f2b\u4e4b\u5bb6)",
+   1713
+  ],
+  [
+   "FriesI23/mhabit",
+   "health",
+   "Mhabit",
+   "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
+   1710
+  ],
+  [
+   "Akshayykadam/PixelBoard",
+   "ai",
+   "PixelBoard",
+   "Unlock Google 11's Gemini \"Rambler\" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.",
+   1705
+  ],
+  [
+   "mateusz-bak/openreads",
+   "privacy",
+   "Openreads",
+   "A mobile books tracker written in Flutter that respects your privacy.",
+   1701
+  ],
+  [
+   "AltanS/collie",
+   "ai",
+   "Collie",
+   "Herdr mobile app for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.",
+   1689
+  ],
+  [
+   "GramAddict/bot",
+   "emulation",
+   "Bot",
+   "Completely free and open-source human-like Instagram bot. Powered by UIAutomator2 and compatible with basically any Android device 5.0+ that can run Instagram - real or emulated.",
+   1681
+  ],
+  [
+   "JessYanCoding/ArmsComponent",
+   "emulation",
+   "ArmsComponent",
+   "\ud83d\udce6 A complete android componentization solution, powered by MVPArms (MVPArms \u5b98\u65b9\u5feb\u901f\u7ec4\u4ef6\u5316\u65b9\u6848).",
+   1670
+  ],
+  [
+   "boyan01/flutter-tetris",
+   "games",
+   "Flutter Tetris",
+   "a tetris game powered by flutter. \u4f7f\u7528flutter\u5f00\u53d1\u4fc4\u7f57\u65af\u65b9\u5757\u3002",
+   1668
+  ],
+  [
+   "Livinglist/Hacki",
+   "reading",
+   "Hacki",
+   "A highly customizable, open-source Hacker News client.",
+   1644
+  ],
+  [
+   "jenly1314/KingTV",
+   "emulation",
+   "KingTV",
+   "\ud83d\udcfa \u3010\u505c\u6b62\u7ef4\u62a4\u3011\u9ad8\u4eff\u5168\u6c11\u76f4\u64ad\uff08\u5168\u6c11TV\uff09\uff0c\u9879\u76ee\u91c7\u7528 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao\u6784\u5efa\u3002\u56e0\u4e3a\u5168\u6c11TV\u5df2\u7ecf\u51c9\u4e86\uff0c\u5bfc\u81f4App\u5df2\u7ecf\u8fde\u4e0d\u4e0a\u4e86\u3002\u5728\u8fd9\u91cc\u7279\u610f\u5411\u4f60\u63a8\u8350MVVMFrame\u5feb\u901f\u5f00\u53d1\u6846\u67b6: https://github.",
+   1597
+  ],
+  [
+   "Seagey/couch-tv",
+   "emulation",
+   "Couch Tv",
+   "Your Own TV Home Screen - Faster, nicer, removes spyware and tonnes more features.",
+   1596
+  ],
+  [
+   "dessalines/thumb-key",
+   "privacy",
+   "Thumb Key",
+   "A privacy-conscious Android keyboard made for your thumbs",
+   1584
+  ],
+  [
+   "mcastillof/FakeTraveler",
+   "maps",
+   "FakeTraveler",
+   "Fake where your phone is located (Mock location for Android).",
+   1582
+  ],
+  [
+   "javiersantos/PiracyChecker",
+   "reading",
+   "PiracyChecker",
+   "An Android library that prevents your app from being pirated / cracked using Google Play Licensing (LVL), APK signature protection and more. API 14+ required.",
+   1569
+  ],
+  [
+   "nonbili/NouTube",
+   "music",
+   "NouTube",
+   "YouTube and YouTube Music in a single app. No ads, plays in the background.",
+   1561
+  ],
+  [
+   "AeonLucid/AndroidNativeEmu",
+   "emulation",
+   "AndroidNativeEmu",
+   "Allows you to partly emulate an Android native library.",
+   1555
+  ],
+  [
+   "crowforkotlin/pastemangax",
+   "manga",
+   "Pastemangax",
+   "\u62f7\u8d1d\u6f2b\u753b\u4e09\u65b9APP \u3001\u9879\u76ee\u91c7\u7528\u591a\u6a21\u5757 \u548c MVI\u6846\u67b6\u5f00\u53d1\u3001Compose + \u539f\u751f\u6df7\u5408\u5f00\u53d1",
+   1550
+  ],
+  [
+   "clementwzk/OpenCalc",
+   "privacy",
+   "OpenCalc",
+   "A simple and beautiful calculator for Android downloaded more than 300k times",
+   1548
+  ],
+  [
+   "Pool-Of-Tears/Myne",
+   "emulation",
+   "Myne",
+   "An android app to download & read ebooks from Project Gutenberg, built with Jetpack Compose.",
+   1546
+  ],
+  [
+   "naman14/TimberX",
+   "emulation",
+   "TimberX",
+   "Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding)",
+   1541
+  ],
+  [
+   "gotify/android",
+   "productivity",
+   "Gotify",
+   "An app for creating push notifications for new messages posted to gotify/server.",
+   1540
+  ],
+  [
+   "potatameister/PaperKnife",
+   "privacy",
+   "PaperKnife",
+   "Privacy-first PDF utility (Zero-Server Architecture). Merge, split, compress, and edit PDFs 100% locally on your device. No uploads, no servers, no tracking.",
+   1538
+  ],
+  [
+   "Spikeysanju/MotionToast",
+   "reading",
+   "MotionToast",
+   "\ud83c\udf08 A Beautiful Motion Toast Library for Kotlin Android",
+   1536
+  ],
+  [
+   "OpenLauncherTeam/openlauncher",
+   "launchers",
+   "Openlauncher",
+   "Customizable and Open Source Launcher for Android",
+   1522
+  ],
+  [
+   "balzack/databag",
+   "health",
+   "Databag",
+   "fast & lightweight self-hosted messenger",
+   1511
+  ],
+  [
+   "cyb3rko/flashdim",
+   "emulation",
+   "Flashdim",
+   "Modern flashlight app with dim functionality on Android 13+",
+   1487
+  ],
+  [
+   "typ0520/fastdex",
+   "dev",
+   "Fastdex",
+   "\ud83d\ude80 \u52a0\u5feb apk \u7684\u7f16\u8bd1\u901f\u5ea6 \ud83d\ude80",
+   1485
+  ],
+  [
+   "WSTxda/SwitchAI",
+   "emulation",
+   "SwitchAI",
+   "Easily select, start, and manage your preferred AI digital assistants on Android.",
+   1480
+  ],
+  [
+   "vitalets/awesome-smart-tv",
+   "media",
+   "Awesome Smart Tv",
+   ":zap:A curated list of awesome resources for building Smart TV apps",
+   1479
+  ],
+  [
+   "lanlinju/Animius",
+   "manga",
+   "Animius",
+   "\u4e00\u4e2a\u7b80\u6d01\u7684\u64ad\u653e\u52a8\u6f2b\u7684App\uff0c\u652f\u6301\u5f39\u5e55\uff0c\u591a\u6570\u636e\u6e90\u7b49\uff0c\u4f7f\u7528Jetpack Compose\u8fdb\u884c\u5f00\u53d1",
+   1475
+  ],
+  [
+   "cosmictaserdev-creator/Convx",
+   "music",
+   "Convx",
+   "A free, open-source Android music player for YouTube Music with an iOS-style Liquid Glass interface, synced lyrics, Automix and Listen Together.",
+   1468
+  ],
+  [
+   "ozkriff/zemeroth",
+   "games",
+   "Zemeroth",
+   "\ud83d\ude20\u2694\ufe0f\ud83d\ude08 A minimalistic 2D turn-based tactical game in Rust",
+   1464
+  ],
+  [
+   "sayaka-sh/spmp",
+   "music",
+   "Spmp",
+   "SpMp has been succeeded by Kanon, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and",
+   1454
+  ],
+  [
+   "mrrfv/open-android-backup",
+   "privacy",
+   "Open Backup",
+   "Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.",
+   1450
+  ],
+  [
+   "measure-sh/measure",
+   "privacy",
+   "Measure",
+   "Measure helps mobile teams monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics.",
+   1449
+  ],
+  [
+   "solkin/appteka-android",
+   "privacy",
+   "Appteka",
+   "\ud83d\udc8a Appteka is an alternative store for Android",
+   1447
+  ],
+  [
+   "AndroidCSOfficial/android-code-studio",
+   "dev",
+   "Code Studio",
+   "Android Code Studio is an IDE for Android to develop full featured Android apps.",
+   1447
+  ],
+  [
+   "eddyizm/tempus",
+   "health",
+   "Tempus",
+   "An open source and lightweight music client for Subsonic, designed and built natively for Android.",
+   1446
+  ],
+  [
+   "Jman-Github/Universal-Patch-Manager",
+   "productivity",
+   "Universal Patch Manager",
+   "\ud83d\udc8a Android manager for ReVanced, Morphe, and Reseam with third-party patch bundles, batch and automatic repatching, advanced installers, APK tools, and deep customization.",
+   1443
+  ],
+  [
+   "daboynb/Safetycore-placeholder",
+   "privacy",
+   "Safetycore Placeholder",
+   "Placeholder APK to permanently block Google SafetyCore installation and updates",
+   1443
+  ],
+  [
+   "fandreuz/TUI-ConsoleLauncher",
+   "launchers",
+   "TUI ConsoleLauncher",
+   "Linux CLI Launcher for Android",
+   1438
+  ],
+  [
+   "GrapheneOS/Camera",
+   "privacy",
+   "Camera",
+   "Modern camera app focused on privacy and security with QR & barcode scanning.",
+   1434
+  ],
+  [
+   "dominostars/playtranslate",
+   "emulation",
+   "Playtranslate",
+   "Real-time translation and language learning Android app for games, visual novels, manga, and any other screen text. \u5c4f\u5e55\u7ffb\u8bd1 \u6e38\u620f\u7ffb\u8bd1",
+   1433
+  ],
+  [
+   "leinelissen/fintunes",
+   "emulation",
+   "Fintunes",
+   "\ud83c\udfb5 A gorgeous Jellyfin audio streaming app for iOS and Android",
+   1431
+  ],
+  [
+   "mokshablr/gander",
+   "privacy",
+   "Gander",
+   "Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, ODT, RTF, ZIP, STL, photos, video, audio, Markdown and code.",
+   1429
+  ],
+  [
+   "AudileTeam/Audile",
+   "launchers",
+   "Audile",
+   "An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.",
+   1429
+  ],
+  [
+   "Acclorite/book-story",
+   "privacy",
+   "Book Story",
+   "Book's Story \u2014 Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.",
+   1429
+  ],
+  [
+   "jean-voila/FeurStagram",
+   "games",
+   "FeurStagram",
+   "Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.",
+   1424
+  ],
+  [
+   "ximeiorg/Xime",
+   "ai",
+   "Xime",
+   "\u6211\u7684\u81ea\u7528\u5b89\u5353\u8f93\u5165\u6cd5\uff0c\u57fa\u4e8eRime \u6784\u5efa\uff0c\u90e8\u5206\u529f\u80fd\u7531\u672c\u4eba\u8bbe\u8ba1\u7684\u672c\u5730AI\u6a21\u578b\u9a71\u52a8\uff0c\u652f\u6301\u4e94\u7b14/\u62fc\u97f3/\u81ea\u5b9a\u4e49\u65b9\u6848\u3002",
+   1424
+  ],
+  [
+   "sdex/ActivityManager",
+   "privacy",
+   "ActivityManager",
+   "Launch any application activity",
+   1420
+  ],
+  [
+   "remittor/zapret-openwrt",
+   "dev",
+   "Zapret Openwrt",
+   "OpenWrt packages of https://github.com/bol-van/zapret",
+   1414
+  ],
+  [
+   "wheremyfoodat/Panda3DS",
+   "emulation",
+   "Panda3DS",
+   "HLE 3DS emulator",
+   1414
+  ],
+  [
+   "samyak2403/RepoStore",
+   "privacy",
+   "RepoStore",
+   "Explore apps published on GitHub, view release details, and install APKs instantly \u2014 all in one place. Developed using pure Kotlin, optimized for modern Android devices.",
+   1407
+  ],
+  [
+   "SimpleMobileTools/Simple-Music-Player",
+   "launchers",
+   "Simple Music Player",
+   "A clean music player with a customizable widget, stylish interface and no ads.",
+   1405
+  ],
+  [
+   "Reinisch/Darkest-Dungeon-Unity",
+   "games",
+   "Darkest Dungeon Unity",
+   "Darkest Dungeon port in Unity. Almost completely identical to the original. Platforms: PC/Android.",
+   1400
+  ],
+  [
+   "thyrlian/AndroidSDK",
+   "emulation",
+   "AndroidSDK",
+   "\ud83d\udc33 Full-fledged Android SDK Docker Image",
+   1393
+  ],
+  [
+   "tryzealot/zealot",
+   "launchers",
+   "Zealot",
+   "Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps | \u5f00\u6e90\u81ea\u90e8\u7f72\u79fb\u52a8\u5e94\u7528\u3001 macOS\u3001Linux \u548c Windows \u5e94\u7528\u5206\u53d1\u5e73\u53f0\uff0c\u63d0\u4f9b iOS\u3001Android SDK\u3001fastlane \u7b49\u4e30\u5bcc\u7ec4\u4ef6\u5e93",
+   1373
+  ],
+  [
+   "ciddwd/overlay-translator",
+   "manga",
+   "Overlay Translator",
+   "\u65e0\u9700 ROOT \u7684\u5f00\u6e90 Android \u5c4f\u5e55\u5b9e\u65f6\u7ffb\u8bd1\u5de5\u5177\uff0c\u9002\u5408\u6e38\u620f\u3001\u89c6\u89c9\u5c0f\u8bf4\u548c\u6f2b\u753b\u3002\u652f\u6301\u7aef\u4fa7\u4e0e\u4e91\u7aef OCR\u3001\u79bb\u7ebf LLM\u3001\u591a\u79cd\u7ffb\u8bd1\u670d\u52a1\u548c\u6587\u5b57\u6717\u8bfb\uff08TTS\uff09\uff0c\u8bd1\u6587\u53ef\u76f4\u63a5\u663e\u793a\u5728\u753b\u9762\u4e0a\u3002Open-source no-root Android real-time screen translator for games, visual novels, and mang",
+   1372
+  ],
+  [
+   "Mybridge/amazing-android-apps",
+   "tools",
+   "Amazing Apps",
+   "Amazing open source Android apps written in Java.",
+   1360
+  ],
+  [
+   "DroidKaigi/conference-app-2018",
+   "tools",
+   "Conference 2018",
+   "The Official Conference App for DroidKaigi 2018 Tokyo",
+   1334
+  ],
+  [
+   "ligi/SurvivalManual",
+   "tools",
+   "SurvivalManual",
+   "Libre Survival Manual for Android with offline in mind",
+   1330
+  ],
+  [
+   "MuwMx/YumaPlayer",
+   "maps",
+   "YumaPlayer",
+   "\ud83c\udfb5 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism\ud83d\udcab",
+   1325
+  ],
+  [
+   "anudeepND/blacklist",
+   "privacy",
+   "Blacklist",
+   "Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. \u26a1\ud83d\udd12",
+   1319
+  ],
+  [
+   "torlando-tech/columba",
+   "privacy",
+   "Columba",
+   "Native Android messaging app using Bluetooth LE, TCP, or RNode (LoRa) over LXMF and Reticulum",
+   1316
+  ],
+  [
+   "flareteam/flare-engine",
+   "games",
+   "Flare Engine",
+   "Free/Libre Action Roleplaying Engine (engine only)",
+   1312
+  ],
+  [
+   "JMAN730/opendroid",
+   "ai",
+   "Opendroid",
+   "Your Open Autonomous Android Agent \u2014 A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation.",
+   1300
+  ],
+  [
+   "Lambada10/SongSync",
+   "music",
+   "SongSync",
+   "Android app to download lyrics for songs in your music library.",
+   1298
+  ],
+  [
+   "RyanYuuki/AnymeX",
+   "manga",
+   "AnymeX",
+   "An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)",
+   1296
+  ],
+  [
+   "zephyr4123/snug",
+   "privacy",
+   "Snug",
+   "\u8ba9\u8fdc\u7a0b Mac \u5728\u4efb\u610f\u8bbe\u5907\u4e0a\u83b7\u5f97\u539f\u751f\u7ea7\u4f53\u9a8c\u3002\u4e13\u4e3a UU\u8fdc\u7a0b \u6253\u9020\u7684\u663e\u793a\u4e0e\u89e6\u63a7\u589e\u5f3a\uff1a\u624b\u673a\u3001\u5e73\u677f\u3001\u7535\u8111\u5404\u6709\u4e13\u5c5e\u5c4f\u5e55\uff0c\u753b\u9762\u94fa\u6ee1\u3001\u5b57\u53f7\u968f\u5c4f\uff0c\u539f\u751f\u89e6\u5c4f\u624b\u52bf\uff0cApp \u8d44\u6e90\u5e93\u3002Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with ",
+   1296
+  ],
+  [
+   "android/tv-samples",
+   "media",
+   "Tv Samples",
+   "Multiple samples showing best practices in app development on Android TV.",
+   1287
+  ],
+  [
+   "Anthonyy232/Paperize",
+   "launchers",
+   "Paperize",
+   "Android wallpaper changer: rotate your own albums on the home and lock screen on a schedule, with blur, dim and vignette effects",
+   1278
+  ],
+  [
+   "adolfintel/OpenPods",
+   "privacy",
+   "OpenPods",
+   "The Free and Open Source app for monitoring your AirPods on Android",
+   1272
+  ],
+  [
+   "javiersantos/MLManager",
+   "productivity",
+   "MLManager",
+   "A modern, easy and customizable app manager for Android with Material Design",
+   1268
+  ],
+  [
+   "binaryshrey/Awesome-Android-Open-Source-Projects",
+   "privacy",
+   "Awesome Open Source Projects",
+   ":eyeglasses: A curated list of awesome android projects by open-source contributors.",
+   1265
+  ],
+  [
+   "Sandakan/Nora",
+   "music",
+   "Nora",
+   "An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.",
+   1265
+  ],
+  [
+   "Monica-Pass/Monica",
+   "privacy",
+   "Monica",
+   "Monica Pass\uff0cPassword Management, 2FA Generator",
+   1264
+  ],
+  [
+   "Materialious/Materialious",
+   "launchers",
+   "Materialious",
+   "Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious ",
+   1252
+  ],
+  [
+   "mudkipme/MoeMemosAndroid",
+   "dev",
+   "MoeMemosAndroid",
+   "An app to help you capture thoughts and ideas",
+   1251
+  ],
+  [
+   "Razeeman/Android-SimpleTimeTracker",
+   "privacy",
+   "SimpleTimeTracker",
+   "Simple app that tracks time.",
+   1249
+  ],
+  [
+   "Trixarian/NetherSX2-classic",
+   "emulation",
+   "NetherSX2 Classic",
+   "Continuation of NetherSX2 based on AetherSX2 3668",
+   1246
+  ],
+  [
+   "InlitX/streak",
+   "health",
+   "Streak",
+   "Minimal, private, ad-free habit tracker built with Flutter \u2014 track habits, build streaks, all offline.",
+   1243
+  ],
+  [
+   "albertomosconi/foss-apps",
+   "privacy",
+   "Foss Apps",
+   "a list of 100+ awesome open source android apps \ud83d\udcf1",
+   1240
+  ],
+  [
+   "shub39/Grit",
+   "health",
+   "Grit",
+   "\ud83d\udd28 A Simple todo list and habit tracker for Android",
+   1238
+  ],
+  [
+   "Androidacy/MagiskModuleManager",
+   "privacy",
+   "MagiskModuleManager",
+   "Previously known as Fox's Magisk Module Manager (FoxMMM), this app helps users find, install \"Magisk Modules\" - powerful little zips/apps for your device that plug into the Magisk ",
+   1238
+  ],
+  [
+   "PatilShreyas/Capturable",
+   "maps",
+   "Capturable",
+   "\ud83d\ude80Jetpack Compose utility library for capturing Composable content and transforming it into Bitmap Image\ud83d\uddbc\ufe0f",
+   1229
+  ],
+  [
+   "LeanBitLab/LeanType",
+   "ai",
+   "LeanType",
+   "LeanType is an Open-source keyboard, fork of HeliBoard with additional features and customisation",
+   1221
+  ],
+  [
+   "patzly/grocy-android",
+   "dev",
+   "Grocy",
+   "ERP beyond your fridge, now on your phone \u2013 An awesome companion app for Grocy",
+   1214
+  ],
+  [
+   "matthiasn/lotti",
+   "ai",
+   "Lotti",
+   "A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next \u2014 you approve the changes. End-to-end encrypted sync between your ",
+   1208
+  ],
+  [
+   "smartyuge/TVSample",
+   "media",
+   "TVSample",
+   "1\u3001\u4eff\u6cf0\u6377\u89c6\u9891\u6700\u65b0TV\u7248 Metro UI\u6548\u679c. 2\u3001\u4eff\u817e\u8baf\u89c6\u9891TV\u7248(\u4e91\u89c6\u542c\u00b7\u6781\u5149) \u5217\u8868\u9875",
+   1207
+  ],
+  [
+   "gujjwal00/avnc",
+   "lifestyle",
+   "Avnc",
+   "VNC Client for Android",
+   1203
+  ],
+  [
+   "wangzhishou/OneBox",
+   "ai",
+   "OneBox",
+   "A free AI agent & toolbox for Android | \u4e00\u7ad9\u5f0f\u5b89\u5353 AI \u667a\u80fd\u4f53 & \u5de5\u5177\u7bb1",
+   1200
+  ],
+  [
+   "afreakyelf/Pdf-Viewer",
+   "health",
+   "Pdf Viewer",
+   "A Lightweight PDF Viewer Android library which only occupies around 80kb while most of the Pdf viewer occupies up to 16MB space.",
+   1200
+  ],
+  [
+   "BlackyHawky/Clock",
+   "launchers",
+   "Clock",
+   "Customizable, privacy\u2011first, open-source clock app inspired by AOSP Clock",
+   1199
+  ],
+  [
+   "RyensX/MediaBox",
+   "manga",
+   "MediaBox",
+   "\u5168\u80fd\u5a92\u4f53\u5bb9\u5668\uff0c\u63d2\u4ef6\u5316\u7f51\u7f57\u5929\u4e0b\u5a92\u4f53\uff0c\u7545\u5feb\u6d4f\u89c8\u89c6\u9891\u3001\u6f2b\u753b\u548c\u4efb\u4f55\u4f60\u60f3\u8981\u7684\u5a92\u4f53\u6570\u636e\u3002A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.",
+   1198
+  ],
+  [
+   "nonbili/Nora",
+   "social",
+   "Nora",
+   "SNS browser. Facebook, Instagram, Reddit, Threads, X and more in a single app. No ads.",
+   1194
+  ],
+  [
+   "reversenseorg/dexcalibur",
+   "privacy",
+   "Dexcalibur",
+   "Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur. Reversense is a binary intelligence platform that automates the reverse engineering of mobile and embedd",
+   1192
+  ],
+  [
+   "theothernt/AerialViews",
+   "music",
+   "AerialViews",
+   "A screensaver for Android TV devices including Google TV, Nvidia Shield, and Fire TV. Inspired by Apple TV's video screensaver.",
+   1192
+  ],
+  [
+   "NiagaraLauncher/Niagara-Issues",
+   "launchers",
+   "Niagara Issues",
+   "The latest releases for Niagara Launcher, a modern + minimalist Android home screen optimized for one-\u270b access and staying focused.",
+   1190
+  ],
+  [
+   "appsfolder/livebridge",
+   "social",
+   "Livebridge",
+   "Level up your dynamic pill/island on Android",
+   1190
+  ],
+  [
+   "xiaoyvyv/bangumi",
+   "manga",
+   "Bangumi",
+   "Bangumi for CMP - A full-featured unofficial compose-multiplatform application for the bangumi.tv",
+   1187
+  ],
+  [
+   "luoyesiqiu/dpt-shell",
+   "privacy",
+   "Dpt Shell",
+   "An android Dex protection shell implementation",
+   1183
+  ],
+  [
+   "amurcanov/proxy-turn-vk-android",
+   "privacy",
+   "Proxy Turn Vk",
+   "WireGuard\u2011\u0442\u0443\u043d\u043d\u0435\u043b\u044c \u0447\u0435\u0440\u0435\u0437 DTLS\u2011\u043c\u0435\u0434\u0438\u0430\u0440\u0435\u043b\u0435\u0439 \u0412\u041a TURN\u2011\u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432: \u0442\u0440\u0430\u0444\u0438\u043a \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442 \u043e\u0442 \u043a\u043b\u0438\u0435\u043d\u0442\u0430 \u043a \u0432\u0430\u0448\u0435\u043c\u0443 \u043b\u0438\u0447\u043d\u043e\u043c\u0443 VPS\u2011\u0441\u0435\u0440\u0432\u0435\u0440\u0443 \u0447\u0435\u0440\u0435\u0437 \u043f\u0440\u043e\u043c\u0435\u0436\u0443\u0442\u043e\u0447\u043d\u044b\u0435 \u043c\u0435\u0434\u0438\u0430\u0440\u0435\u043b\u0435\u0439\u2011\u0441\u0435\u0440\u0432\u0435\u0440\u044b \u0412\u041a.",
+   1174
+  ],
+  [
+   "EvanBacon/Expo-Crossy-Road",
+   "games",
+   "Expo Crossy Road",
+   "\ud83d\udc25\ud83d\ude99 Crossy Road game clone made in Expo (iOS, Android, web), THREE.js, Tween, React Native. \ud83d\udc14",
+   1165
+  ],
+  [
+   "knighthat/Kreate",
+   "music",
+   "Kreate",
+   "A multilingual YouTube Music frontend for Android, prioritize performance",
+   1165
+  ],
+  [
+   "pmh1314520/MCTier",
+   "games",
+   "MCTier",
+   "A virtual LAN gaming tool built for gamers, compatible with all LAN games. Easily bypass network restrictions to play with friends online. | \u4e00\u6b3e\u4e13\u4e3a\u73a9\u5bb6\u6253\u9020\u7684\u865a\u62df\u5c40\u57df\u7f51\u8054\u673a\u5de5\u5177\uff0c\u652f\u6301\u6240\u6709\u5c40\u57df\u7f51\u6e38\u620f\u8054\u673a\u4f7f\u7528\uff0c\u8ba9\u60a8\u53ef\u4ee5\u8f7b\u677e",
+   1154
+  ],
+  [
+   "zunjae/AnYme",
+   "manga",
+   "AnYme",
+   "Unofficial Android Anime App for MyAnimeList",
+   1149
+  ],
+  [
+   "caydey/ffshare",
+   "music",
+   "Ffshare",
+   "An android app to compress image, video and audio files through ffmpeg before sharing them",
+   1148
+  ],
+  [
+   "komikku-app/anikku",
+   "manga",
+   "Anikku",
+   "Free and open source anime watcher for Android",
+   1147
+  ],
+  [
+   "mobilenetworkltd/openapk",
+   "privacy",
+   "Openapk",
+   "List of awesome open source apps for Android. Updated daily!",
+   1146
+  ],
+  [
+   "sosauce/Chocola",
+   "music",
+   "Chocola",
+   "\ud83c\udf6b Chocola is a cute and powerful offline music player for Android!",
+   1140
+  ],
+  [
+   "SimCoderYoutube/UberClone",
+   "privacy",
+   "UberClone",
+   "Uber Clone Android App \ud83d\udc68\u200d\ud83d\udcbb I'll show you how you can do this in the simplest way and terms possible. By the end of this series you'll have learned how the big companies do it and",
+   1138
+  ],
+  [
+   "SilenceIM/Silence",
+   "privacy",
+   "Silence",
+   "PROJECT MOVED: https://git.silence.dev/Silence/Silence-Android/ (GitHub is just a mirror.)",
+   1135
+  ],
+  [
+   "kl3jvi/animity",
+   "manga",
+   "Animity",
+   "\ud83c\udfa6 Use the Android app to watch anime on your phone without ads and with the best streaming quality available.",
+   1134
+  ],
+  [
+   "cromaguy/Rhythm",
+   "privacy",
+   "Rhythm",
+   "Your Music, Your Rhythm. An open-source, privacy-first Android music player featuring a beautiful Material 3 Expressive UI. Built entirely in Kotlin.",
+   1127
+  ],
+  [
+   "PRProd/HA-Firemote",
+   "games",
+   "HA Firemote",
+   "Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant",
+   1115
+  ],
+  [
+   "xgi/houdoku",
+   "manga",
+   "Houdoku",
+   "Manga reader and library manager for the desktop",
+   1114
+  ],
+  [
+   "collinsmith/riiablo",
+   "games",
+   "Riiablo",
+   "Diablo II remade using Java and LibGDX",
+   1110
+  ],
+  [
+   "thehackingsage/hackdroid",
+   "privacy",
+   "Hackdroid",
+   "Security Apps for Android",
+   1088
+  ],
+  [
+   "wasi-master/wmkeyboard",
+   "launchers",
+   "Wmkeyboard",
+   "A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.",
+   1079
+  ],
+  [
+   "Shopify/tophat",
+   "dev",
+   "Tophat",
+   "Easily install and test mobile applications with a single click.",
+   1076
+  ],
+  [
+   "mybigday/llama.rn",
+   "ai",
+   "Llama.Rn",
+   "React Native binding of llama.cpp",
+   1074
+  ],
+  [
+   "Helldez/BigMoeOnEdge",
+   "ai",
+   "BigMoeOnEdge",
+   "Run MoE models bigger than your RAM. Frontier-size MoE on a phone, laptop, edge. Lossless, on stock llama.cpp. An adaptive streaming optimizer. Any hardware, any OS, any model, any",
+   1073
+  ],
+  [
+   "HurTeng/StormPlane",
+   "games",
+   "StormPlane",
+   "\u2708\ufe0f\u300a\u6c99\u6f20\u98ce\u66b4\u300b\u662f\u4e00\u6b3e\u57fa\u4e8eAndroid\u5f00\u53d1\u7684\u7eb5\u7248\u98de\u884c\u5c04\u51fb\u6e38\u620f\uff0c\u4ee5\u96f7\u7535(Shooting Game)\u4e3a\u539f\u578b\uff0c\u53c2\u8003\u5fae\u4fe1\u6253\u98de\u673a\u5927\u6218\uff0c\u901a\u8fc7\u81ea\u5b9a\u4e49\u7684SurfaceView\u6765\u5b9e\u73b0\u6e38\u620f\uff0c\u6e38\u620f\u753b\u9762\u3001\u97f3\u4e50\u3001\u6218\u6597\u7279\u6548\u90fd\u4e0d\u9519\uff08\u9644\u5e26apk\u5b89\u88c5\u5305\uff0c\u53ef\u76f4\u63a5\u8fd0\u884c\uff09",
+   1072
+  ],
+  [
+   "Exodus-Privacy/exodus-android-app",
+   "privacy",
+   "Exodus",
+   "\u03b5xodus Android application",
+   1068
+  ],
+  [
+   "Spikeysanju/Expenso",
+   "emulation",
+   "Expenso",
+   "\ud83d\udcca A Minimal Expense Tracker App built to demonstrate the use of modern android architecture component with MVVM Architecture",
+   1067
+  ],
+  [
+   "pynicolas/FairScan",
+   "privacy",
+   "FairScan",
+   "An Android app to scan your documents \u2014 simple and respectful",
+   1066
+  ],
+  [
+   "BHznJNs/MotionEaseTune",
+   "emulation",
+   "MotionEaseTune",
+   "A simple application that can prevent you from motion sickness via 100Hz sound.",
+   1065
+  ],
+  [
+   "mitmproxy/android-unpinner",
+   "privacy",
+   "Unpinner",
+   "Remove Certificate Pinning from APKs",
+   1062
+  ],
+  [
+   "microg/UnifiedNlp",
+   "dev",
+   "UnifiedNlp",
+   "Alternative network location provider for Android, with plugin interface to easily integrate third-party location providers.",
+   1061
+  ],
+  [
+   "jhomlala/betterplayer",
+   "music",
+   "Betterplayer",
+   "Production-grade video player for Flutter (Android, iOS, Web, macOS, Windows, Linux) - HLS, DASH, DRM (Widevine & FairPlay), caching, PiP, VAST ads, and vertical video feeds.",
+   1057
+  ],
+  [
+   "amanjeetsingh150/kotlin-android-examples",
+   "tools",
+   "Kotlin Examples",
+   ":muscle: [Examples] Isolated applications purely on Kotlin, for all android devs out there",
+   1056
+  ],
+  [
+   "LUC4N3X/Levyra-deepsound",
+   "music",
+   "Levyra Deepsound",
+   "Made for listening, not logging in. Levyra is an open-source music player for Android and Windows, bringing music discovery, synced lyrics, radio and beautiful artwork together. No",
+   1039
+  ],
+  [
+   "trynoice/android-app",
+   "media",
+   "Noice",
+   "The Android app for Noice.",
+   1039
+  ],
+  [
+   "BareBrowser/bare-browser",
+   "ai",
+   "Bare Browser",
+   "Bare is a de-Googled Chromium build for Android, built for privacy, control, and freedom on the web. It strips Google tracking, telemetry, and AI integration while keeping browser ",
+   1036
+  ],
+  [
+   "d78ui98/APKDeepLens",
+   "privacy",
+   "APKDeepLens",
+   "Android security insights in full spectrum.",
+   1019
+  ],
+  [
+   "nomily-ai/nomily-app",
+   "ai",
+   "Nomily",
+   "BYOK voice recording companion with ASR transcription, speaker diarization, AI summaries, and local ASR endpoint support.",
+   1014
+  ],
+  [
+   "leonlatsch/Photok",
+   "privacy",
+   "Photok",
+   "Private photo vault for Android",
+   1011
+  ],
+  [
+   "saitamasahil/Pixel-Launcher-Extended",
+   "launchers",
+   "Pixel Launcher Extended",
+   "Pixel Launcher Extended is a Magisk module by TeamFiles with many cool features.",
+   1009
+  ],
+  [
+   "threema-ch/threema-android",
+   "privacy",
+   "Threema",
+   "Threema App for Android.",
+   1008
+  ],
+  [
+   "utopia-rise/godot-jvm",
+   "games",
+   "Godot Jvm",
+   "Godot JVM GDExtension. Support Kotlin, Java and Scala.",
+   1005
+  ],
+  [
+   "persian-calendar/persian-calendar",
+   "productivity",
+   "Persian Calendar",
+   "Android Persian Calendar",
+   998
+  ],
+  [
+   "renyuneyun/Easer",
+   "dev",
+   "Easer",
+   "User-defined explicit automation for Android",
+   995
+  ],
+  [
+   "anyproto/anytype-kotlin",
+   "privacy",
+   "Anytype Kotlin",
+   "Official Anytype client for Android",
+   995
+  ],
+  [
+   "lkimuk/ReArk",
+   "ai",
+   "ReArk",
+   "An intelligent reverse engineering and AI-assisted analysis tool for HarmonyOS NEXT (HAP/APP/ABC), Android (APK/AAB), iOS (IPA), and native PE/ELF/Mach-O binaries.",
+   989
+  ],
+  [
+   "ybblab/Jiumi",
+   "privacy",
+   "Jiumi",
+   "\u63ea\u54aa Jiumi\uff1a\u5f00\u6e90\u5b89\u5353\u5e94\u7528\u884c\u4e3a\u76d1\u6d4b\u4e0e\u7ba1\u7406 App\uff0c\u67e5\u770b\u6743\u9650\u8bbf\u95ee\u548c\u7f51\u7edc\u6d3b\u52a8\u3002Android app activity & privacy monitor. No root required.",
+   980
+  ],
+  [
+   "elnormous/ouzel",
+   "games",
+   "Ouzel",
+   "C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers",
+   980
+  ],
+  [
+   "Hilaver/MockGPS",
+   "maps",
+   "MockGPS",
+   "Android application to fake GPS",
+   979
+  ],
+  [
+   "Tarikul711/flutter-development-roadmap",
+   "launchers",
+   "Flutter Development Roadmap",
+   "Flutter App Developer Roadmap - A complete roadmap to learn Flutter App Development. I tried to learn flutter using this roadmap. If you want to add something please contribute to ",
+   977
+  ],
+  [
+   "Kyosee/VeneraX",
+   "manga",
+   "VeneraX",
+   "\u57fa\u4e8e Venera \u589e\u5f3a\u7684\u8de8\u5e73\u53f0\u6f2b\u753b\u9605\u8bfb\u5668\uff0c\u652f\u6301 AI \u7ffb\u8bd1\u3001\u9e3f\u8499\u7cfb\u7edf\u53ca\u66f4\u591a\u6269\u5c55\u529f\u80fd\u3002 | An enhanced, cross-platform comic reader based on Venera, featuring AI translation, HarmonyOS support, and more.",
+   977
+  ],
+  [
+   "FossifyOrg/Music-Player",
+   "launchers",
+   "Music Player",
+   "A clean music player with a customizable widget, stylish interface and no ads.",
+   977
+  ],
+  [
+   "Davies-K/Taskez",
+   "social",
+   "Taskez",
+   "A Productivity Mobile Application UI kit built with Flutter",
+   975
+  ],
+  [
+   "mouredev/Monthly-App-Challenge-2022",
+   "emulation",
+   "Monthly Challenge 2022",
+   "Retos mensuales de la comunidad MoureDev para crear peque\u00f1as aplicaciones en base a requisitos para a\u00f1adir a tu portafolio.",
+   974
+  ],
+  [
+   "jenly1314/AppUpdater",
+   "media",
+   "AppUpdater",
+   "\ud83d\ude80 AppUpdater\u4e00\u4e2a\u4e13\u6ce8\u4e8eApp\u66f4\u65b0\uff0c\u4e00\u952e\u50bb\u74dc\u5f0f\u96c6\u6210App\u7248\u672c\u5347\u7ea7\u7684\u8f7b\u91cf\u5f00\u6e90\u5e93\u3002(\u96c6\u6210\u6b65\u9aa4\u8d85\u7b80\u5355)",
+   974
+  ],
+  [
+   "krkrz/krkrz",
+   "manga",
+   "Krkrz",
+   "Kirikiri Z Project",
+   965
+  ],
+  [
+   "LinkoraApp/Linkora",
+   "productivity",
+   "Linkora",
+   "Local-first multiplatform link organizer with optional self-hosted sync.",
+   960
+  ],
+  [
+   "josueBarretogit/manga-tui",
+   "manga",
+   "Manga Tui",
+   "Terminal-based manga reader and downloader with image rendering support",
+   960
+  ],
+  [
+   "Geocld/XStreaming",
+   "games",
+   "XStreaming",
+   "Open source Xbox streaming(remote play) client that allows you stream Xbox and play xCloud anytime, supporting Android/iOS/HarmonyOS.",
+   958
+  ],
+  [
+   "jd1378/otphelper",
+   "privacy",
+   "Otphelper",
+   "open-source application that can copy OTP and codes from notifications automatically for you",
+   947
+  ],
+  [
+   "jahirfiquitiva/Blueprint",
+   "launchers",
+   "Blueprint",
+   "Free, feature-rich, easily customizable Android dashboard for icon packs",
+   946
+  ],
+  [
+   "leekleak/traffic-light",
+   "privacy",
+   "Traffic Light",
+   "Track your network and data usage with privacy",
+   943
+  ],
+  [
+   "woheller69/whoBIRD",
+   "dev",
+   "WhoBIRD",
+   "Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.",
+   929
+  ],
+  [
+   "mpvRex/REX-Player",
+   "music",
+   "REX Player",
+   "A modern Android video player powered by libmpv, built with Jetpack Compose.",
+   919
+  ],
+  [
+   "jesusrp98/spacex-go",
+   "games",
+   "Spacex Go",
+   "Simple yet powerful, open-source SpaceX launch tracker.",
+   917
+  ],
+  [
+   "Skythinker616/gpt-assistant-android",
+   "ai",
+   "Gpt Assistant",
+   "\u3010\u65b0\u589e\u667a\u80fd\u4f53\u6a21\u5f0f\u3011\u5b89\u5353\u7aef\u5168\u573a\u666fGPT\u52a9\u624b\uff0c\u53ef\u7528\u97f3\u91cf\u952e\u5524\u8d77\u5e76\u8fdb\u884c\u8bed\u97f3\u4ea4\u6d41\uff0c\u652f\u6301\u8054\u7f51\u3001\u62cd\u7167\u3001\u6a21\u677f\u3001\u9644\u4ef6\u89e3\u6790\u3001\u667a\u80fd\u4f53\u6a21\u5f0f\u7b49 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, tak",
+   908
+  ],
+  [
+   "Freelander/Elephant",
+   "emulation",
+   "Elephant",
+   "Elephant is PHPHub Community Android unofficial client, base on Material Design + MVP+RxJava+Retrofit .",
+   906
+  ],
+  [
+   "ndelphit/apkurlgrep",
+   "productivity",
+   "Apkurlgrep",
+   "Extract endpoints from APK files",
+   903
+  ],
+  [
+   "darshanparajuli/LogcatReader",
+   "emulation",
+   "LogcatReader",
+   "A simple app for viewing logcat logs on an android device.",
+   899
+  ],
+  [
+   "Aditya94A/Morphing-Material-Dialogs",
+   "health",
+   "Morphing Material Dialogs",
+   "Material dialog :heart: morphing animation. An android kotlin UI library for building beautiful animations for converting a floating action button into a material dialog.",
+   899
+  ],
+  [
+   "gauravk95/audio-visualizer-android",
+   "health",
+   "Audio Visualizer",
+   "\ud83c\udfb5 [Android Library] A light-weight and easy-to-use Audio Visualizer for Android.",
+   898
+  ],
+  [
+   "BryceWG/BiBi-Keyboard",
+   "ai",
+   "BiBi Keyboard",
+   "\u8bf4\u70b9\u5565\uff08BiBi Keyboard\uff09:\u4e00\u4e2a\u57fa\u4e8e Kotlin \u7684 Android \u5e73\u53f0\u7684 LLM \u4e0e ASR \u8bed\u97f3\u8f93\u5165\u6cd5\u952e\u76d8\u5e94\u7528 An LLM ASR voice input method keyboard application for the Android platform based on Kotlin",
+   897
+  ],
+  [
+   "neocanable/garlic",
+   "dev",
+   "Garlic",
+   "The world's fastest apk (android)/java open source decompiler",
+   893
+  ],
+  [
+   "picolove/picolove",
+   "emulation",
+   "Picolove",
+   "PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM",
+   890
+  ],
+  [
+   "1N3/ReverseAPK",
+   "lifestyle",
+   "ReverseAPK",
+   "Quickly analyze and reverse engineer Android packages",
+   889
+  ],
+  [
+   "n0mi1k/apk2url",
+   "privacy",
+   "Apk2url",
+   "An OSINT tool to quickly extract IP and URL endpoints from APKs by disassembling and decompiling",
+   886
+  ],
+  [
+   "trycatchx/RocketX",
+   "tools",
+   "RocketX",
+   "\ud83d\udd25\ud83d\udd25 android \u7aef\u7f16\u8bd1\u52a0\u901f\u63d2\u4ef6\ud83d\ude80 \u52a8\u6001\u8bc6\u522b\u672a\u6539\u52a8 module \u5e76\u5728\u7f16\u8bd1\u6d41\u7a0b\u4e2d\u66ff\u6362\u4e3a aar \uff0c\u53ea\u7f16\u8bd1\u6539\u52a8\u6a21\u5757\uff0c\u52a0\u901f Android apk \u7684\u7f16\u8bd1\u901f\u5ea6\u3002",
+   884
+  ],
+  [
+   "amnesica/KryptEY",
+   "privacy",
+   "KryptEY",
+   "Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether mess",
+   882
+  ],
+  [
+   "Margular/frida-skeleton",
+   "dev",
+   "Frida Skeleton",
+   "\u57fa\u4e8efrida\u7684\u5b89\u5353hook\u6846\u67b6\uff0c\u63d0\u4f9b\u4e86\u5f88\u591afrida\u81ea\u8eab\u4e0d\u652f\u6301\u7684\u529f\u80fd\uff0c\u5c06hook\u5b89\u5353\u53d8\u6210\u7b80\u5355\u4fbf\u6377\uff0c\u4eba\u4eba\u90fd\u4f1a\u7684\u4e8b\u60c5",
+   881
+  ],
+  [
+   "Blarc/ai-commits-intellij-plugin",
+   "ai",
+   "Ai Commits Intellij Plugin",
+   "AI Commits for IntelliJ based IDEs/Android Studio.",
+   874
+  ],
+  [
+   "Purewhiter/mobilegym",
+   "ai",
+   "Mobilegym",
+   "[EMNLP 2026] MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research \u00b7 \u6d4f\u89c8\u5668\u91cc\u8fd0\u884c\u7684\u5b89\u5353\u6a21\u62df\u5668 \u00b7 Browser-hosted Android Simulator \u00b7 Verifiable Evaluation",
+   873
+  ],
+  [
+   "avdept/JellyBoxPlayer",
+   "music",
+   "JellyBoxPlayer",
+   "Native music player for Navidrome, Jellyfin and Emby on iOS, Android, macOS, Windows and Linux. CarPlay, Android Auto, offline downloads, casting.",
+   866
+  ],
+  [
+   "YuriSizuku/OnscripterYuri",
+   "games",
+   "OnscripterYuri",
+   "An enhancement ONScripter project porting to many platforms, especially web.",
+   864
+  ],
+  [
+   "opensec-git/Pi-Bolt",
+   "emulation",
+   "Pi Bolt",
+   "\u26a1 Pi, the coding agent, compiled ahead of time to one native executable. 10\u00d7 faster to start, 7\u00d7 less CPU and 4.5\u00d7 less memory than Pi on Node. Linux, macOS, Windows, ARM64 and And",
+   857
+  ],
+  [
+   "nspire-emus/firebird",
+   "emulation",
+   "Firebird",
+   "Multi-platform emulator of TI Nspire calculators",
+   856
+  ],
+  [
+   "ahXN00/OwnTV",
+   "music",
+   "OwnTV",
+   "Native Android TV IPTV player \u2014 Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.",
+   854
+  ],
+  [
+   "mihirgupta0900/tv-home",
+   "ai",
+   "Tv Home",
+   "Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand.",
+   854
+  ],
+  [
+   "HTWMedia/HTV",
+   "emulation",
+   "HTV",
+   "\ud83d\udcfa \u514d\u8d39\u65e0\u5e7f\u544a\u7684\u7535\u89c6\u76f4\u64ad App\uff5c\u592e\u89c6/\u536b\u89c6/\u5730\u65b9\u53f0\uff5c\u624b\u673a\u4e0e\u7535\u89c6\u76d2\u5b50\u901a\u7528\uff5cFree IPTV live TV player for Android & Android TV",
+   850
+  ],
+  [
+   "Evernote/android-state",
+   "reading",
+   "State",
+   "A utility library for Android to save objects in a Bundle without any boilerplate.",
+   847
+  ],
+  [
+   "MorpheApp/morphe-desktop",
+   "tools",
+   "Morphe Desktop",
+   "Morphe desktop patching tool",
+   846
+  ],
+  [
+   "Simizfo/WSATools",
+   "dev",
+   "WSATools",
+   "Easy-to-use APK installer and more for Windows Subsystem for Android",
+   846
+  ],
+  [
+   "Hax4us/Apkmod",
+   "dev",
+   "Apkmod",
+   "Apkmod can decompile, recompile, sign APK, and bind the payload with any legit APP",
+   846
+  ],
+  [
+   "memex-lab/memex",
+   "ai",
+   "Memex",
+   "Open-source, local-first AI journal app for iOS and Android. Capture text, photos, and voice \u2014 AI agents organize them into timeline cards and insights. Your data stays on your dev",
+   846
+  ],
+  [
+   "VoltiusApp/voltius",
+   "privacy",
+   "Voltius",
+   "A lightning-fast, modern, local-first SSH/SFTP/Serial client. Real-time E2EE sync, Team vaults, live sharing, plugins and more. Open-source Termius alternative for Windows, Linux, ",
+   842
+  ],
+  [
+   "strazzere/anti-emulator",
+   "emulation",
+   "Anti Emulator",
+   "Android Anti-Emulator",
+   839
+  ],
+  [
+   "fookwood/Launcher3",
+   "launchers",
+   "Launcher3",
+   "[\u4e0d\u518d\u7ef4\u62a4\u5566]\u66f4\u6539\u5b98\u65b9\u7684Launcher3\u4f7f\u5f97\u53ef\u4ee5\u5728Android Studio\u7f16\u8bd1",
+   838
+  ],
+  [
+   "smartyuge/LivePlayback",
+   "music",
+   "LivePlayback",
+   "Android TV\u76f4\u64ad\u7535\u89c6\u8282\u76ee ,\u5305\u542b\u5404\u592e\u89c6\u9891\u9053\u53ca\u536b\u89c6\u9891\u9053",
+   833
+  ],
+  [
+   "seun-novodev/android-tv-debloat-toolkit",
+   "launchers",
+   "Tv Debloat Toolkit",
+   "Cross-platform toolkit to debloat, install APKs, and customize Android TV devices.",
+   831
+  ],
+  [
+   "jksalcedo/librefind",
+   "lifestyle",
+   "Librefind",
+   "Discover and replace proprietary apps with FOSS alternatives",
+   829
+  ],
+  [
+   "f-droid/fdroidserver",
+   "dev",
+   "Fdroidserver",
+   "F-Droid server and build tools.",
+   829
+  ],
+  [
+   "Clarklevis1995/dsh-mobile",
+   "emulation",
+   "Dsh Mobile",
+   "DeepSeek Harness Mobile \u662f\u4e00\u4e2a\u9762\u5411 DeepSeek Harness \u7684\u539f\u751f\u79fb\u52a8\u7aef\u5ba2\u6237\u7aef\u3002\u5b83\u901a\u8fc7 dsh-plugin-mobile-gateway \u4e0e Harness \u5efa\u7acb WebSocket \u8fde\u63a5\uff0c\u5c06\u5de5\u4f5c\u533a\u3001\u4f1a\u8bdd\u3001\u5b9e\u65f6\u56de\u590d\u548c Agent \u6267\u884c\u8f68\u8ff9\u5e26\u5230 iPhone\uff0c\u540c\u65f6\u5ef6\u7eed DeepSeek WebUI \u514b\u5236\u3001\u6e05\u6670\u7684\u89c6\u89c9\u8bed\u8a00",
+   827
+  ],
+  [
+   "venshine/decompile-apk",
+   "dev",
+   "Decompile Apk",
+   "\ud83d\udd25 Decompile APK",
+   825
+  ]
+ ]
+}

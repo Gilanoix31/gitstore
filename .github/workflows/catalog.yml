@@ -1,0 +1,30 @@
+name: Refresh catalog
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Discover and rebuild catalog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node tools/discover.mjs
+          npm run seeds
+          npm run catalog
+      - name: Commit catalog updates
+        run: |
+          git add tools/discovered.json www/data/seeds.json www/data/catalog.json
+          git diff --cached --quiet || git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore: refresh GitHub app catalog'
+          git push
