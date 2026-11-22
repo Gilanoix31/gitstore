@@ -1,0 +1,7 @@
+{
+  "appId": "com.gitstore.app",
+  "appName": "GitStore",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {}
+}

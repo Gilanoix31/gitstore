@@ -1,0 +1,5132 @@
+{
+ "generatedAt": "2026-11-22T05:55:43.270Z",
+ "source": "github.com release assets (scraped)",
+ "categories": [
+  {
+   "id": "all",
+   "name": "All apps"
+  },
+  {
+   "id": "media",
+   "name": "Media & Streaming"
+  },
+  {
+   "id": "music",
+   "name": "Music & Audio"
+  },
+  {
+   "id": "social",
+   "name": "Social & Messaging"
+  },
+  {
+   "id": "privacy",
+   "name": "Privacy & Security"
+  },
+  {
+   "id": "tools",
+   "name": "Tools & Utilities"
+  },
+  {
+   "id": "productivity",
+   "name": "Productivity"
+  },
+  {
+   "id": "reading",
+   "name": "Reading & News"
+  },
+  {
+   "id": "games",
+   "name": "Games"
+  },
+  {
+   "id": "emulation",
+   "name": "Emulation"
+  },
+  {
+   "id": "maps",
+   "name": "Maps & Navigation"
+  },
+  {
+   "id": "launchers",
+   "name": "Launchers & Themes"
+  },
+  {
+   "id": "health",
+   "name": "Health & Fitness"
+  },
+  {
+   "id": "dev",
+   "name": "Development"
+  },
+  {
+   "id": "ai",
+   "name": "AI & Machine Learning"
+  },
+  {
+   "id": "manga",
+   "name": "Manga & Anime"
+  },
+  {
+   "id": "lifestyle",
+   "name": "Life Hacks & Daily"
+  }
+ ],
+ "stats": {
+  "seeds": 175,
+  "withApk": 130,
+  "skipped": 45
+ },
+ "apps": [
+  {
+   "repo": "jarnedemeulemeester/findroid",
+   "name": "Findroid",
+   "category": "media",
+   "desc": "Third-party Jellyfin client with offline support.",
+   "owner": "jarnedemeulemeester",
+   "icon": "https://github.com/jarnedemeulemeester.png?size=160",
+   "page": "https://github.com/jarnedemeulemeester/findroid",
+   "releasesPage": "https://github.com/jarnedemeulemeester/findroid/releases",
+   "tag": "v1.2.0",
+   "version": "1.2.0",
+   "releasedAt": "2026-10-29T20:05:08Z",
+   "asset": {
+    "name": "findroid-v1.2.0-libre-arm64-v8a.apk",
+    "url": "https://github.com/jarnedemeulemeester/findroid/releases/download/v1.2.0/findroid-v1.2.0-libre-arm64-v8a.apk",
+    "size": 38482739,
+    "sizeText": "36.7 MB",
+    "releasedAt": "2026-10-29T20:05:08Z"
+   },
+   "assets": [
+    {
+     "name": "findroid-v1.2.0-libre-arm64-v8a.apk",
+     "url": "https://github.com/jarnedemeulemeester/findroid/releases/download/v1.2.0/findroid-v1.2.0-libre-arm64-v8a.apk",
+     "size": 38482739,
+     "sizeText": "36.7 MB",
+     "releasedAt": "2026-10-29T20:05:08Z"
+    },
+    {
+     "name": "findroid-v1.2.0-libre-armeabi-v7a.apk",
+     "url": "https://github.com/jarnedemeulemeester/findroid/releases/download/v1.2.0/findroid-v1.2.0-libre-armeabi-v7a.apk",
+     "size": 36071014,
+     "sizeText": "34.4 MB",
+     "releasedAt": "2026-10-29T20:05:11Z"
+    },
+    {
+     "name": "findroid-v1.2.0-libre-x86_64.apk",
+     "url": "https://github.com/jarnedemeulemeester/findroid/releases/download/v1.2.0/findroid-v1.2.0-libre-x86_64.apk",
+     "size": 43515904,
+     "sizeText": "41.5 MB",
+     "releasedAt": "2026-10-29T20:05:15Z"
+    },
+    {
+     "name": "findroid-v1.2.0-libre-x86.apk",
+     "url": "https://github.com/jarnedemeulemeester/findroid/releases/download/v1.2.0/findroid-v1.2.0-libre-x86.apk",
+     "size": 41418752,
+     "sizeText": "39.5 MB",
+     "releasedAt": "2026-10-29T20:05:13Z"
+    }
+   ]
+  },
+  {
+   "repo": "jellyfin/jellyfin-android",
+   "name": "Jellyfin",
+   "category": "media",
+   "desc": "Client for your self-hosted Jellyfin media server.",
+   "owner": "jellyfin",
+   "icon": "https://github.com/jellyfin.png?size=160",
+   "page": "https://github.com/jellyfin/jellyfin-android",
+   "releasesPage": "https://github.com/jellyfin/jellyfin-android/releases",
+   "tag": "v2.7.3",
+   "version": "2.7.3",
+   "releasedAt": "2026-09-14T16:02:13Z",
+   "asset": {
+    "name": "jellyfin-android-v2.7.3-proprietary-release.apk",
+    "url": "https://github.com/jellyfin/jellyfin-android/releases/download/v2.7.3/jellyfin-android-v2.7.3-proprietary-release.apk",
+    "size": 9877586,
+    "sizeText": "9.42 MB",
+    "releasedAt": "2026-09-14T16:02:13Z"
+   },
+   "assets": [
+    {
+     "name": "jellyfin-android-v2.7.3-proprietary-release.apk",
+     "url": "https://github.com/jellyfin/jellyfin-android/releases/download/v2.7.3/jellyfin-android-v2.7.3-proprietary-release.apk",
+     "size": 9877586,
+     "sizeText": "9.42 MB",
+     "releasedAt": "2026-09-14T16:02:13Z"
+    },
+    {
+     "name": "jellyfin-android-v2.7.3-libre-release.apk",
+     "url": "https://github.com/jellyfin/jellyfin-android/releases/download/v2.7.3/jellyfin-android-v2.7.3-libre-release.apk",
+     "size": 8965325,
+     "sizeText": "8.55 MB",
+     "releasedAt": "2026-09-14T16:02:12Z"
+    },
+    {
+     "name": "jellyfin-android-v2.7.3-proprietary-debug.apk",
+     "url": "https://github.com/jellyfin/jellyfin-android/releases/download/v2.7.3/jellyfin-android-v2.7.3-proprietary-debug.apk",
+     "size": 35966157,
+     "sizeText": "34.3 MB",
+     "releasedAt": "2026-09-14T16:02:12Z"
+    },
+    {
+     "name": "jellyfin-android-v2.7.3-libre-debug.apk",
+     "url": "https://github.com/jellyfin/jellyfin-android/releases/download/v2.7.3/jellyfin-android-v2.7.3-libre-debug.apk",
+     "size": 34498150,
+     "sizeText": "32.9 MB",
+     "releasedAt": "2026-09-14T16:02:12Z"
+    }
+   ]
+  },
+  {
+   "repo": "moneytoo/Player",
+   "name": "Just Player",
+   "category": "media",
+   "desc": "Simple, powerful media player based on ExoPlayer.",
+   "owner": "moneytoo",
+   "icon": "https://github.com/moneytoo.png?size=160",
+   "page": "https://github.com/moneytoo/Player",
+   "releasesPage": "https://github.com/moneytoo/Player/releases",
+   "tag": "v0.220",
+   "version": "0.220",
+   "releasedAt": "2026-11-12T19:47:42Z",
+   "asset": {
+    "name": "Just.Player.v0.220-legacy.apk",
+    "url": "https://github.com/moneytoo/Player/releases/download/v0.220/Just.Player.v0.220-legacy.apk",
+    "size": 45193626,
+    "sizeText": "43.1 MB",
+    "releasedAt": "2026-11-12T19:47:42Z"
+   },
+   "assets": [
+    {
+     "name": "Just.Player.v0.220-legacy.apk",
+     "url": "https://github.com/moneytoo/Player/releases/download/v0.220/Just.Player.v0.220-legacy.apk",
+     "size": 45193626,
+     "sizeText": "43.1 MB",
+     "releasedAt": "2026-11-12T19:47:42Z"
+    },
+    {
+     "name": "Just.Player.v0.220.apk",
+     "url": "https://github.com/moneytoo/Player/releases/download/v0.220/Just.Player.v0.220.apk",
+     "size": 45193626,
+     "sizeText": "43.1 MB",
+     "releasedAt": "2026-11-12T19:47:42Z"
+    }
+   ]
+  },
+  {
+   "repo": "libre-tube/LibreTube",
+   "name": "LibreTube",
+   "category": "media",
+   "desc": "Alternative YouTube front-end with subscriptions and playlists.",
+   "owner": "libre-tube",
+   "icon": "https://github.com/libre-tube.png?size=160",
+   "page": "https://github.com/libre-tube/LibreTube",
+   "releasesPage": "https://github.com/libre-tube/LibreTube/releases",
+   "tag": "v32.1",
+   "version": "32.1",
+   "releasedAt": "2026-08-20T20:14:34Z",
+   "asset": {
+    "name": "app-release.apk",
+    "url": "https://github.com/libre-tube/LibreTube/releases/download/v32.1/app-release.apk",
+    "size": 9248440,
+    "sizeText": "8.82 MB",
+    "releasedAt": "2026-08-20T20:14:34Z"
+   },
+   "assets": [
+    {
+     "name": "app-release.apk",
+     "url": "https://github.com/libre-tube/LibreTube/releases/download/v32.1/app-release.apk",
+     "size": 9248440,
+     "sizeText": "8.82 MB",
+     "releasedAt": "2026-08-20T20:14:34Z"
+    }
+   ]
+  },
+  {
+   "repo": "mpv-android/mpv-android",
+   "name": "mpv-android",
+   "category": "media",
+   "desc": "Hardware-accelerated mpv video player.",
+   "owner": "mpv-android",
+   "icon": "https://github.com/mpv-android.png?size=160",
+   "page": "https://github.com/mpv-android/mpv-android",
+   "releasesPage": "https://github.com/mpv-android/mpv-android/releases",
+   "tag": "2026-09-17",
+   "version": "2026-09-17",
+   "releasedAt": "2026-09-17T14:56:18Z",
+   "asset": {
+    "name": "app-default-arm64-v8a-release.apk",
+    "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-default-arm64-v8a-release.apk",
+    "size": 34288435,
+    "sizeText": "32.7 MB",
+    "releasedAt": "2026-09-17T14:56:18Z"
+   },
+   "assets": [
+    {
+     "name": "app-default-arm64-v8a-release.apk",
+     "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-default-arm64-v8a-release.apk",
+     "size": 34288435,
+     "sizeText": "32.7 MB",
+     "releasedAt": "2026-09-17T14:56:18Z"
+    },
+    {
+     "name": "app-allstorage-universal-release.apk",
+     "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-allstorage-universal-release.apk",
+     "size": 136314880,
+     "sizeText": "130 MB",
+     "releasedAt": "2026-09-17T14:55:49Z"
+    },
+    {
+     "name": "app-default-universal-release.apk",
+     "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-default-universal-release.apk",
+     "size": 135266304,
+     "sizeText": "129 MB",
+     "releasedAt": "2026-09-17T14:57:05Z"
+    },
+    {
+     "name": "app-allstorage-universal-debug.apk",
+     "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-allstorage-universal-debug.apk",
+     "size": 148897792,
+     "sizeText": "142 MB",
+     "releasedAt": "2026-09-17T14:55:18Z"
+    },
+    {
+     "name": "app-default-universal-debug.apk",
+     "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-default-universal-debug.apk",
+     "size": 142606336,
+     "sizeText": "136 MB",
+     "releasedAt": "2026-09-17T14:56:34Z"
+    },
+    {
+     "name": "app-default-armeabi-v7a-release.apk",
+     "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-default-armeabi-v7a-release.apk",
+     "size": 30932992,
+     "sizeText": "29.5 MB",
+     "releasedAt": "2026-09-17T14:56:27Z"
+    },
+    {
+     "name": "app-default-x86_64-release.apk",
+     "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-default-x86_64-release.apk",
+     "size": 40370176,
+     "sizeText": "38.5 MB",
+     "releasedAt": "2026-09-17T14:57:33Z"
+    },
+    {
+     "name": "app-default-x86-release.apk",
+     "url": "https://github.com/mpv-android/mpv-android/releases/download/2026-09-17/app-default-x86-release.apk",
+     "size": 36700160,
+     "sizeText": "35 MB",
+     "releasedAt": "2026-09-17T14:57:46Z"
+    }
+   ]
+  },
+  {
+   "repo": "TeamNewPipe/NewPipe",
+   "name": "NewPipe",
+   "category": "media",
+   "desc": "Lightweight libre YouTube and streaming front-end.",
+   "owner": "TeamNewPipe",
+   "icon": "https://github.com/TeamNewPipe.png?size=160",
+   "page": "https://github.com/TeamNewPipe/NewPipe",
+   "releasesPage": "https://github.com/TeamNewPipe/NewPipe/releases",
+   "tag": "v0.29.3",
+   "version": "0.29.3",
+   "releasedAt": "2026-11-10T09:51:54Z",
+   "asset": {
+    "name": "NewPipe_v0.29.3.apk",
+    "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.3/NewPipe_v0.29.3.apk",
+    "size": 16986931,
+    "sizeText": "16.2 MB",
+    "releasedAt": "2026-11-10T09:51:54Z"
+   },
+   "assets": [
+    {
+     "name": "NewPipe_v0.29.3.apk",
+     "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.3/NewPipe_v0.29.3.apk",
+     "size": 16986931,
+     "sizeText": "16.2 MB",
+     "releasedAt": "2026-11-10T09:51:54Z"
+    },
+    {
+     "name": "NewPipe_v0.29.3_apksigner31.apk",
+     "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.3/NewPipe_v0.29.3_apksigner31.apk",
+     "size": 16986931,
+     "sizeText": "16.2 MB",
+     "releasedAt": "2026-11-14T20:19:49Z"
+    }
+   ]
+  },
+  {
+   "repo": "anilbeesetti/nextplayer",
+   "name": "Next Player",
+   "category": "media",
+   "desc": "Native Android video player built with Jetpack Compose.",
+   "owner": "anilbeesetti",
+   "icon": "https://github.com/anilbeesetti.png?size=160",
+   "page": "https://github.com/anilbeesetti/nextplayer",
+   "releasesPage": "https://github.com/anilbeesetti/nextplayer/releases",
+   "tag": "v0.21.0",
+   "version": "0.21.0",
+   "releasedAt": "2026-11-14T05:59:49Z",
+   "asset": {
+    "name": "nextplayer-v0.21.0-arm64-v8a.apk",
+    "url": "https://github.com/anilbeesetti/nextplayer/releases/download/v0.21.0/nextplayer-v0.21.0-arm64-v8a.apk",
+    "size": 20656947,
+    "sizeText": "19.7 MB",
+    "releasedAt": "2026-11-14T05:59:49Z"
+   },
+   "assets": [
+    {
+     "name": "nextplayer-v0.21.0-arm64-v8a.apk",
+     "url": "https://github.com/anilbeesetti/nextplayer/releases/download/v0.21.0/nextplayer-v0.21.0-arm64-v8a.apk",
+     "size": 20656947,
+     "sizeText": "19.7 MB",
+     "releasedAt": "2026-11-14T05:59:49Z"
+    },
+    {
+     "name": "nextplayer-v0.21.0-universal.apk",
+     "url": "https://github.com/anilbeesetti/nextplayer/releases/download/v0.21.0/nextplayer-v0.21.0-universal.apk",
+     "size": 64906854,
+     "sizeText": "61.9 MB",
+     "releasedAt": "2026-11-14T05:59:49Z"
+    },
+    {
+     "name": "nextplayer-v0.21.0-armeabi-v7a.apk",
+     "url": "https://github.com/anilbeesetti/nextplayer/releases/download/v0.21.0/nextplayer-v0.21.0-armeabi-v7a.apk",
+     "size": 19398656,
+     "sizeText": "18.5 MB",
+     "releasedAt": "2026-11-14T05:59:49Z"
+    },
+    {
+     "name": "nextplayer-v0.21.0-x86_64.apk",
+     "url": "https://github.com/anilbeesetti/nextplayer/releases/download/v0.21.0/nextplayer-v0.21.0-x86_64.apk",
+     "size": 24746394,
+     "sizeText": "23.6 MB",
+     "releasedAt": "2026-11-14T05:59:49Z"
+    },
+    {
+     "name": "nextplayer-v0.21.0-x86.apk",
+     "url": "https://github.com/anilbeesetti/nextplayer/releases/download/v0.21.0/nextplayer-v0.21.0-x86.apk",
+     "size": 22124954,
+     "sizeText": "21.1 MB",
+     "releasedAt": "2026-11-14T05:59:49Z"
+    }
+   ]
+  },
+  {
+   "repo": "nova-video-player/aos-AVP",
+   "name": "Nova Video Player",
+   "category": "media",
+   "desc": "Video player for local and network media.",
+   "owner": "nova-video-player",
+   "icon": "https://github.com/nova-video-player.png?size=160",
+   "page": "https://github.com/nova-video-player/aos-AVP",
+   "releasesPage": "https://github.com/nova-video-player/aos-AVP/releases",
+   "tag": "v6.6.5",
+   "version": "6.6.5",
+   "releasedAt": "2026-11-11T11:26:03Z",
+   "asset": {
+    "name": "org.courville.nova-2674922-6.6.5-20261111.1224-arm64-v8a-release.apk",
+    "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.5/org.courville.nova-2674922-6.6.5-20261111.1224-arm64-v8a-release.apk",
+    "size": 35651584,
+    "sizeText": "34 MB",
+    "releasedAt": "2026-11-11T11:26:03Z"
+   },
+   "assets": [
+    {
+     "name": "org.courville.nova-2674922-6.6.5-20261111.1224-arm64-v8a-release.apk",
+     "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.5/org.courville.nova-2674922-6.6.5-20261111.1224-arm64-v8a-release.apk",
+     "size": 35651584,
+     "sizeText": "34 MB",
+     "releasedAt": "2026-11-11T11:26:03Z"
+    },
+    {
+     "name": "org.courville.nova-2674922-6.6.5-20261111.1224-universal-release.apk",
+     "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.5/org.courville.nova-2674922-6.6.5-20261111.1224-universal-release.apk",
+     "size": 96049562,
+     "sizeText": "91.6 MB",
+     "releasedAt": "2026-11-11T11:25:53Z"
+    },
+    {
+     "name": "org.courville.nova-2674922-6.6.5-20261111.1224-armeabi-v7a-release.apk",
+     "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.5/org.courville.nova-2674922-6.6.5-20261111.1224-armeabi-v7a-release.apk",
+     "size": 32715571,
+     "sizeText": "31.2 MB",
+     "releasedAt": "2026-11-11T11:25:59Z"
+    },
+    {
+     "name": "org.courville.nova-2674922-6.6.5-20261111.1224-x86_64-release.apk",
+     "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.5/org.courville.nova-2674922-6.6.5-20261111.1224-x86_64-release.apk",
+     "size": 36490445,
+     "sizeText": "34.8 MB",
+     "releasedAt": "2026-11-11T11:25:49Z"
+    },
+    {
+     "name": "org.courville.nova-2674922-6.6.5-20261111.1224-x86-release.apk",
+     "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.5/org.courville.nova-2674922-6.6.5-20261111.1224-x86-release.apk",
+     "size": 35337011,
+     "sizeText": "33.7 MB",
+     "releasedAt": "2026-11-11T11:25:44Z"
+    }
+   ]
+  },
+  {
+   "repo": "InfinityLoop1308/PipePipe",
+   "name": "PipePipe",
+   "category": "media",
+   "desc": "NewPipe fork with extra players and features.",
+   "owner": "InfinityLoop1308",
+   "icon": "https://github.com/InfinityLoop1308.png?size=160",
+   "page": "https://github.com/InfinityLoop1308/PipePipe",
+   "releasesPage": "https://github.com/InfinityLoop1308/PipePipe/releases",
+   "tag": "v5.6.0",
+   "version": "5.6.0",
+   "releasedAt": "2026-11-20T11:52:06Z",
+   "asset": {
+    "name": "PipePipe_5.6.0-arm64-v8a-release.apk",
+    "url": "https://github.com/InfinityLoop1308/PipePipe/releases/download/v5.6.0/PipePipe_5.6.0-arm64-v8a-release.apk",
+    "size": 33869005,
+    "sizeText": "32.3 MB",
+    "releasedAt": "2026-11-20T11:52:06Z"
+   },
+   "assets": [
+    {
+     "name": "PipePipe_5.6.0-arm64-v8a-release.apk",
+     "url": "https://github.com/InfinityLoop1308/PipePipe/releases/download/v5.6.0/PipePipe_5.6.0-arm64-v8a-release.apk",
+     "size": 33869005,
+     "sizeText": "32.3 MB",
+     "releasedAt": "2026-11-20T11:52:06Z"
+    },
+    {
+     "name": "PipePipe_5.6.0-armeabi-v7a-release.apk",
+     "url": "https://github.com/InfinityLoop1308/PipePipe/releases/download/v5.6.0/PipePipe_5.6.0-armeabi-v7a-release.apk",
+     "size": 33554432,
+     "sizeText": "32 MB",
+     "releasedAt": "2026-11-20T11:51:57Z"
+    },
+    {
+     "name": "PipePipe_5.6.0-x86_64-release.apk",
+     "url": "https://github.com/InfinityLoop1308/PipePipe/releases/download/v5.6.0/PipePipe_5.6.0-x86_64-release.apk",
+     "size": 34393293,
+     "sizeText": "32.8 MB",
+     "releasedAt": "2026-11-20T11:51:47Z"
+    },
+    {
+     "name": "PipePipe_5.6.0-x86-release.apk",
+     "url": "https://github.com/InfinityLoop1308/PipePipe/releases/download/v5.6.0/PipePipe_5.6.0-x86-release.apk",
+     "size": 33869005,
+     "sizeText": "32.3 MB",
+     "releasedAt": "2026-11-20T11:51:36Z"
+    }
+   ]
+  },
+  {
+   "repo": "JunkFood02/Seal",
+   "name": "Seal",
+   "category": "media",
+   "desc": "Video/audio downloader powered by yt-dlp.",
+   "owner": "JunkFood02",
+   "icon": "https://github.com/JunkFood02.png?size=160",
+   "page": "https://github.com/JunkFood02/Seal",
+   "releasesPage": "https://github.com/JunkFood02/Seal/releases",
+   "tag": "v1.13.1",
+   "version": "1.13.1",
+   "releasedAt": "2024-10-16T17:00:59Z",
+   "asset": {
+    "name": "Seal-1.13.1-arm64-v8a-release.apk",
+    "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk",
+    "size": 43096474,
+    "sizeText": "41.1 MB",
+    "releasedAt": "2024-10-16T17:00:59Z"
+   },
+   "assets": [
+    {
+     "name": "Seal-1.13.1-arm64-v8a-release.apk",
+     "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk",
+     "size": 43096474,
+     "sizeText": "41.1 MB",
+     "releasedAt": "2024-10-16T17:00:59Z"
+    },
+    {
+     "name": "Seal-1.13.1-universal-release.apk",
+     "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-universal-release.apk",
+     "size": 144703488,
+     "sizeText": "138 MB",
+     "releasedAt": "2024-10-16T17:02:25Z"
+    },
+    {
+     "name": "Seal-1.13.1-armeabi-v7a-release.apk",
+     "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-armeabi-v7a-release.apk",
+     "size": 40579891,
+     "sizeText": "38.7 MB",
+     "releasedAt": "2024-10-16T17:01:43Z"
+    },
+    {
+     "name": "Seal-1.13.1-x86_64-release.apk",
+     "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86_64-release.apk",
+     "size": 45193626,
+     "sizeText": "43.1 MB",
+     "releasedAt": "2024-10-16T17:04:49Z"
+    },
+    {
+     "name": "Seal-1.13.1-x86-release.apk",
+     "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86-release.apk",
+     "size": 44354765,
+     "sizeText": "42.3 MB",
+     "releasedAt": "2024-10-16T17:05:31Z"
+    }
+   ]
+  },
+  {
+   "repo": "deniscerri/ytdlnis",
+   "name": "YTDLnis",
+   "category": "media",
+   "desc": "Video and audio downloader built on yt-dlp.",
+   "owner": "deniscerri",
+   "icon": "https://github.com/deniscerri.png?size=160",
+   "page": "https://github.com/deniscerri/ytdlnis",
+   "releasesPage": "https://github.com/deniscerri/ytdlnis/releases",
+   "tag": "v1.9.1.1",
+   "version": "1.9.1.1",
+   "releasedAt": "2026-10-19T14:58:54Z",
+   "asset": {
+    "name": "YTDLnis-1.9.1.1-arm64-v8a-release-github.apk",
+    "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-arm64-v8a-release-github.apk",
+    "size": 69940019,
+    "sizeText": "66.7 MB",
+    "releasedAt": "2026-10-19T14:58:54Z"
+   },
+   "assets": [
+    {
+     "name": "YTDLnis-1.9.1.1-arm64-v8a-release-github.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-arm64-v8a-release-github.apk",
+     "size": 69940019,
+     "sizeText": "66.7 MB",
+     "releasedAt": "2026-10-19T14:58:54Z"
+    },
+    {
+     "name": "YTDLnis-1.9.1.1-foss-arm64-v8a-release.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-foss-arm64-v8a-release.apk",
+     "size": 69940019,
+     "sizeText": "66.7 MB",
+     "releasedAt": "2026-10-19T14:59:26Z"
+    },
+    {
+     "name": "YTDLnis-1.9.1.1-izzy-arm64-v8a-release.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-izzy-arm64-v8a-release.apk",
+     "size": 50226790,
+     "sizeText": "47.9 MB",
+     "releasedAt": "2026-10-19T15:00:34Z"
+    },
+    {
+     "name": "YTDLnis-1.9.1.1-universal-release-github.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-universal-release-github.apk",
+     "size": 218103808,
+     "sizeText": "208 MB",
+     "releasedAt": "2026-10-19T15:00:47Z"
+    },
+    {
+     "name": "YTDLnis-1.9.1.1-armeabi-v7a-release-github.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-armeabi-v7a-release-github.apk",
+     "size": 59034829,
+     "sizeText": "56.3 MB",
+     "releasedAt": "2026-10-19T14:59:11Z"
+    },
+    {
+     "name": "YTDLnis-1.9.1.1-foss-armeabi-v7a-release.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-foss-armeabi-v7a-release.apk",
+     "size": 59034829,
+     "sizeText": "56.3 MB",
+     "releasedAt": "2026-10-19T14:59:45Z"
+    },
+    {
+     "name": "YTDLnis-1.9.1.1-foss-x86_64-release.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-foss-x86_64-release.apk",
+     "size": 64801997,
+     "sizeText": "61.8 MB",
+     "releasedAt": "2026-10-19T15:00:01Z"
+    },
+    {
+     "name": "YTDLnis-1.9.1.1-x86_64-release-github.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-x86_64-release-github.apk",
+     "size": 64801997,
+     "sizeText": "61.8 MB",
+     "releasedAt": "2026-10-19T15:01:46Z"
+    },
+    {
+     "name": "YTDLnis-1.9.1.1-foss-x86-release.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-foss-x86-release.apk",
+     "size": 63963136,
+     "sizeText": "61 MB",
+     "releasedAt": "2026-10-19T15:00:21Z"
+    },
+    {
+     "name": "YTDLnis-1.9.1.1-x86-release-github.apk",
+     "url": "https://github.com/deniscerri/ytdlnis/releases/download/v1.9.1.1/YTDLnis-1.9.1.1-x86-release-github.apk",
+     "size": 63963136,
+     "sizeText": "61 MB",
+     "releasedAt": "2026-10-19T15:02:17Z"
+    }
+   ]
+  },
+  {
+   "repo": "OxygenCobalt/Auxio",
+   "name": "Auxio",
+   "category": "music",
+   "desc": "Fast, clean local music player.",
+   "owner": "OxygenCobalt",
+   "icon": "https://github.com/OxygenCobalt.png?size=160",
+   "page": "https://github.com/OxygenCobalt/Auxio",
+   "releasesPage": "https://github.com/OxygenCobalt/Auxio/releases",
+   "tag": "v4.1.5",
+   "version": "4.1.5",
+   "releasedAt": "2026-08-04T04:07:11Z",
+   "asset": {
+    "name": "Auxio_v4.1.5.apk",
+    "url": "https://github.com/OxygenCobalt/Auxio/releases/download/v4.1.5/Auxio_v4.1.5.apk",
+    "size": 11114906,
+    "sizeText": "10.6 MB",
+    "releasedAt": "2026-08-04T04:07:11Z"
+   },
+   "assets": [
+    {
+     "name": "Auxio_v4.1.5.apk",
+     "url": "https://github.com/OxygenCobalt/Auxio/releases/download/v4.1.5/Auxio_v4.1.5.apk",
+     "size": 11114906,
+     "sizeText": "10.6 MB",
+     "releasedAt": "2026-08-04T04:07:11Z"
+    }
+   ]
+  },
+  {
+   "repo": "AkaneTan/Gramophone",
+   "name": "Gramophone",
+   "category": "music",
+   "desc": "Material 3 local music player.",
+   "owner": "AkaneTan",
+   "icon": "https://github.com/AkaneTan.png?size=160",
+   "page": "https://github.com/AkaneTan/Gramophone",
+   "releasesPage": "https://github.com/AkaneTan/Gramophone/releases",
+   "tag": "1.1.2",
+   "version": "1.1.2",
+   "releasedAt": "2026-08-20T09:57:21Z",
+   "asset": {
+    "name": "Gramophone-1.1.2-release.apk",
+    "url": "https://github.com/FoedusProgramme/Gramophone/releases/download/1.1.2/Gramophone-1.1.2-release.apk",
+    "size": 12582912,
+    "sizeText": "12 MB",
+    "releasedAt": "2026-08-20T09:57:21Z"
+   },
+   "assets": [
+    {
+     "name": "Gramophone-1.1.2-release.apk",
+     "url": "https://github.com/FoedusProgramme/Gramophone/releases/download/1.1.2/Gramophone-1.1.2-release.apk",
+     "size": 12582912,
+     "sizeText": "12 MB",
+     "releasedAt": "2026-08-20T09:57:21Z"
+    }
+   ]
+  },
+  {
+   "repo": "anandnet/Harmony-Music",
+   "name": "Harmony Music",
+   "category": "music",
+   "desc": "Cross-platform music streaming app.",
+   "owner": "anandnet",
+   "icon": "https://github.com/anandnet.png?size=160",
+   "page": "https://github.com/anandnet/Harmony-Music",
+   "releasesPage": "https://github.com/anandnet/Harmony-Music/releases",
+   "tag": "v1.12.2",
+   "version": "1.12.2",
+   "releasedAt": "2025-12-07T12:46:16Z",
+   "asset": {
+    "name": "harmonymusic-1.12.2-arm64-v8a-release.apk",
+    "url": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.2/harmonymusic-1.12.2-arm64-v8a-release.apk",
+    "size": 11953766,
+    "sizeText": "11.4 MB",
+    "releasedAt": "2025-12-07T12:46:16Z"
+   },
+   "assets": [
+    {
+     "name": "harmonymusic-1.12.2-arm64-v8a-release.apk",
+     "url": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.2/harmonymusic-1.12.2-arm64-v8a-release.apk",
+     "size": 11953766,
+     "sizeText": "11.4 MB",
+     "releasedAt": "2025-12-07T12:46:16Z"
+    },
+    {
+     "name": "harmonymusic-1.12.2-armeabi-v7a-release.apk",
+     "url": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.2/harmonymusic-1.12.2-armeabi-v7a-release.apk",
+     "size": 11744051,
+     "sizeText": "11.2 MB",
+     "releasedAt": "2025-12-07T12:45:21Z"
+    },
+    {
+     "name": "harmonymusic-1.12.2.apk",
+     "url": "https://github.com/anandnet/Harmony-Music/releases/download/v1.12.2/harmonymusic-1.12.2.apk",
+     "size": 32191283,
+     "sizeText": "30.7 MB",
+     "releasedAt": "2025-12-07T12:46:01Z"
+    }
+   ]
+  },
+  {
+   "repo": "z-huang/InnerTune",
+   "name": "InnerTune",
+   "category": "music",
+   "desc": "YouTube Music client with offline support.",
+   "owner": "z-huang",
+   "icon": "https://github.com/z-huang.png?size=160",
+   "page": "https://github.com/z-huang/InnerTune",
+   "releasesPage": "https://github.com/z-huang/InnerTune/releases",
+   "tag": "v0.5.10",
+   "version": "0.5.10",
+   "releasedAt": "2024-09-01T15:05:31Z",
+   "asset": {
+    "name": "InnerTune_v0.5.10_full_arm64-v8a.apk",
+    "url": "https://github.com/z-huang/InnerTune/releases/download/v0.5.10/InnerTune_v0.5.10_full_arm64-v8a.apk",
+    "size": 25794970,
+    "sizeText": "24.6 MB",
+    "releasedAt": "2024-09-01T15:05:31Z"
+   },
+   "assets": [
+    {
+     "name": "InnerTune_v0.5.10_full_arm64-v8a.apk",
+     "url": "https://github.com/z-huang/InnerTune/releases/download/v0.5.10/InnerTune_v0.5.10_full_arm64-v8a.apk",
+     "size": 25794970,
+     "sizeText": "24.6 MB",
+     "releasedAt": "2024-09-01T15:05:31Z"
+    },
+    {
+     "name": "InnerTune_v0.5.10_full_armeabi-v7a.apk",
+     "url": "https://github.com/z-huang/InnerTune/releases/download/v0.5.10/InnerTune_v0.5.10_full_armeabi-v7a.apk",
+     "size": 20656947,
+     "sizeText": "19.7 MB",
+     "releasedAt": "2024-09-01T15:07:21Z"
+    },
+    {
+     "name": "InnerTune_v0.5.10_foss.apk",
+     "url": "https://github.com/z-huang/InnerTune/releases/download/v0.5.10/InnerTune_v0.5.10_foss.apk",
+     "size": 6857687,
+     "sizeText": "6.54 MB",
+     "releasedAt": "2024-09-01T14:46:09Z"
+    },
+    {
+     "name": "InnerTune_v0.5.10_full_x86_64.apk",
+     "url": "https://github.com/z-huang/InnerTune/releases/download/v0.5.10/InnerTune_v0.5.10_full_x86_64.apk",
+     "size": 27158118,
+     "sizeText": "25.9 MB",
+     "releasedAt": "2024-09-01T15:08:48Z"
+    },
+    {
+     "name": "InnerTune_v0.5.10_full_x86.apk",
+     "url": "https://github.com/z-huang/InnerTune/releases/download/v0.5.10/InnerTune_v0.5.10_full_x86.apk",
+     "size": 27053261,
+     "sizeText": "25.8 MB",
+     "releasedAt": "2024-09-01T15:18:01Z"
+    }
+   ]
+  },
+  {
+   "repo": "mostafaalagamy/Metrolist",
+   "name": "Metrolist",
+   "category": "music",
+   "desc": "Modern YouTube Music client.",
+   "owner": "mostafaalagamy",
+   "icon": "https://github.com/mostafaalagamy.png?size=160",
+   "page": "https://github.com/mostafaalagamy/Metrolist",
+   "releasesPage": "https://github.com/mostafaalagamy/Metrolist/releases",
+   "tag": "v14.0.1",
+   "version": "14.0.1",
+   "releasedAt": "2026-11-19T01:03:38Z",
+   "asset": {
+    "name": "Metrolist-with-Google-Cast.apk",
+    "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.1/Metrolist-with-Google-Cast.apk",
+    "size": 15099494,
+    "sizeText": "14.4 MB",
+    "releasedAt": "2026-11-19T01:03:38Z"
+   },
+   "assets": [
+    {
+     "name": "Metrolist-with-Google-Cast.apk",
+     "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.1/Metrolist-with-Google-Cast.apk",
+     "size": 15099494,
+     "sizeText": "14.4 MB",
+     "releasedAt": "2026-11-19T01:03:38Z"
+    },
+    {
+     "name": "Metrolist.apk",
+     "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.1/Metrolist.apk",
+     "size": 15099494,
+     "sizeText": "14.4 MB",
+     "releasedAt": "2026-11-19T01:03:38Z"
+    },
+    {
+     "name": "Metrolist-izzy.apk",
+     "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.1/Metrolist-izzy.apk",
+     "size": 13421773,
+     "sizeText": "12.8 MB",
+     "releasedAt": "2026-11-19T01:03:38Z"
+    }
+   ]
+  },
+  {
+   "repo": "OuterTune/OuterTune",
+   "name": "OuterTune",
+   "category": "music",
+   "desc": "Maintained InnerTune fork with more features.",
+   "owner": "OuterTune",
+   "icon": "https://github.com/OuterTune.png?size=160",
+   "page": "https://github.com/OuterTune/OuterTune",
+   "releasesPage": "https://github.com/OuterTune/OuterTune/releases",
+   "tag": "v0.11.1",
+   "version": "0.11.1",
+   "releasedAt": "2026-09-06T00:29:48Z",
+   "asset": {
+    "name": "OuterTune-0.11.1-full-universal-release-73.apk",
+    "url": "https://github.com/OuterTune/OuterTune/releases/download/v0.11.1/OuterTune-0.11.1-full-universal-release-73.apk",
+    "size": 21915238,
+    "sizeText": "20.9 MB",
+    "releasedAt": "2026-09-06T00:29:48Z"
+   },
+   "assets": [
+    {
+     "name": "OuterTune-0.11.1-full-universal-release-73.apk",
+     "url": "https://github.com/OuterTune/OuterTune/releases/download/v0.11.1/OuterTune-0.11.1-full-universal-release-73.apk",
+     "size": 21915238,
+     "sizeText": "20.9 MB",
+     "releasedAt": "2026-09-06T00:29:48Z"
+    }
+   ]
+  },
+  {
+   "repo": "XilinJia/Podcini",
+   "name": "Podcini",
+   "category": "music",
+   "desc": "Podcast app with local and streaming support.",
+   "owner": "XilinJia",
+   "icon": "https://github.com/XilinJia.png?size=160",
+   "page": "https://github.com/XilinJia/Podcini",
+   "releasesPage": "https://github.com/XilinJia/Podcini/releases",
+   "tag": "7.3.5",
+   "version": "7.3.5",
+   "releasedAt": "2025-01-13T12:04:46Z",
+   "asset": {
+    "name": "Podcini.R_release_free_7.3.5_arm64-v8a.apk",
+    "url": "https://github.com/XilinJia/Podcini/releases/download/7.3.5/Podcini.R_release_free_7.3.5_arm64-v8a.apk",
+    "size": 27577549,
+    "sizeText": "26.3 MB",
+    "releasedAt": "2025-01-13T12:04:46Z"
+   },
+   "assets": [
+    {
+     "name": "Podcini.R_release_free_7.3.5_arm64-v8a.apk",
+     "url": "https://github.com/XilinJia/Podcini/releases/download/7.3.5/Podcini.R_release_free_7.3.5_arm64-v8a.apk",
+     "size": 27577549,
+     "sizeText": "26.3 MB",
+     "releasedAt": "2025-01-13T12:04:46Z"
+    },
+    {
+     "name": "Podcini.R_release_play_7.3.5_arm64-v8a.apk",
+     "url": "https://github.com/XilinJia/Podcini/releases/download/7.3.5/Podcini.R_release_play_7.3.5_arm64-v8a.apk",
+     "size": 26738688,
+     "sizeText": "25.5 MB",
+     "releasedAt": "2025-01-13T12:05:59Z"
+    },
+    {
+     "name": "Podcini.R_release_free_7.3.5.apk",
+     "url": "https://github.com/XilinJia/Podcini/releases/download/7.3.5/Podcini.R_release_free_7.3.5.apk",
+     "size": 67528294,
+     "sizeText": "64.4 MB",
+     "releasedAt": "2025-01-13T12:05:34Z"
+    }
+   ]
+  },
+  {
+   "repo": "maxrave-dev/SimpMusic",
+   "name": "SimpMusic",
+   "category": "music",
+   "desc": "YouTube Music client with synced lyrics.",
+   "owner": "maxrave-dev",
+   "icon": "https://github.com/maxrave-dev.png?size=160",
+   "page": "https://github.com/maxrave-dev/SimpMusic",
+   "releasesPage": "https://github.com/maxrave-dev/SimpMusic/releases",
+   "tag": "v2.6.0",
+   "version": "2.6.0",
+   "releasedAt": "2026-11-14T11:22:38Z",
+   "asset": {
+    "name": "SimpMusic-full-arm64-v8a-release.apk",
+    "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-full-arm64-v8a-release.apk",
+    "size": 30408704,
+    "sizeText": "29 MB",
+    "releasedAt": "2026-11-14T11:22:38Z"
+   },
+   "assets": [
+    {
+     "name": "SimpMusic-full-arm64-v8a-release.apk",
+     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-full-arm64-v8a-release.apk",
+     "size": 30408704,
+     "sizeText": "29 MB",
+     "releasedAt": "2026-11-14T11:22:38Z"
+    },
+    {
+     "name": "SimpMusic-foss-arm64-v8a-release.apk",
+     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-foss-arm64-v8a-release.apk",
+     "size": 28730982,
+     "sizeText": "27.4 MB",
+     "releasedAt": "2026-11-14T11:22:31Z"
+    },
+    {
+     "name": "SimpMusic-full-universal-release.apk",
+     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-full-universal-release.apk",
+     "size": 58405683,
+     "sizeText": "55.7 MB",
+     "releasedAt": "2026-11-14T11:22:54Z"
+    },
+    {
+     "name": "SimpMusic-foss-universal-release.apk",
+     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-foss-universal-release.apk",
+     "size": 56098816,
+     "sizeText": "53.5 MB",
+     "releasedAt": "2026-11-14T11:22:46Z"
+    },
+    {
+     "name": "SimpMusic-full-armeabi-v7a-release.apk",
+     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-full-armeabi-v7a-release.apk",
+     "size": 30408704,
+     "sizeText": "29 MB",
+     "releasedAt": "2026-11-14T11:22:45Z"
+    },
+    {
+     "name": "SimpMusic-foss-armeabi-v7a-release.apk",
+     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-foss-armeabi-v7a-release.apk",
+     "size": 28730982,
+     "sizeText": "27.4 MB",
+     "releasedAt": "2026-11-14T11:22:39Z"
+    },
+    {
+     "name": "SimpMusic-full-vivo-release.apk",
+     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-full-vivo-release.apk",
+     "size": 30408704,
+     "sizeText": "29 MB",
+     "releasedAt": "2026-11-14T11:22:49Z"
+    },
+    {
+     "name": "SimpMusic-full-x86_64-release.apk",
+     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-full-x86_64-release.apk",
+     "size": 31981568,
+     "sizeText": "30.5 MB",
+     "releasedAt": "2026-11-14T11:23:03Z"
+    },
+    {
+     "name": "SimpMusic-foss-x86_64-release.apk",
+     "url": "https://github.com/maxrave-dev/SimpMusic/releases/download/v2.6.0/SimpMusic-foss-x86_64-release.apk",
+     "size": 30198989,
+     "sizeText": "28.8 MB",
+     "releasedAt": "2026-11-14T11:23:00Z"
+    }
+   ]
+  },
+  {
+   "repo": "KRTirtho/spotube",
+   "name": "Spotube",
+   "category": "music",
+   "desc": "Open-source Spotify client using YouTube as a source.",
+   "owner": "KRTirtho",
+   "icon": "https://github.com/KRTirtho.png?size=160",
+   "page": "https://github.com/KRTirtho/spotube",
+   "releasesPage": "https://github.com/KRTirtho/spotube/releases",
+   "tag": "v6.0.0",
+   "version": "6.0.0",
+   "releasedAt": "2026-11-09T14:27:05Z",
+   "asset": {
+    "name": "Spotube-android-all-arch.apk",
+    "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/Spotube-android-all-arch.apk",
+    "size": 76650906,
+    "sizeText": "73.1 MB",
+    "releasedAt": "2026-11-09T14:27:05Z"
+   },
+   "assets": [
+    {
+     "name": "Spotube-android-all-arch.apk",
+     "url": "https://github.com/team-spotube/spotube/releases/download/v6.0.0/Spotube-android-all-arch.apk",
+     "size": 76650906,
+     "sizeText": "73.1 MB",
+     "releasedAt": "2026-11-09T14:27:05Z"
+    }
+   ]
+  },
+  {
+   "repo": "deltachat/deltachat-android",
+   "name": "Delta Chat",
+   "category": "social",
+   "desc": "Messaging over email with end-to-end encryption.",
+   "owner": "deltachat",
+   "icon": "https://github.com/deltachat.png?size=160",
+   "page": "https://github.com/deltachat/deltachat-android",
+   "releasesPage": "https://github.com/deltachat/deltachat-android/releases",
+   "tag": "v2.69.0",
+   "version": "2.69.0",
+   "releasedAt": "2026-11-10T16:33:57Z",
+   "asset": {
+    "name": "deltachat-gplay-release-2.69.0.apk",
+    "url": "https://github.com/deltachat/deltachat-android/releases/download/v2.69.0/deltachat-gplay-release-2.69.0.apk",
+    "size": 69940019,
+    "sizeText": "66.7 MB",
+    "releasedAt": "2026-11-10T16:33:57Z"
+   },
+   "assets": [
+    {
+     "name": "deltachat-gplay-release-2.69.0.apk",
+     "url": "https://github.com/deltachat/deltachat-android/releases/download/v2.69.0/deltachat-gplay-release-2.69.0.apk",
+     "size": 69940019,
+     "sizeText": "66.7 MB",
+     "releasedAt": "2026-11-10T16:33:57Z"
+    }
+   ]
+  },
+  {
+   "repo": "element-hq/element-x-android",
+   "name": "Element X",
+   "category": "social",
+   "desc": "Next-generation Matrix client.",
+   "owner": "element-hq",
+   "icon": "https://github.com/element-hq.png?size=160",
+   "page": "https://github.com/element-hq/element-x-android",
+   "releasesPage": "https://github.com/element-hq/element-x-android/releases",
+   "tag": "v26.11.1",
+   "version": "26.11.1",
+   "releasedAt": "2026-11-17T15:29:02Z",
+   "asset": {
+    "name": "app-fdroid-arm64-v8a-release-signed.apk",
+    "url": "https://github.com/element-hq/element-x-android/releases/download/v26.11.1/app-fdroid-arm64-v8a-release-signed.apk",
+    "size": 125829120,
+    "sizeText": "120 MB",
+    "releasedAt": "2026-11-17T15:29:02Z"
+   },
+   "assets": [
+    {
+     "name": "app-fdroid-arm64-v8a-release-signed.apk",
+     "url": "https://github.com/element-hq/element-x-android/releases/download/v26.11.1/app-fdroid-arm64-v8a-release-signed.apk",
+     "size": 125829120,
+     "sizeText": "120 MB",
+     "releasedAt": "2026-11-17T15:29:02Z"
+    },
+    {
+     "name": "app-fdroid-armeabi-v7a-release-signed.apk",
+     "url": "https://github.com/element-hq/element-x-android/releases/download/v26.11.1/app-fdroid-armeabi-v7a-release-signed.apk",
+     "size": 96888422,
+     "sizeText": "92.4 MB",
+     "releasedAt": "2026-11-17T15:29:02Z"
+    },
+    {
+     "name": "202611010.apk",
+     "url": "https://github.com/element-hq/element-x-android/releases/download/v26.11.1/202611010.apk",
+     "size": 355467264,
+     "sizeText": "339 MB",
+     "releasedAt": "2026-11-17T15:29:02Z"
+    },
+    {
+     "name": "app-fdroid-x86_64-release-signed.apk",
+     "url": "https://github.com/element-hq/element-x-android/releases/download/v26.11.1/app-fdroid-x86_64-release-signed.apk",
+     "size": 137363456,
+     "sizeText": "131 MB",
+     "releasedAt": "2026-11-17T15:29:31Z"
+    },
+    {
+     "name": "app-fdroid-x86-release-signed.apk",
+     "url": "https://github.com/element-hq/element-x-android/releases/download/v26.11.1/app-fdroid-x86-release-signed.apk",
+     "size": 90701824,
+     "sizeText": "86.5 MB",
+     "releasedAt": "2026-11-17T15:29:02Z"
+    }
+   ]
+  },
+  {
+   "repo": "LemmyNet/jerboa",
+   "name": "Jerboa",
+   "category": "social",
+   "desc": "Native Android client for Lemmy.",
+   "owner": "LemmyNet",
+   "icon": "https://github.com/LemmyNet.png?size=160",
+   "page": "https://github.com/LemmyNet/jerboa",
+   "releasesPage": "https://github.com/LemmyNet/jerboa/releases",
+   "tag": "0.0.88",
+   "version": "0.0.88",
+   "releasedAt": "2026-07-21T13:03:02Z",
+   "asset": {
+    "name": "jerboa-fdroid-0.0.88.apk",
+    "url": "https://github.com/LemmyNet/jerboa/releases/download/0.0.88/jerboa-fdroid-0.0.88.apk",
+    "size": 6144655,
+    "sizeText": "5.86 MB",
+    "releasedAt": "2026-07-21T13:03:02Z"
+   },
+   "assets": [
+    {
+     "name": "jerboa-fdroid-0.0.88.apk",
+     "url": "https://github.com/LemmyNet/jerboa/releases/download/0.0.88/jerboa-fdroid-0.0.88.apk",
+     "size": 6144655,
+     "sizeText": "5.86 MB",
+     "releasedAt": "2026-07-21T13:03:02Z"
+    }
+   ]
+  },
+  {
+   "repo": "simplex-chat/simplex-chat",
+   "name": "SimpleX",
+   "category": "social",
+   "desc": "Private messenger without user identifiers.",
+   "owner": "simplex-chat",
+   "icon": "https://github.com/simplex-chat.png?size=160",
+   "page": "https://github.com/simplex-chat/simplex-chat",
+   "releasesPage": "https://github.com/simplex-chat/simplex-chat/releases",
+   "tag": "v7.1.4",
+   "version": "7.1.4",
+   "releasedAt": "2026-11-14T22:46:36Z",
+   "asset": {
+    "name": "simplex-aarch64.apk",
+    "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.4/simplex-aarch64.apk",
+    "size": 93323264,
+    "sizeText": "89 MB",
+    "releasedAt": "2026-11-14T22:46:36Z"
+   },
+   "assets": [
+    {
+     "name": "simplex-aarch64.apk",
+     "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.4/simplex-aarch64.apk",
+     "size": 93323264,
+     "sizeText": "89 MB",
+     "releasedAt": "2026-11-14T22:46:36Z"
+    },
+    {
+     "name": "simplex-armv7a.apk",
+     "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.4/simplex-armv7a.apk",
+     "size": 100873011,
+     "sizeText": "96.2 MB",
+     "releasedAt": "2026-11-14T22:46:55Z"
+    },
+    {
+     "name": "simplex.apk",
+     "url": "https://github.com/simplex-chat/simplex-chat/releases/download/v7.1.4/simplex.apk",
+     "size": 93323264,
+     "sizeText": "89 MB",
+     "releasedAt": "2026-11-14T22:47:03Z"
+    }
+   ]
+  },
+  {
+   "repo": "tuskyapp/Tusky",
+   "name": "Tusky",
+   "category": "social",
+   "desc": "Lightweight Mastodon client.",
+   "owner": "tuskyapp",
+   "icon": "https://github.com/tuskyapp.png?size=160",
+   "page": "https://github.com/tuskyapp/Tusky",
+   "releasesPage": "https://github.com/tuskyapp/Tusky/releases",
+   "tag": "v29.0",
+   "version": "29.0",
+   "releasedAt": "2025-05-17T11:54:12Z",
+   "asset": {
+    "name": "133.apk",
+    "url": "https://github.com/tuskyapp/Tusky/releases/download/v29.0/133.apk",
+    "size": 20971520,
+    "sizeText": "20 MB",
+    "releasedAt": "2025-05-17T11:54:12Z"
+   },
+   "assets": [
+    {
+     "name": "133.apk",
+     "url": "https://github.com/tuskyapp/Tusky/releases/download/v29.0/133.apk",
+     "size": 20971520,
+     "sizeText": "20 MB",
+     "releasedAt": "2025-05-17T11:54:12Z"
+    }
+   ]
+  },
+  {
+   "repo": "beemdevelopment/Aegis",
+   "name": "Aegis Authenticator",
+   "category": "privacy",
+   "desc": "Secure 2FA authenticator with encrypted backups.",
+   "owner": "beemdevelopment",
+   "icon": "https://github.com/beemdevelopment.png?size=160",
+   "page": "https://github.com/beemdevelopment/Aegis",
+   "releasesPage": "https://github.com/beemdevelopment/Aegis/releases",
+   "tag": "v3.4.3",
+   "version": "3.4.3",
+   "releasedAt": "2026-09-06T10:30:39Z",
+   "asset": {
+    "name": "aegis-v3.4.3.apk",
+    "url": "https://github.com/beemdevelopment/Aegis/releases/download/v3.4.3/aegis-v3.4.3.apk",
+    "size": 6878659,
+    "sizeText": "6.56 MB",
+    "releasedAt": "2026-09-06T10:30:39Z"
+   },
+   "assets": [
+    {
+     "name": "aegis-v3.4.3.apk",
+     "url": "https://github.com/beemdevelopment/Aegis/releases/download/v3.4.3/aegis-v3.4.3.apk",
+     "size": 6878659,
+     "sizeText": "6.56 MB",
+     "releasedAt": "2026-09-06T10:30:39Z"
+    }
+   ]
+  },
+  {
+   "repo": "MuntashirAkon/AppManager",
+   "name": "App Manager",
+   "category": "privacy",
+   "desc": "Advanced package manager and privacy audit tool.",
+   "owner": "MuntashirAkon",
+   "icon": "https://github.com/MuntashirAkon.png?size=160",
+   "page": "https://github.com/MuntashirAkon/AppManager",
+   "releasesPage": "https://github.com/MuntashirAkon/AppManager/releases",
+   "tag": "v4.1.1",
+   "version": "4.1.1",
+   "releasedAt": "2026-09-04T11:42:38Z",
+   "asset": {
+    "name": "AppManager_v4.1.1.apk",
+    "url": "https://github.com/MuntashirAkon/AppManager/releases/download/v4.1.1/AppManager_v4.1.1.apk",
+    "size": 28311552,
+    "sizeText": "27 MB",
+    "releasedAt": "2026-09-04T11:42:38Z"
+   },
+   "assets": [
+    {
+     "name": "AppManager_v4.1.1.apk",
+     "url": "https://github.com/MuntashirAkon/AppManager/releases/download/v4.1.1/AppManager_v4.1.1.apk",
+     "size": 28311552,
+     "sizeText": "27 MB",
+     "releasedAt": "2026-09-04T11:42:38Z"
+    }
+   ]
+  },
+  {
+   "repo": "bitwarden/android",
+   "name": "Bitwarden",
+   "category": "privacy",
+   "desc": "Open-source password manager.",
+   "owner": "bitwarden",
+   "icon": "https://github.com/bitwarden.png?size=160",
+   "page": "https://github.com/bitwarden/android",
+   "releasesPage": "https://github.com/bitwarden/android/releases",
+   "tag": "v2026.11.1-bwpm",
+   "version": "2026.11.1-bwpm",
+   "releasedAt": "2026-11-18T15:21:47Z",
+   "asset": {
+    "name": "com.x8bit.bitwarden.apk",
+    "url": "https://github.com/bitwarden/android/releases/download/v2026.11.1-bwpm/com.x8bit.bitwarden.apk",
+    "size": 144703488,
+    "sizeText": "138 MB",
+    "releasedAt": "2026-11-18T15:21:47Z"
+   },
+   "assets": [
+    {
+     "name": "com.x8bit.bitwarden.apk",
+     "url": "https://github.com/bitwarden/android/releases/download/v2026.11.1-bwpm/com.x8bit.bitwarden.apk",
+     "size": 144703488,
+     "sizeText": "138 MB",
+     "releasedAt": "2026-11-18T15:21:47Z"
+    },
+    {
+     "name": "com.x8bit.bitwarden-fdroid.apk",
+     "url": "https://github.com/bitwarden/android/releases/download/v2026.11.1-bwpm/com.x8bit.bitwarden-fdroid.apk",
+     "size": 98251571,
+     "sizeText": "93.7 MB",
+     "releasedAt": "2026-11-18T15:21:47Z"
+    }
+   ]
+  },
+  {
+   "repo": "cryptomator/android",
+   "name": "Cryptomator",
+   "category": "privacy",
+   "desc": "Transparent client-side encryption for cloud files.",
+   "owner": "cryptomator",
+   "icon": "https://github.com/cryptomator.png?size=160",
+   "page": "https://github.com/cryptomator/android",
+   "releasesPage": "https://github.com/cryptomator/android/releases",
+   "tag": "3.0.0",
+   "version": "3.0.0",
+   "releasedAt": "2026-11-17T20:44:18Z",
+   "asset": {
+    "name": "Cryptomator-3.0.0_signed.apk",
+    "url": "https://github.com/cryptomator/android/releases/download/3.0.0/Cryptomator-3.0.0_signed.apk",
+    "size": 29255270,
+    "sizeText": "27.9 MB",
+    "releasedAt": "2026-11-17T20:44:18Z"
+   },
+   "assets": [
+    {
+     "name": "Cryptomator-3.0.0_signed.apk",
+     "url": "https://github.com/cryptomator/android/releases/download/3.0.0/Cryptomator-3.0.0_signed.apk",
+     "size": 29255270,
+     "sizeText": "27.9 MB",
+     "releasedAt": "2026-11-17T20:44:18Z"
+    },
+    {
+     "name": "Cryptomator-3.0.0_fdroid_signed.apk",
+     "url": "https://github.com/cryptomator/android/releases/download/3.0.0/Cryptomator-3.0.0_fdroid_signed.apk",
+     "size": 27892122,
+     "sizeText": "26.6 MB",
+     "releasedAt": "2026-11-17T20:44:04Z"
+    },
+    {
+     "name": "Cryptomator-3.0.0_lite_signed.apk",
+     "url": "https://github.com/cryptomator/android/releases/download/3.0.0/Cryptomator-3.0.0_lite_signed.apk",
+     "size": 22334669,
+     "sizeText": "21.3 MB",
+     "releasedAt": "2026-11-17T20:44:12Z"
+    }
+   ]
+  },
+  {
+   "repo": "iamr0s/Dhizuku",
+   "name": "Dhizuku",
+   "category": "privacy",
+   "desc": "Device owner privileges via Shizuku.",
+   "owner": "iamr0s",
+   "icon": "https://github.com/iamr0s.png?size=160",
+   "page": "https://github.com/iamr0s/Dhizuku",
+   "releasesPage": "https://github.com/iamr0s/Dhizuku/releases",
+   "tag": "v2.13.0",
+   "version": "2.13.0",
+   "releasedAt": "2026-10-30T07:31:09Z",
+   "asset": {
+    "name": "Dhizuku_v2.13.0-testkey.apk",
+    "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.13.0/Dhizuku_v2.13.0-testkey.apk",
+    "size": 2831155,
+    "sizeText": "2.7 MB",
+    "releasedAt": "2026-10-30T07:31:09Z"
+   },
+   "assets": [
+    {
+     "name": "Dhizuku_v2.13.0-testkey.apk",
+     "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.13.0/Dhizuku_v2.13.0-testkey.apk",
+     "size": 2831155,
+     "sizeText": "2.7 MB",
+     "releasedAt": "2026-10-30T07:31:09Z"
+    },
+    {
+     "name": "Dhizuku_v2.13.0.apk",
+     "url": "https://github.com/iamr0s/Dhizuku/releases/download/v2.13.0/Dhizuku_v2.13.0.apk",
+     "size": 2831155,
+     "sizeText": "2.7 MB",
+     "releasedAt": "2026-10-30T07:31:11Z"
+    }
+   ]
+  },
+  {
+   "repo": "Kunzisoft/KeePassDX",
+   "name": "KeePassDX",
+   "category": "privacy",
+   "desc": "Offline KeePass password manager.",
+   "owner": "Kunzisoft",
+   "icon": "https://github.com/Kunzisoft.png?size=160",
+   "page": "https://github.com/Kunzisoft/KeePassDX",
+   "releasesPage": "https://github.com/Kunzisoft/KeePassDX/releases",
+   "tag": "4.5.8",
+   "version": "4.5.8",
+   "releasedAt": "2026-10-31T20:04:07Z",
+   "asset": {
+    "name": "KeePassDX-4.5.8-free.apk",
+    "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.8/KeePassDX-4.5.8-free.apk",
+    "size": 16777216,
+    "sizeText": "16 MB",
+    "releasedAt": "2026-10-31T20:04:07Z"
+   },
+   "assets": [
+    {
+     "name": "KeePassDX-4.5.8-free.apk",
+     "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.8/KeePassDX-4.5.8-free.apk",
+     "size": 16777216,
+     "sizeText": "16 MB",
+     "releasedAt": "2026-10-31T20:04:07Z"
+    },
+    {
+     "name": "KeePassDX-4.5.8-libre.apk",
+     "url": "https://github.com/Kunzisoft/KeePassDX/releases/download/4.5.8/KeePassDX-4.5.8-libre.apk",
+     "size": 16777216,
+     "sizeText": "16 MB",
+     "releasedAt": "2026-10-31T20:04:10Z"
+    }
+   ]
+  },
+  {
+   "repo": "M66B/NetGuard",
+   "name": "NetGuard",
+   "category": "privacy",
+   "desc": "Firewall without root.",
+   "owner": "M66B",
+   "icon": "https://github.com/M66B.png?size=160",
+   "page": "https://github.com/M66B/NetGuard",
+   "releasesPage": "https://github.com/M66B/NetGuard/releases",
+   "tag": "2.337",
+   "version": "2.337",
+   "releasedAt": "2026-08-01T21:29:29Z",
+   "asset": {
+    "name": "NetGuard-v2.337-release.apk",
+    "url": "https://github.com/M66B/NetGuard/releases/download/2.337/NetGuard-v2.337-release.apk",
+    "size": 3219128,
+    "sizeText": "3.07 MB",
+    "releasedAt": "2026-08-01T21:29:29Z"
+   },
+   "assets": [
+    {
+     "name": "NetGuard-v2.337-release.apk",
+     "url": "https://github.com/M66B/NetGuard/releases/download/2.337/NetGuard-v2.337-release.apk",
+     "size": 3219128,
+     "sizeText": "3.07 MB",
+     "releasedAt": "2026-08-01T21:29:29Z"
+    }
+   ]
+  },
+  {
+   "repo": "schwabe/ics-openvpn",
+   "name": "OpenVPN for Android",
+   "category": "privacy",
+   "desc": "OpenVPN client.",
+   "owner": "schwabe",
+   "icon": "https://github.com/schwabe.png?size=160",
+   "page": "https://github.com/schwabe/ics-openvpn",
+   "releasesPage": "https://github.com/schwabe/ics-openvpn/releases",
+   "tag": "v0.7.69",
+   "version": "0.7.69",
+   "releasedAt": "2026-10-25T15:13:05Z",
+   "asset": {
+    "name": "ics-openvpn-0.7.69.apk",
+    "url": "https://github.com/schwabe/ics-openvpn/releases/download/v0.7.69/ics-openvpn-0.7.69.apk",
+    "size": 39426458,
+    "sizeText": "37.6 MB",
+    "releasedAt": "2026-10-25T15:13:05Z"
+   },
+   "assets": [
+    {
+     "name": "ics-openvpn-0.7.69.apk",
+     "url": "https://github.com/schwabe/ics-openvpn/releases/download/v0.7.69/ics-openvpn-0.7.69.apk",
+     "size": 39426458,
+     "sizeText": "37.6 MB",
+     "releasedAt": "2026-10-25T15:13:05Z"
+    }
+   ]
+  },
+  {
+   "repo": "guardianproject/orbot",
+   "name": "Orbot",
+   "category": "privacy",
+   "desc": "Tor proxy for Android.",
+   "owner": "guardianproject",
+   "icon": "https://github.com/guardianproject.png?size=160",
+   "page": "https://github.com/guardianproject/orbot",
+   "releasesPage": "https://github.com/guardianproject/orbot/releases",
+   "tag": "17.9.8-RC-1-tor-0.4.9.17",
+   "version": "17.9.8-RC-1-tor-0.4.9.17",
+   "releasedAt": "2026-11-16T19:24:08Z",
+   "asset": {
+    "name": "Orbot-17.9.8-RC-1-tor-0.4.9.17-1-g75a2abad5-fullperm-arm64-v8a-release.apk",
+    "url": "https://github.com/guardianproject/orbot-android/releases/download/17.9.8-RC-1-tor-0.4.9.17/Orbot-17.9.8-RC-1-tor-0.4.9.17-1-g75a2abad5-fullperm-arm64-v8a-release.apk",
+    "size": 35861299,
+    "sizeText": "34.2 MB",
+    "releasedAt": "2026-11-16T19:24:08Z"
+   },
+   "assets": [
+    {
+     "name": "Orbot-17.9.8-RC-1-tor-0.4.9.17-1-g75a2abad5-fullperm-arm64-v8a-release.apk",
+     "url": "https://github.com/guardianproject/orbot-android/releases/download/17.9.8-RC-1-tor-0.4.9.17/Orbot-17.9.8-RC-1-tor-0.4.9.17-1-g75a2abad5-fullperm-arm64-v8a-release.apk",
+     "size": 35861299,
+     "sizeText": "34.2 MB",
+     "releasedAt": "2026-11-16T19:24:08Z"
+    },
+    {
+     "name": "Orbot-17.9.8-RC-1-tor-0.4.9.17-1-g75a2abad5-fullperm-armeabi-v7a-release.apk",
+     "url": "https://github.com/guardianproject/orbot-android/releases/download/17.9.8-RC-1-tor-0.4.9.17/Orbot-17.9.8-RC-1-tor-0.4.9.17-1-g75a2abad5-fullperm-armeabi-v7a-release.apk",
+     "size": 35861299,
+     "sizeText": "34.2 MB",
+     "releasedAt": "2026-11-16T19:24:04Z"
+    }
+   ]
+  },
+  {
+   "repo": "emanuele-f/PCAPdroid",
+   "name": "PCAPdroid",
+   "category": "privacy",
+   "desc": "Network capture and analysis without root.",
+   "owner": "emanuele-f",
+   "icon": "https://github.com/emanuele-f.png?size=160",
+   "page": "https://github.com/emanuele-f/PCAPdroid",
+   "releasesPage": "https://github.com/emanuele-f/PCAPdroid/releases",
+   "tag": "v2.0.4",
+   "version": "2.0.4",
+   "releasedAt": "2026-11-20T18:31:20Z",
+   "asset": {
+    "name": "PCAPdroid_v2.0.4.apk",
+    "url": "https://github.com/emanuele-f/PCAPdroid/releases/download/v2.0.4/PCAPdroid_v2.0.4.apk",
+    "size": 17616077,
+    "sizeText": "16.8 MB",
+    "releasedAt": "2026-11-20T18:31:20Z"
+   },
+   "assets": [
+    {
+     "name": "PCAPdroid_v2.0.4.apk",
+     "url": "https://github.com/emanuele-f/PCAPdroid/releases/download/v2.0.4/PCAPdroid_v2.0.4.apk",
+     "size": 17616077,
+     "sizeText": "16.8 MB",
+     "releasedAt": "2026-11-20T18:31:20Z"
+    }
+   ]
+  },
+  {
+   "repo": "celzero/rethink-app",
+   "name": "RethinkDNS",
+   "category": "privacy",
+   "desc": "DNS and firewall with on-device blocking.",
+   "owner": "celzero",
+   "icon": "https://github.com/celzero.png?size=160",
+   "page": "https://github.com/celzero/rethink-app",
+   "releasesPage": "https://github.com/celzero/rethink-app/releases",
+   "tag": "v0.5.8",
+   "version": "0.5.8",
+   "releasedAt": "2026-10-13T18:03:17Z",
+   "asset": {
+    "name": "rethink-70-arm64-v8a.apk",
+    "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-70-arm64-v8a.apk",
+    "size": 31771853,
+    "sizeText": "30.3 MB",
+    "releasedAt": "2026-10-13T18:03:17Z"
+   },
+   "assets": [
+    {
+     "name": "rethink-70-arm64-v8a.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-70-arm64-v8a.apk",
+     "size": 31771853,
+     "sizeText": "30.3 MB",
+     "releasedAt": "2026-10-13T18:03:17Z"
+    },
+    {
+     "name": "rethink-v0.5.8-izzy-arm64-v8a.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-v0.5.8-izzy-arm64-v8a.apk",
+     "size": 30932992,
+     "sizeText": "29.5 MB",
+     "releasedAt": "2026-10-13T17:20:44Z"
+    },
+    {
+     "name": "rethink-v0.5.8-izzy-universal.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-v0.5.8-izzy-universal.apk",
+     "size": 71303168,
+     "sizeText": "68 MB",
+     "releasedAt": "2026-10-13T17:20:44Z"
+    },
+    {
+     "name": "rethink-70-armeabi-v7a.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-70-armeabi-v7a.apk",
+     "size": 31142707,
+     "sizeText": "29.7 MB",
+     "releasedAt": "2026-10-13T18:03:59Z"
+    },
+    {
+     "name": "rethink-v0.5.8-izzy-armeabi-v7a.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-v0.5.8-izzy-armeabi-v7a.apk",
+     "size": 30303846,
+     "sizeText": "28.9 MB",
+     "releasedAt": "2026-10-13T17:20:44Z"
+    },
+    {
+     "name": "rethink-70.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-70.apk",
+     "size": 72142029,
+     "sizeText": "68.8 MB",
+     "releasedAt": "2026-10-13T18:06:22Z"
+    },
+    {
+     "name": "rethink-70-x86_64.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-70-x86_64.apk",
+     "size": 33135002,
+     "sizeText": "31.6 MB",
+     "releasedAt": "2026-10-13T18:04:37Z"
+    },
+    {
+     "name": "rethink-v0.5.8-izzy-x86_64.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-v0.5.8-izzy-x86_64.apk",
+     "size": 32296141,
+     "sizeText": "30.8 MB",
+     "releasedAt": "2026-10-13T17:20:44Z"
+    },
+    {
+     "name": "rethink-70-x86.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-70-x86.apk",
+     "size": 31352422,
+     "sizeText": "29.9 MB",
+     "releasedAt": "2026-10-13T18:05:16Z"
+    },
+    {
+     "name": "rethink-v0.5.8-izzy-x86.apk",
+     "url": "https://github.com/celzero/rethink-app/releases/download/v0.5.8/rethink-v0.5.8-izzy-x86.apk",
+     "size": 30513562,
+     "sizeText": "29.1 MB",
+     "releasedAt": "2026-10-13T17:20:44Z"
+    }
+   ]
+  },
+  {
+   "repo": "d4rken-org/sdmaid-se",
+   "name": "SD Maid SE",
+   "category": "privacy",
+   "desc": "System cleaning and app management.",
+   "owner": "d4rken-org",
+   "icon": "https://github.com/d4rken-org.png?size=160",
+   "page": "https://github.com/d4rken-org/sdmaid-se",
+   "releasesPage": "https://github.com/d4rken-org/sdmaid-se/releases",
+   "tag": "v2.2.3-rc0",
+   "version": "2.2.3-rc0",
+   "releasedAt": "2026-11-19T17:09:22Z",
+   "asset": {
+    "name": "eu.darken.sdmse-v2.2.3-rc0-20203000-FOSS-RELEASE.apk",
+    "url": "https://github.com/d4rken-org/sdmaid-se/releases/download/v2.2.3-rc0/eu.darken.sdmse-v2.2.3-rc0-20203000-FOSS-RELEASE.apk",
+    "size": 18140365,
+    "sizeText": "17.3 MB",
+    "releasedAt": "2026-11-19T17:09:22Z"
+   },
+   "assets": [
+    {
+     "name": "eu.darken.sdmse-v2.2.3-rc0-20203000-FOSS-RELEASE.apk",
+     "url": "https://github.com/d4rken-org/sdmaid-se/releases/download/v2.2.3-rc0/eu.darken.sdmse-v2.2.3-rc0-20203000-FOSS-RELEASE.apk",
+     "size": 18140365,
+     "sizeText": "17.3 MB",
+     "releasedAt": "2026-11-19T17:09:22Z"
+    }
+   ]
+  },
+  {
+   "repo": "RikkaApps/Shizuku",
+   "name": "Shizuku",
+   "category": "privacy",
+   "desc": "Use system APIs with ADB-level privileges.",
+   "owner": "RikkaApps",
+   "icon": "https://github.com/RikkaApps.png?size=160",
+   "page": "https://github.com/RikkaApps/Shizuku",
+   "releasesPage": "https://github.com/RikkaApps/Shizuku/releases",
+   "tag": "v13.6.0",
+   "version": "13.6.0",
+   "releasedAt": "2025-05-25T13:19:23Z",
+   "asset": {
+    "name": "shizuku-v13.6.0.r1086.2650830c-release.apk",
+    "url": "https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk",
+    "size": 2569011,
+    "sizeText": "2.45 MB",
+    "releasedAt": "2025-05-25T13:19:23Z"
+   },
+   "assets": [
+    {
+     "name": "shizuku-v13.6.0.r1086.2650830c-release.apk",
+     "url": "https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk",
+     "size": 2569011,
+     "sizeText": "2.45 MB",
+     "releasedAt": "2025-05-25T13:19:23Z"
+    }
+   ]
+  },
+  {
+   "repo": "TrackerControl/tracker-control-android",
+   "name": "TrackerControl",
+   "category": "privacy",
+   "desc": "Monitor and block in-app trackers.",
+   "owner": "TrackerControl",
+   "icon": "https://github.com/TrackerControl.png?size=160",
+   "page": "https://github.com/TrackerControl/tracker-control-android",
+   "releasesPage": "https://github.com/TrackerControl/tracker-control-android/releases",
+   "tag": "2026110101",
+   "version": "2026110101",
+   "releasedAt": "2026-11-01T19:04:56Z",
+   "asset": {
+    "name": "TrackerControl-githubRelease-latest.apk",
+    "url": "https://github.com/TrackerControl/tracker-control-android/releases/download/2026110101/TrackerControl-githubRelease-latest.apk",
+    "size": 15623782,
+    "sizeText": "14.9 MB",
+    "releasedAt": "2026-11-01T19:04:56Z"
+   },
+   "assets": [
+    {
+     "name": "TrackerControl-githubRelease-latest.apk",
+     "url": "https://github.com/TrackerControl/tracker-control-android/releases/download/2026110101/TrackerControl-githubRelease-latest.apk",
+     "size": 15623782,
+     "sizeText": "14.9 MB",
+     "releasedAt": "2026-11-01T19:04:56Z"
+    }
+   ]
+  },
+  {
+   "repo": "TeamAmaze/AmazeFileManager",
+   "name": "Amaze File Manager",
+   "category": "tools",
+   "desc": "Open-source file manager.",
+   "owner": "TeamAmaze",
+   "icon": "https://github.com/TeamAmaze.png?size=160",
+   "page": "https://github.com/TeamAmaze/AmazeFileManager",
+   "releasesPage": "https://github.com/TeamAmaze/AmazeFileManager/releases",
+   "tag": "v3.11.4",
+   "version": "3.11.4",
+   "releasedAt": "2026-10-15T11:16:09Z",
+   "asset": {
+    "name": "app-fdroid-release.apk",
+    "url": "https://github.com/TeamAmaze/AmazeFileManager/releases/download/v3.11.4/app-fdroid-release.apk",
+    "size": 11953766,
+    "sizeText": "11.4 MB",
+    "releasedAt": "2026-10-15T11:16:09Z"
+   },
+   "assets": [
+    {
+     "name": "app-fdroid-release.apk",
+     "url": "https://github.com/TeamAmaze/AmazeFileManager/releases/download/v3.11.4/app-fdroid-release.apk",
+     "size": 11953766,
+     "sizeText": "11.4 MB",
+     "releasedAt": "2026-10-15T11:16:09Z"
+    }
+   ]
+  },
+  {
+   "repo": "rumboalla/apkupdater",
+   "name": "APKUpdater",
+   "category": "tools",
+   "desc": "Keep sideloaded apps up to date.",
+   "owner": "rumboalla",
+   "icon": "https://github.com/rumboalla.png?size=160",
+   "page": "https://github.com/rumboalla/apkupdater",
+   "releasesPage": "https://github.com/rumboalla/apkupdater/releases",
+   "tag": "0.0.604-ci",
+   "version": "0.0.604-ci",
+   "releasedAt": "2026-05-28T11:22:10Z",
+   "asset": {
+    "name": "com.apkupdater.ci-release.apk",
+    "url": "https://github.com/rumboalla/apkupdater/releases/download/0.0.604-ci/com.apkupdater.ci-release.apk",
+    "size": 4131389,
+    "sizeText": "3.94 MB",
+    "releasedAt": "2026-05-28T11:22:10Z"
+   },
+   "assets": [
+    {
+     "name": "com.apkupdater.ci-release.apk",
+     "url": "https://github.com/rumboalla/apkupdater/releases/download/0.0.604-ci/com.apkupdater.ci-release.apk",
+     "size": 4131389,
+     "sizeText": "3.94 MB",
+     "releasedAt": "2026-05-28T11:22:10Z"
+    }
+   ]
+  },
+  {
+   "repo": "XayahSuSuSu/Android-DataBackup",
+   "name": "DataBackup",
+   "category": "tools",
+   "desc": "Root-based app data backup.",
+   "owner": "XayahSuSuSu",
+   "icon": "https://github.com/XayahSuSuSu.png?size=160",
+   "page": "https://github.com/XayahSuSuSu/Android-DataBackup",
+   "releasesPage": "https://github.com/XayahSuSuSu/Android-DataBackup/releases",
+   "tag": "2.0.12",
+   "version": "2.0.12",
+   "releasedAt": "2025-09-20T09:35:51Z",
+   "asset": {
+    "name": "DataBackup-2.0.12-arm64-v8a-premium-release.apk",
+    "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-arm64-v8a-premium-release.apk",
+    "size": 15204352,
+    "sizeText": "14.5 MB",
+    "releasedAt": "2025-09-20T09:35:51Z"
+   },
+   "assets": [
+    {
+     "name": "DataBackup-2.0.12-arm64-v8a-premium-release.apk",
+     "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-arm64-v8a-premium-release.apk",
+     "size": 15204352,
+     "sizeText": "14.5 MB",
+     "releasedAt": "2025-09-20T09:35:51Z"
+    },
+    {
+     "name": "DataBackup-2.0.12-arm64-v8a-foss-release.apk",
+     "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-arm64-v8a-foss-release.apk",
+     "size": 14470349,
+     "sizeText": "13.8 MB",
+     "releasedAt": "2025-09-20T09:35:33Z"
+    },
+    {
+     "name": "DataBackup-2.0.12-armeabi-v7a-premium-release.apk",
+     "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-armeabi-v7a-premium-release.apk",
+     "size": 14050918,
+     "sizeText": "13.4 MB",
+     "releasedAt": "2025-09-20T09:35:48Z"
+    },
+    {
+     "name": "DataBackup-2.0.12-armeabi-v7a-foss-release.apk",
+     "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-armeabi-v7a-foss-release.apk",
+     "size": 13421773,
+     "sizeText": "12.8 MB",
+     "releasedAt": "2025-09-20T09:35:30Z"
+    },
+    {
+     "name": "DataBackup-2.0.12-x86-premium-release.apk",
+     "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-x86-premium-release.apk",
+     "size": 15728640,
+     "sizeText": "15 MB",
+     "releasedAt": "2025-09-20T09:35:44Z"
+    },
+    {
+     "name": "DataBackup-2.0.12-x86_64-premium-release.apk",
+     "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-x86_64-premium-release.apk",
+     "size": 15623782,
+     "sizeText": "14.9 MB",
+     "releasedAt": "2025-09-20T09:35:39Z"
+    },
+    {
+     "name": "DataBackup-2.0.12-x86-foss-release.apk",
+     "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-x86-foss-release.apk",
+     "size": 15099494,
+     "sizeText": "14.4 MB",
+     "releasedAt": "2025-09-20T09:35:25Z"
+    },
+    {
+     "name": "DataBackup-2.0.12-x86_64-foss-release.apk",
+     "url": "https://github.com/XayahSuSuSu/Android-DataBackup/releases/download/2.0.12/DataBackup-2.0.12-x86_64-foss-release.apk",
+     "size": 14994637,
+     "sizeText": "14.3 MB",
+     "releasedAt": "2025-09-20T09:35:55Z"
+    }
+   ]
+  },
+  {
+   "repo": "Droid-ify/client",
+   "name": "Droid-ify",
+   "category": "tools",
+   "desc": "F-Droid client with a modern UI.",
+   "owner": "Droid-ify",
+   "icon": "https://github.com/Droid-ify.png?size=160",
+   "page": "https://github.com/Droid-ify/client",
+   "releasesPage": "https://github.com/Droid-ify/client/releases",
+   "tag": "v0.7.8",
+   "version": "0.7.8",
+   "releasedAt": "2026-09-12T18:58:38Z",
+   "asset": {
+    "name": "app-release.apk",
+    "url": "https://github.com/Droid-ify/client/releases/download/v0.7.8/app-release.apk",
+    "size": 5997855,
+    "sizeText": "5.72 MB",
+    "releasedAt": "2026-09-12T18:58:38Z"
+   },
+   "assets": [
+    {
+     "name": "app-release.apk",
+     "url": "https://github.com/Droid-ify/client/releases/download/v0.7.8/app-release.apk",
+     "size": 5997855,
+     "sizeText": "5.72 MB",
+     "releasedAt": "2026-09-12T18:58:38Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/File-Manager",
+   "name": "Fossify File Manager",
+   "category": "tools",
+   "desc": "Simple, fast file manager.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/File-Manager",
+   "releasesPage": "https://github.com/FossifyOrg/File-Manager/releases",
+   "tag": "1.6.5",
+   "version": "1.6.5",
+   "releasedAt": "2026-11-21T17:08:58Z",
+   "asset": {
+    "name": "file-manager-17-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/File-Manager/releases/download/1.6.5/file-manager-17-foss-release.apk",
+    "size": 10034872,
+    "sizeText": "9.57 MB",
+    "releasedAt": "2026-11-21T17:08:58Z"
+   },
+   "assets": [
+    {
+     "name": "file-manager-17-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/File-Manager/releases/download/1.6.5/file-manager-17-foss-release.apk",
+     "size": 10034872,
+     "sizeText": "9.57 MB",
+     "releasedAt": "2026-11-21T17:08:58Z"
+    }
+   ]
+  },
+  {
+   "repo": "home-assistant/android",
+   "name": "Home Assistant",
+   "category": "tools",
+   "desc": "Control your smart home.",
+   "owner": "home-assistant",
+   "icon": "https://github.com/home-assistant.png?size=160",
+   "page": "https://github.com/home-assistant/android",
+   "releasesPage": "https://github.com/home-assistant/android/releases",
+   "tag": "2026.11.2",
+   "version": "2026.11.2",
+   "releasedAt": "2026-11-08T04:22:08Z",
+   "asset": {
+    "name": "automotive-minimal-release.apk",
+    "url": "https://github.com/home-assistant/android/releases/download/2026.11.2/automotive-minimal-release.apk",
+    "size": 125829120,
+    "sizeText": "120 MB",
+    "releasedAt": "2026-11-08T04:22:08Z"
+   },
+   "assets": [
+    {
+     "name": "automotive-minimal-release.apk",
+     "url": "https://github.com/home-assistant/android/releases/download/2026.11.2/automotive-minimal-release.apk",
+     "size": 125829120,
+     "sizeText": "120 MB",
+     "releasedAt": "2026-11-08T04:22:08Z"
+    },
+    {
+     "name": "automotive-full-release.apk",
+     "url": "https://github.com/home-assistant/android/releases/download/2026.11.2/automotive-full-release.apk",
+     "size": 103284736,
+     "sizeText": "98.5 MB",
+     "releasedAt": "2026-11-08T04:22:07Z"
+    },
+    {
+     "name": "app-minimal-release.apk",
+     "url": "https://github.com/home-assistant/android/releases/download/2026.11.2/app-minimal-release.apk",
+     "size": 53896806,
+     "sizeText": "51.4 MB",
+     "releasedAt": "2026-11-08T04:22:07Z"
+    },
+    {
+     "name": "app-full-release.apk",
+     "url": "https://github.com/home-assistant/android/releases/download/2026.11.2/app-full-release.apk",
+     "size": 41838182,
+     "sizeText": "39.9 MB",
+     "releasedAt": "2026-11-08T04:22:07Z"
+    },
+    {
+     "name": "wear-release.apk",
+     "url": "https://github.com/home-assistant/android/releases/download/2026.11.2/wear-release.apk",
+     "size": 30723277,
+     "sizeText": "29.3 MB",
+     "releasedAt": "2026-11-08T04:22:07Z"
+    }
+   ]
+  },
+  {
+   "repo": "immich-app/immich",
+   "name": "Immich",
+   "category": "tools",
+   "desc": "Self-hosted photo and video backup.",
+   "owner": "immich-app",
+   "icon": "https://github.com/immich-app.png?size=160",
+   "page": "https://github.com/immich-app/immich",
+   "releasesPage": "https://github.com/immich-app/immich/releases",
+   "tag": "v3.4.2",
+   "version": "3.4.2",
+   "releasedAt": "2026-11-18T20:06:43Z",
+   "asset": {
+    "name": "app-arm64-v8a-release.apk",
+    "url": "https://github.com/immich-app/immich/releases/download/v3.4.2/app-arm64-v8a-release.apk",
+    "size": 71827456,
+    "sizeText": "68.5 MB",
+    "releasedAt": "2026-11-18T20:06:43Z"
+   },
+   "assets": [
+    {
+     "name": "app-arm64-v8a-release.apk",
+     "url": "https://github.com/immich-app/immich/releases/download/v3.4.2/app-arm64-v8a-release.apk",
+     "size": 71827456,
+     "sizeText": "68.5 MB",
+     "releasedAt": "2026-11-18T20:06:43Z"
+    },
+    {
+     "name": "app-armeabi-v7a-release.apk",
+     "url": "https://github.com/immich-app/immich/releases/download/v3.4.2/app-armeabi-v7a-release.apk",
+     "size": 66060288,
+     "sizeText": "63 MB",
+     "releasedAt": "2026-11-18T20:06:43Z"
+    },
+    {
+     "name": "app-release.apk",
+     "url": "https://github.com/immich-app/immich/releases/download/v3.4.2/app-release.apk",
+     "size": 187695104,
+     "sizeText": "179 MB",
+     "releasedAt": "2026-11-18T20:06:43Z"
+    },
+    {
+     "name": "app-x86_64-release.apk",
+     "url": "https://github.com/immich-app/immich/releases/download/v3.4.2/app-x86_64-release.apk",
+     "size": 74973184,
+     "sizeText": "71.5 MB",
+     "releasedAt": "2026-11-18T20:06:43Z"
+    }
+   ]
+  },
+  {
+   "repo": "localsend/localsend",
+   "name": "LocalSend",
+   "category": "tools",
+   "desc": "Share files across devices on your LAN.",
+   "owner": "localsend",
+   "icon": "https://github.com/localsend.png?size=160",
+   "page": "https://github.com/localsend/localsend",
+   "releasesPage": "https://github.com/localsend/localsend/releases",
+   "tag": "v1.18.2",
+   "version": "1.18.2",
+   "releasedAt": "2026-08-21T13:33:28Z",
+   "asset": {
+    "name": "LocalSend-1.18.2-android-arm64v8.apk",
+    "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk",
+    "size": 46556774,
+    "sizeText": "44.4 MB",
+    "releasedAt": "2026-08-21T13:33:28Z"
+   },
+   "assets": [
+    {
+     "name": "LocalSend-1.18.2-android-arm64v8.apk",
+     "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk",
+     "size": 46556774,
+     "sizeText": "44.4 MB",
+     "releasedAt": "2026-08-21T13:33:28Z"
+    },
+    {
+     "name": "LocalSend-1.18.2-android-google-play.apk",
+     "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-google-play.apk",
+     "size": 127926272,
+     "sizeText": "122 MB",
+     "releasedAt": "2026-08-21T13:55:33Z"
+    },
+    {
+     "name": "LocalSend-1.18.2-android-x64.apk",
+     "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-x64.apk",
+     "size": 48968499,
+     "sizeText": "46.7 MB",
+     "releasedAt": "2026-08-21T13:33:31Z"
+    },
+    {
+     "name": "LocalSend-1.18.2-android-arm32v7.apk",
+     "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm32v7.apk",
+     "size": 39321600,
+     "sizeText": "37.5 MB",
+     "releasedAt": "2026-08-21T13:33:25Z"
+    }
+   ]
+  },
+  {
+   "repo": "zhanghai/MaterialFiles",
+   "name": "Material Files",
+   "category": "tools",
+   "desc": "Material Design file manager.",
+   "owner": "zhanghai",
+   "icon": "https://github.com/zhanghai.png?size=160",
+   "page": "https://github.com/zhanghai/MaterialFiles",
+   "releasesPage": "https://github.com/zhanghai/MaterialFiles/releases",
+   "tag": "v1.7.5",
+   "version": "1.7.5",
+   "releasedAt": "2026-09-20T06:28:02Z",
+   "asset": {
+    "name": "app-release-universal.apk",
+    "url": "https://github.com/zhanghai/MaterialFiles/releases/download/v1.7.5/app-release-universal.apk",
+    "size": 13736346,
+    "sizeText": "13.1 MB",
+    "releasedAt": "2026-09-20T06:28:02Z"
+   },
+   "assets": [
+    {
+     "name": "app-release-universal.apk",
+     "url": "https://github.com/zhanghai/MaterialFiles/releases/download/v1.7.5/app-release-universal.apk",
+     "size": 13736346,
+     "sizeText": "13.1 MB",
+     "releasedAt": "2026-09-20T06:28:02Z"
+    },
+    {
+     "name": "app-release-fdroid.apk",
+     "url": "https://github.com/zhanghai/MaterialFiles/releases/download/v1.7.5/app-release-fdroid.apk",
+     "size": 10905190,
+     "sizeText": "10.4 MB",
+     "releasedAt": "2026-09-23T11:15:00Z"
+    }
+   ]
+  },
+  {
+   "repo": "NeoApplications/Neo-Backup",
+   "name": "Neo Backup",
+   "category": "tools",
+   "desc": "Back up and restore apps and data.",
+   "owner": "NeoApplications",
+   "icon": "https://github.com/NeoApplications.png?size=160",
+   "page": "https://github.com/NeoApplications/Neo-Backup",
+   "releasesPage": "https://github.com/NeoApplications/Neo-Backup/releases",
+   "tag": "8.3.18",
+   "version": "8.3.18",
+   "releasedAt": "2026-05-03T20:54:00Z",
+   "asset": {
+    "name": "Neo_Backup_8.3.18_release.apk",
+    "url": "https://github.com/NeoApplications/Neo-Backup/releases/download/8.3.18/Neo_Backup_8.3.18_release.apk",
+    "size": 11429478,
+    "sizeText": "10.9 MB",
+    "releasedAt": "2026-05-03T20:54:00Z"
+   },
+   "assets": [
+    {
+     "name": "Neo_Backup_8.3.18_release.apk",
+     "url": "https://github.com/NeoApplications/Neo-Backup/releases/download/8.3.18/Neo_Backup_8.3.18_release.apk",
+     "size": 11429478,
+     "sizeText": "10.9 MB",
+     "releasedAt": "2026-05-03T20:54:00Z"
+    }
+   ]
+  },
+  {
+   "repo": "NeoApplications/Neo-Store",
+   "name": "Neo Store",
+   "category": "tools",
+   "desc": "F-Droid client with Material You.",
+   "owner": "NeoApplications",
+   "icon": "https://github.com/NeoApplications.png?size=160",
+   "page": "https://github.com/NeoApplications/Neo-Store",
+   "releasesPage": "https://github.com/NeoApplications/Neo-Store/releases",
+   "tag": "1.3.3",
+   "version": "1.3.3",
+   "releasedAt": "2026-10-23T00:57:58Z",
+   "asset": {
+    "name": "Neo_Store_1.3.3_release.apk",
+    "url": "https://github.com/NeoApplications/Neo-Store/releases/download/1.3.3/Neo_Store_1.3.3_release.apk",
+    "size": 5976883,
+    "sizeText": "5.7 MB",
+    "releasedAt": "2026-10-23T00:57:58Z"
+   },
+   "assets": [
+    {
+     "name": "Neo_Store_1.3.3_release.apk",
+     "url": "https://github.com/NeoApplications/Neo-Store/releases/download/1.3.3/Neo_Store_1.3.3_release.apk",
+     "size": 5976883,
+     "sizeText": "5.7 MB",
+     "releasedAt": "2026-10-23T00:57:58Z"
+    }
+   ]
+  },
+  {
+   "repo": "nextcloud/android",
+   "name": "Nextcloud",
+   "category": "tools",
+   "desc": "Self-hosted files, calendar and contacts client.",
+   "owner": "nextcloud",
+   "icon": "https://github.com/nextcloud.png?size=160",
+   "page": "https://github.com/nextcloud/android",
+   "releasesPage": "https://github.com/nextcloud/android/releases",
+   "tag": "35.1.0",
+   "version": "35.1.0",
+   "releasedAt": "2026-11-18T15:38:20Z",
+   "asset": {
+    "name": "nextcloud-files-gplay-350010090.apk",
+    "url": "https://github.com/nextcloud/android/releases/download/35.1.0/nextcloud-files-gplay-350010090.apk",
+    "size": 154140672,
+    "sizeText": "147 MB",
+    "releasedAt": "2026-11-18T15:38:20Z"
+   },
+   "assets": [
+    {
+     "name": "nextcloud-files-gplay-350010090.apk",
+     "url": "https://github.com/nextcloud/android/releases/download/35.1.0/nextcloud-files-gplay-350010090.apk",
+     "size": 154140672,
+     "sizeText": "147 MB",
+     "releasedAt": "2026-11-18T15:38:20Z"
+    },
+    {
+     "name": "nextcloud-files-huawei-350010090.apk",
+     "url": "https://github.com/nextcloud/android/releases/download/35.1.0/nextcloud-files-huawei-350010090.apk",
+     "size": 152043520,
+     "sizeText": "145 MB",
+     "releasedAt": "2026-11-18T15:38:54Z"
+    },
+    {
+     "name": "nextcloud-files-generic-350010090.apk",
+     "url": "https://github.com/nextcloud/android/releases/download/35.1.0/nextcloud-files-generic-350010090.apk",
+     "size": 108003328,
+     "sizeText": "103 MB",
+     "releasedAt": "2026-11-18T15:37:57Z"
+    }
+   ]
+  },
+  {
+   "repo": "ImranR98/Obtainium",
+   "name": "Obtainium",
+   "category": "tools",
+   "desc": "Install and update apps directly from their release pages.",
+   "owner": "ImranR98",
+   "icon": "https://github.com/ImranR98.png?size=160",
+   "page": "https://github.com/ImranR98/Obtainium",
+   "releasesPage": "https://github.com/ImranR98/Obtainium/releases",
+   "tag": "v1.7.4",
+   "version": "1.7.4",
+   "releasedAt": "2026-11-01T06:49:59Z",
+   "asset": {
+    "name": "app-arm64-v8a-fdroid-release.apk",
+    "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-arm64-v8a-fdroid-release.apk",
+    "size": 34603008,
+    "sizeText": "33 MB",
+    "releasedAt": "2026-11-01T06:49:59Z"
+   },
+   "assets": [
+    {
+     "name": "app-arm64-v8a-fdroid-release.apk",
+     "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-arm64-v8a-fdroid-release.apk",
+     "size": 34603008,
+     "sizeText": "33 MB",
+     "releasedAt": "2026-11-01T06:49:59Z"
+    },
+    {
+     "name": "app-arm64-v8a-release.apk",
+     "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-arm64-v8a-release.apk",
+     "size": 34603008,
+     "sizeText": "33 MB",
+     "releasedAt": "2026-11-01T06:50:06Z"
+    },
+    {
+     "name": "app-armeabi-v7a-release.apk",
+     "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-armeabi-v7a-release.apk",
+     "size": 30618419,
+     "sizeText": "29.2 MB",
+     "releasedAt": "2026-11-01T06:50:19Z"
+    },
+    {
+     "name": "app-armeabi-v7a-fdroid-release.apk",
+     "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-armeabi-v7a-fdroid-release.apk",
+     "size": 30513562,
+     "sizeText": "29.1 MB",
+     "releasedAt": "2026-11-01T06:50:14Z"
+    },
+    {
+     "name": "app-fdroid-release.apk",
+     "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-fdroid-release.apk",
+     "size": 94162125,
+     "sizeText": "89.8 MB",
+     "releasedAt": "2026-11-01T06:50:24Z"
+    },
+    {
+     "name": "app-release.apk",
+     "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-release.apk",
+     "size": 94162125,
+     "sizeText": "89.8 MB",
+     "releasedAt": "2026-11-01T06:50:40Z"
+    },
+    {
+     "name": "app-x86_64-fdroid-release.apk",
+     "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-x86_64-fdroid-release.apk",
+     "size": 36909875,
+     "sizeText": "35.2 MB",
+     "releasedAt": "2026-11-01T06:50:56Z"
+    },
+    {
+     "name": "app-x86_64-release.apk",
+     "url": "https://github.com/ImranR98/Obtainium/releases/download/v1.7.4/app-x86_64-release.apk",
+     "size": 36909875,
+     "sizeText": "35.2 MB",
+     "releasedAt": "2026-11-01T06:51:05Z"
+    }
+   ]
+  },
+  {
+   "repo": "owncloud/android",
+   "name": "ownCloud",
+   "category": "tools",
+   "desc": "Self-hosted file sync and share client.",
+   "owner": "owncloud",
+   "icon": "https://github.com/owncloud.png?size=160",
+   "page": "https://github.com/owncloud/android",
+   "releasesPage": "https://github.com/owncloud/android/releases",
+   "tag": "v4.8.4",
+   "version": "4.8.4",
+   "releasedAt": "2026-08-31T14:46:51Z",
+   "asset": {
+    "name": "owncloud_4.8.4-original-release.apk",
+    "url": "https://github.com/owncloud/android/releases/download/v4.8.4/owncloud_4.8.4-original-release.apk",
+    "size": 14470349,
+    "sizeText": "13.8 MB",
+    "releasedAt": "2026-08-31T14:46:51Z"
+   },
+   "assets": [
+    {
+     "name": "owncloud_4.8.4-original-release.apk",
+     "url": "https://github.com/owncloud/android/releases/download/v4.8.4/owncloud_4.8.4-original-release.apk",
+     "size": 14470349,
+     "sizeText": "13.8 MB",
+     "releasedAt": "2026-08-31T14:46:51Z"
+    }
+   ]
+  },
+  {
+   "repo": "rustdesk/rustdesk",
+   "name": "RustDesk",
+   "category": "tools",
+   "desc": "Open-source remote desktop.",
+   "owner": "rustdesk",
+   "icon": "https://github.com/rustdesk.png?size=160",
+   "page": "https://github.com/rustdesk/rustdesk",
+   "releasesPage": "https://github.com/rustdesk/rustdesk/releases",
+   "tag": "1.5.3",
+   "version": "1.5.3",
+   "releasedAt": "2026-11-09T10:17:19Z",
+   "asset": {
+    "name": "rustdesk-1.5.3-aarch64-signed.apk",
+    "url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-aarch64-signed.apk",
+    "size": 29255270,
+    "sizeText": "27.9 MB",
+    "releasedAt": "2026-11-09T10:17:19Z"
+   },
+   "assets": [
+    {
+     "name": "rustdesk-1.5.3-aarch64-signed.apk",
+     "url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-aarch64-signed.apk",
+     "size": 29255270,
+     "sizeText": "27.9 MB",
+     "releasedAt": "2026-11-09T10:17:19Z"
+    },
+    {
+     "name": "rustdesk-1.5.3-universal-signed.apk",
+     "url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-universal-signed.apk",
+     "size": 78957773,
+     "sizeText": "75.3 MB",
+     "releasedAt": "2026-11-09T10:27:10Z"
+    },
+    {
+     "name": "rustdesk-1.5.3-armv7-signed.apk",
+     "url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-armv7-signed.apk",
+     "size": 27682406,
+     "sizeText": "26.4 MB",
+     "releasedAt": "2026-11-09T10:10:52Z"
+    },
+    {
+     "name": "rustdesk-1.5.3-x86_64-signed.apk",
+     "url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-x86_64-signed.apk",
+     "size": 28835840,
+     "sizeText": "27.5 MB",
+     "releasedAt": "2026-11-09T10:09:00Z"
+    }
+   ]
+  },
+  {
+   "repo": "syncthing/syncthing-android",
+   "name": "Syncthing",
+   "category": "tools",
+   "desc": "Continuous file synchronization.",
+   "owner": "syncthing",
+   "icon": "https://github.com/syncthing.png?size=160",
+   "page": "https://github.com/syncthing/syncthing-android",
+   "releasesPage": "https://github.com/syncthing/syncthing-android/releases",
+   "tag": "1.28.1",
+   "version": "1.28.1",
+   "releasedAt": "2024-12-03T21:18:33Z",
+   "asset": {
+    "name": "app-release.apk",
+    "url": "https://github.com/syncthing/syncthing-android/releases/download/1.28.1/app-release.apk",
+    "size": 51065651,
+    "sizeText": "48.7 MB",
+    "releasedAt": "2024-12-03T21:18:33Z"
+   },
+   "assets": [
+    {
+     "name": "app-release.apk",
+     "url": "https://github.com/syncthing/syncthing-android/releases/download/1.28.1/app-release.apk",
+     "size": 51065651,
+     "sizeText": "48.7 MB",
+     "releasedAt": "2024-12-03T21:18:33Z"
+    }
+   ]
+  },
+  {
+   "repo": "termux/termux-app",
+   "name": "Termux",
+   "category": "tools",
+   "desc": "Linux terminal environment for Android.",
+   "owner": "termux",
+   "icon": "https://github.com/termux.png?size=160",
+   "page": "https://github.com/termux/termux-app",
+   "releasesPage": "https://github.com/termux/termux-app/releases",
+   "tag": "v0.118.3",
+   "version": "0.118.3",
+   "releasedAt": "2025-05-22T22:50:29Z",
+   "asset": {
+    "name": "termux-app_v0.118.3+github-debug_arm64-v8a.apk",
+    "url": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_arm64-v8a.apk",
+    "size": 35127296,
+    "sizeText": "33.5 MB",
+    "releasedAt": "2025-05-22T22:50:29Z"
+   },
+   "assets": [
+    {
+     "name": "termux-app_v0.118.3+github-debug_arm64-v8a.apk",
+     "url": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_arm64-v8a.apk",
+     "size": 35127296,
+     "sizeText": "33.5 MB",
+     "releasedAt": "2025-05-22T22:50:29Z"
+    },
+    {
+     "name": "termux-app_v0.118.3+github-debug_universal.apk",
+     "url": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk",
+     "size": 117440512,
+     "sizeText": "112 MB",
+     "releasedAt": "2025-05-22T22:50:29Z"
+    },
+    {
+     "name": "termux-app_v0.118.3+github-debug_armeabi-v7a.apk",
+     "url": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_armeabi-v7a.apk",
+     "size": 32296141,
+     "sizeText": "30.8 MB",
+     "releasedAt": "2025-05-22T22:50:29Z"
+    },
+    {
+     "name": "termux-app_v0.118.3+github-debug_x86_64.apk",
+     "url": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_x86_64.apk",
+     "size": 35232154,
+     "sizeText": "33.6 MB",
+     "releasedAt": "2025-05-22T22:50:29Z"
+    },
+    {
+     "name": "termux-app_v0.118.3+github-debug_x86.apk",
+     "url": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_x86.apk",
+     "size": 34393293,
+     "sizeText": "32.8 MB",
+     "releasedAt": "2025-05-22T22:50:29Z"
+    }
+   ]
+  },
+  {
+   "repo": "termux/termux-api",
+   "name": "Termux:API",
+   "category": "tools",
+   "desc": "Termux add-on exposing device APIs to scripts.",
+   "owner": "termux",
+   "icon": "https://github.com/termux.png?size=160",
+   "page": "https://github.com/termux/termux-api",
+   "releasesPage": "https://github.com/termux/termux-api/releases",
+   "tag": "v0.53.0",
+   "version": "0.53.0",
+   "releasedAt": "2025-09-01T23:56:48Z",
+   "asset": {
+    "name": "termux-api-app_v0.53.0+github.debug.apk",
+    "url": "https://github.com/termux/termux-api/releases/download/v0.53.0/termux-api-app_v0.53.0+github.debug.apk",
+    "size": 8849981,
+    "sizeText": "8.44 MB",
+    "releasedAt": "2025-09-01T23:56:48Z"
+   },
+   "assets": [
+    {
+     "name": "termux-api-app_v0.53.0+github.debug.apk",
+     "url": "https://github.com/termux/termux-api/releases/download/v0.53.0/termux-api-app_v0.53.0+github.debug.apk",
+     "size": 8849981,
+     "sizeText": "8.44 MB",
+     "releasedAt": "2025-09-01T23:56:48Z"
+    }
+   ]
+  },
+  {
+   "repo": "termux/termux-boot",
+   "name": "Termux:Boot",
+   "category": "tools",
+   "desc": "Run Termux scripts when the device boots.",
+   "owner": "termux",
+   "icon": "https://github.com/termux.png?size=160",
+   "page": "https://github.com/termux/termux-boot",
+   "releasesPage": "https://github.com/termux/termux-boot/releases",
+   "tag": "v0.8.1",
+   "version": "0.8.1",
+   "releasedAt": "2024-06-22T17:09:50Z",
+   "asset": {
+    "name": "termux-boot-app_v0.8.1+github.debug.apk",
+    "url": "https://github.com/termux/termux-boot/releases/download/v0.8.1/termux-boot-app_v0.8.1+github.debug.apk",
+    "size": 743424,
+    "sizeText": "726 KB",
+    "releasedAt": "2024-06-22T17:09:50Z"
+   },
+   "assets": [
+    {
+     "name": "termux-boot-app_v0.8.1+github.debug.apk",
+     "url": "https://github.com/termux/termux-boot/releases/download/v0.8.1/termux-boot-app_v0.8.1+github.debug.apk",
+     "size": 743424,
+     "sizeText": "726 KB",
+     "releasedAt": "2024-06-22T17:09:50Z"
+    }
+   ]
+  },
+  {
+   "repo": "termux/termux-tasker",
+   "name": "Termux:Tasker",
+   "category": "tools",
+   "desc": "Run Termux scripts from automation apps.",
+   "owner": "termux",
+   "icon": "https://github.com/termux.png?size=160",
+   "page": "https://github.com/termux/termux-tasker",
+   "releasesPage": "https://github.com/termux/termux-tasker/releases",
+   "tag": "v0.9.0",
+   "version": "0.9.0",
+   "releasedAt": "2025-09-02T19:06:58Z",
+   "asset": {
+    "name": "termux-tasker-app_v0.9.0+github.debug.apk",
+    "url": "https://github.com/termux/termux-tasker/releases/download/v0.9.0/termux-tasker-app_v0.9.0+github.debug.apk",
+    "size": 7885292,
+    "sizeText": "7.52 MB",
+    "releasedAt": "2025-09-02T19:06:58Z"
+   },
+   "assets": [
+    {
+     "name": "termux-tasker-app_v0.9.0+github.debug.apk",
+     "url": "https://github.com/termux/termux-tasker/releases/download/v0.9.0/termux-tasker-app_v0.9.0+github.debug.apk",
+     "size": 7885292,
+     "sizeText": "7.52 MB",
+     "releasedAt": "2025-09-02T19:06:58Z"
+    }
+   ]
+  },
+  {
+   "repo": "termux/termux-widget",
+   "name": "Termux:Widget",
+   "category": "tools",
+   "desc": "Launch Termux scripts from home-screen widgets.",
+   "owner": "termux",
+   "icon": "https://github.com/termux.png?size=160",
+   "page": "https://github.com/termux/termux-widget",
+   "releasesPage": "https://github.com/termux/termux-widget/releases",
+   "tag": "v0.15.0",
+   "version": "0.15.0",
+   "releasedAt": "2025-09-02T00:38:54Z",
+   "asset": {
+    "name": "termux-widget-app_v0.15.0+github.debug.apk",
+    "url": "https://github.com/termux/termux-widget/releases/download/v0.15.0/termux-widget-app_v0.15.0+github.debug.apk",
+    "size": 11114906,
+    "sizeText": "10.6 MB",
+    "releasedAt": "2025-09-02T00:38:54Z"
+   },
+   "assets": [
+    {
+     "name": "termux-widget-app_v0.15.0+github.debug.apk",
+     "url": "https://github.com/termux/termux-widget/releases/download/v0.15.0/termux-widget-app_v0.15.0+github.debug.apk",
+     "size": 11114906,
+     "sizeText": "10.6 MB",
+     "releasedAt": "2025-09-02T00:38:54Z"
+    }
+   ]
+  },
+  {
+   "repo": "termux/termux-x11",
+   "name": "Termux:X11",
+   "category": "tools",
+   "desc": "X11 server for Termux.",
+   "owner": "termux",
+   "icon": "https://github.com/termux.png?size=160",
+   "page": "https://github.com/termux/termux-x11",
+   "releasesPage": "https://github.com/termux/termux-x11/releases",
+   "tag": "nightly",
+   "version": "nightly",
+   "releasedAt": "2026-11-15T13:12:01Z",
+   "asset": {
+    "name": "termux-x11-universal-release.apk",
+    "url": "https://github.com/termux/termux-x11/releases/download/nightly/termux-x11-universal-release.apk",
+    "size": 13421773,
+    "sizeText": "12.8 MB",
+    "releasedAt": "2026-11-15T13:12:01Z"
+   },
+   "assets": [
+    {
+     "name": "termux-x11-universal-release.apk",
+     "url": "https://github.com/termux/termux-x11/releases/download/nightly/termux-x11-universal-release.apk",
+     "size": 13421773,
+     "sizeText": "12.8 MB",
+     "releasedAt": "2026-11-15T13:12:01Z"
+    },
+    {
+     "name": "termux-x11-universal-sharedUid-release.apk",
+     "url": "https://github.com/termux/termux-x11/releases/download/nightly/termux-x11-universal-sharedUid-release.apk",
+     "size": 13421773,
+     "sizeText": "12.8 MB",
+     "releasedAt": "2026-11-15T13:12:01Z"
+    }
+   ]
+  },
+  {
+   "repo": "traccar/traccar-client-android",
+   "name": "Traccar Client",
+   "category": "tools",
+   "desc": "GPS tracking client for self-hosted servers.",
+   "owner": "traccar",
+   "icon": "https://github.com/traccar.png?size=160",
+   "page": "https://github.com/traccar/traccar-client-android",
+   "releasesPage": "https://github.com/traccar/traccar-client-android/releases",
+   "tag": "v7.9",
+   "version": "7.9",
+   "releasedAt": "2025-04-17T14:23:14Z",
+   "asset": {
+    "name": "app-regular-release.apk",
+    "url": "https://github.com/traccar/traccar-client-android/releases/download/v7.9/app-regular-release.apk",
+    "size": 6448742,
+    "sizeText": "6.15 MB",
+    "releasedAt": "2025-04-17T14:23:14Z"
+   },
+   "assets": [
+    {
+     "name": "app-regular-release.apk",
+     "url": "https://github.com/traccar/traccar-client-android/releases/download/v7.9/app-regular-release.apk",
+     "size": 6448742,
+     "sizeText": "6.15 MB",
+     "releasedAt": "2025-04-17T14:23:14Z"
+    }
+   ]
+  },
+  {
+   "repo": "AnySoftKeyboard/AnySoftKeyboard",
+   "name": "AnySoftKeyboard",
+   "category": "productivity",
+   "desc": "Keyboard with many languages and layouts.",
+   "owner": "AnySoftKeyboard",
+   "icon": "https://github.com/AnySoftKeyboard.png?size=160",
+   "page": "https://github.com/AnySoftKeyboard/AnySoftKeyboard",
+   "releasesPage": "https://github.com/AnySoftKeyboard/AnySoftKeyboard/releases",
+   "tag": "1.13-r2",
+   "version": "1.13-r2",
+   "releasedAt": "2026-09-08T02:35:26Z",
+   "asset": {
+    "name": "ime_release.apk",
+    "url": "https://github.com/AnySoftKeyboard/AnySoftKeyboard/releases/download/1.13-r2/ime_release.apk",
+    "size": 10370417,
+    "sizeText": "9.89 MB",
+    "releasedAt": "2026-09-08T02:35:26Z"
+   },
+   "assets": [
+    {
+     "name": "ime_release.apk",
+     "url": "https://github.com/AnySoftKeyboard/AnySoftKeyboard/releases/download/1.13-r2/ime_release.apk",
+     "size": 10370417,
+     "sizeText": "9.89 MB",
+     "releasedAt": "2026-09-08T02:35:26Z"
+    }
+   ]
+  },
+  {
+   "repo": "florisboard/florisboard",
+   "name": "FlorisBoard",
+   "category": "productivity",
+   "desc": "Privacy-friendly keyboard with themes.",
+   "owner": "florisboard",
+   "icon": "https://github.com/florisboard.png?size=160",
+   "page": "https://github.com/florisboard/florisboard",
+   "releasesPage": "https://github.com/florisboard/florisboard/releases",
+   "tag": "v0.5.2",
+   "version": "0.5.2",
+   "releasedAt": "2025-11-28T11:39:38Z",
+   "asset": {
+    "name": "florisboard-0.5.2-preview.apk",
+    "url": "https://github.com/florisboard/florisboard/releases/download/v0.5.2/florisboard-0.5.2-preview.apk",
+    "size": 14784922,
+    "sizeText": "14.1 MB",
+    "releasedAt": "2025-11-28T11:39:38Z"
+   },
+   "assets": [
+    {
+     "name": "florisboard-0.5.2-preview.apk",
+     "url": "https://github.com/florisboard/florisboard/releases/download/v0.5.2/florisboard-0.5.2-preview.apk",
+     "size": 14784922,
+     "sizeText": "14.1 MB",
+     "releasedAt": "2025-11-28T11:39:38Z"
+    },
+    {
+     "name": "florisboard-0.5.2-stable.apk",
+     "url": "https://github.com/florisboard/florisboard/releases/download/v0.5.2/florisboard-0.5.2-stable.apk",
+     "size": 14784922,
+     "sizeText": "14.1 MB",
+     "releasedAt": "2025-11-28T11:39:36Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Calendar",
+   "name": "Fossify Calendar",
+   "category": "productivity",
+   "desc": "Offline calendar and agenda.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Calendar",
+   "releasesPage": "https://github.com/FossifyOrg/Calendar/releases",
+   "tag": "1.12.2",
+   "version": "1.12.2",
+   "releasedAt": "2026-11-07T16:07:40Z",
+   "asset": {
+    "name": "calendar-25-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Calendar/releases/download/1.12.2/calendar-25-foss-release.apk",
+    "size": 8231322,
+    "sizeText": "7.85 MB",
+    "releasedAt": "2026-11-07T16:07:40Z"
+   },
+   "assets": [
+    {
+     "name": "calendar-25-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Calendar/releases/download/1.12.2/calendar-25-foss-release.apk",
+     "size": 8231322,
+     "sizeText": "7.85 MB",
+     "releasedAt": "2026-11-07T16:07:40Z"
+    }
+   ]
+  },
+  {
+   "repo": "Helium314/HeliBoard",
+   "name": "HeliBoard",
+   "category": "productivity",
+   "desc": "Customizable offline keyboard.",
+   "owner": "Helium314",
+   "icon": "https://github.com/Helium314.png?size=160",
+   "page": "https://github.com/Helium314/HeliBoard",
+   "releasesPage": "https://github.com/Helium314/HeliBoard/releases",
+   "tag": "v4.2",
+   "version": "4.2",
+   "releasedAt": "2026-10-12T17:30:35Z",
+   "asset": {
+    "name": "HeliBoard_4.2-release.apk",
+    "url": "https://github.com/HeliBorg/HeliBoard/releases/download/v4.2/HeliBoard_4.2-release.apk",
+    "size": 22439526,
+    "sizeText": "21.4 MB",
+    "releasedAt": "2026-10-12T17:30:35Z"
+   },
+   "assets": [
+    {
+     "name": "HeliBoard_4.2-release.apk",
+     "url": "https://github.com/HeliBorg/HeliBoard/releases/download/v4.2/HeliBoard_4.2-release.apk",
+     "size": 22439526,
+     "sizeText": "21.4 MB",
+     "releasedAt": "2026-10-12T17:30:35Z"
+    },
+    {
+     "name": "HeliBoard_4.2-nouserlib.apk",
+     "url": "https://github.com/HeliBorg/HeliBoard/releases/download/v4.2/HeliBoard_4.2-nouserlib.apk",
+     "size": 22439526,
+     "sizeText": "21.4 MB",
+     "releasedAt": "2026-10-12T17:30:29Z"
+    },
+    {
+     "name": "HeliBoard_4.2-debug.apk",
+     "url": "https://github.com/HeliBorg/HeliBoard/releases/download/v4.2/HeliBoard_4.2-debug.apk",
+     "size": 27262976,
+     "sizeText": "26 MB",
+     "releasedAt": "2026-10-12T17:32:11Z"
+    }
+   ]
+  },
+  {
+   "repo": "logseq/logseq",
+   "name": "Logseq",
+   "category": "productivity",
+   "desc": "Privacy-first knowledge base and notes.",
+   "owner": "logseq",
+   "icon": "https://github.com/logseq.png?size=160",
+   "page": "https://github.com/logseq/logseq",
+   "releasesPage": "https://github.com/logseq/logseq/releases",
+   "tag": "2.0.2",
+   "version": "2.0.2",
+   "releasedAt": "2026-10-07T14:16:09Z",
+   "asset": {
+    "name": "Logseq-android-2.0.2.apk",
+    "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-android-2.0.2.apk",
+    "size": 44145050,
+    "sizeText": "42.1 MB",
+    "releasedAt": "2026-10-07T14:16:09Z"
+   },
+   "assets": [
+    {
+     "name": "Logseq-android-2.0.2.apk",
+     "url": "https://github.com/logseq/logseq/releases/download/2.0.2/Logseq-android-2.0.2.apk",
+     "size": 44145050,
+     "sizeText": "42.1 MB",
+     "releasedAt": "2026-10-07T14:16:09Z"
+    }
+   ]
+  },
+  {
+   "repo": "gsantner/markor",
+   "name": "Markor",
+   "category": "productivity",
+   "desc": "Markdown and plain-text editor.",
+   "owner": "gsantner",
+   "icon": "https://github.com/gsantner.png?size=160",
+   "page": "https://github.com/gsantner/markor",
+   "releasesPage": "https://github.com/gsantner/markor/releases",
+   "tag": "v2026.10.0",
+   "version": "2026.10.0",
+   "releasedAt": "2026-10-25T21:23:48Z",
+   "asset": {
+    "name": "net.gsantner.markor-v164-2026.10.0-flavorDefault-release.apk",
+    "url": "https://github.com/gsantner/markor/releases/download/v2026.10.0/net.gsantner.markor-v164-2026.10.0-flavorDefault-release.apk",
+    "size": 11848909,
+    "sizeText": "11.3 MB",
+    "releasedAt": "2026-10-25T21:23:48Z"
+   },
+   "assets": [
+    {
+     "name": "net.gsantner.markor-v164-2026.10.0-flavorDefault-release.apk",
+     "url": "https://github.com/gsantner/markor/releases/download/v2026.10.0/net.gsantner.markor-v164-2026.10.0-flavorDefault-release.apk",
+     "size": 11848909,
+     "sizeText": "11.3 MB",
+     "releasedAt": "2026-10-25T21:23:48Z"
+    }
+   ]
+  },
+  {
+   "repo": "appml/neutrinote",
+   "name": "neutriNote",
+   "category": "productivity",
+   "desc": "Markdown note-taking with math support.",
+   "owner": "appml",
+   "icon": "https://github.com/appml.png?size=160",
+   "page": "https://github.com/appml/neutrinote",
+   "releasesPage": "https://github.com/appml/neutrinote/releases",
+   "tag": "v4.6.9",
+   "version": "4.6.9",
+   "releasedAt": "2026-10-23T14:51:53Z",
+   "asset": {
+    "name": "app-release.apk",
+    "url": "https://github.com/appml/neutrinote/releases/download/v4.6.9/app-release.apk",
+    "size": 3649044,
+    "sizeText": "3.48 MB",
+    "releasedAt": "2026-10-23T14:51:53Z"
+   },
+   "assets": [
+    {
+     "name": "app-release.apk",
+     "url": "https://github.com/appml/neutrinote/releases/download/v4.6.9/app-release.apk",
+     "size": 3649044,
+     "sizeText": "3.48 MB",
+     "releasedAt": "2026-10-23T14:51:53Z"
+    }
+   ]
+  },
+  {
+   "repo": "OmGodse/Notally",
+   "name": "Notally",
+   "category": "productivity",
+   "desc": "Minimal notes app.",
+   "owner": "OmGodse",
+   "icon": "https://github.com/OmGodse.png?size=160",
+   "page": "https://github.com/OmGodse/Notally",
+   "releasesPage": "https://github.com/OmGodse/Notally/releases",
+   "tag": "v6.2",
+   "version": "6.2",
+   "releasedAt": "2026-05-16T15:16:07Z",
+   "asset": {
+    "name": "Notally.v6.2.apk",
+    "url": "https://github.com/OmGodse/Notally/releases/download/v6.2/Notally.v6.2.apk",
+    "size": 1887437,
+    "sizeText": "1.8 MB",
+    "releasedAt": "2026-05-16T15:16:07Z"
+   },
+   "assets": [
+    {
+     "name": "Notally.v6.2.apk",
+     "url": "https://github.com/OmGodse/Notally/releases/download/v6.2/Notally.v6.2.apk",
+     "size": 1887437,
+     "sizeText": "1.8 MB",
+     "releasedAt": "2026-05-16T15:16:07Z"
+    }
+   ]
+  },
+  {
+   "repo": "streetwriters/notesnook",
+   "name": "Notesnook",
+   "category": "productivity",
+   "desc": "End-to-end encrypted note taking.",
+   "owner": "streetwriters",
+   "icon": "https://github.com/streetwriters.png?size=160",
+   "page": "https://github.com/streetwriters/notesnook",
+   "releasesPage": "https://github.com/streetwriters/notesnook/releases",
+   "tag": "3.4.16-android",
+   "version": "3.4.16-android",
+   "releasedAt": "2026-11-16T18:55:25Z",
+   "asset": {
+    "name": "notesnook-arm64-v8a.apk",
+    "url": "https://github.com/streetwriters/notesnook/releases/download/3.4.16-android/notesnook-arm64-v8a.apk",
+    "size": 43096474,
+    "sizeText": "41.1 MB",
+    "releasedAt": "2026-11-16T18:55:25Z"
+   },
+   "assets": [
+    {
+     "name": "notesnook-arm64-v8a.apk",
+     "url": "https://github.com/streetwriters/notesnook/releases/download/3.4.16-android/notesnook-arm64-v8a.apk",
+     "size": 43096474,
+     "sizeText": "41.1 MB",
+     "releasedAt": "2026-11-16T18:55:25Z"
+    },
+    {
+     "name": "notesnook-armeabi-v7a.apk",
+     "url": "https://github.com/streetwriters/notesnook/releases/download/3.4.16-android/notesnook-armeabi-v7a.apk",
+     "size": 41628467,
+     "sizeText": "39.7 MB",
+     "releasedAt": "2026-11-16T18:55:25Z"
+    },
+    {
+     "name": "notesnook-x86.apk",
+     "url": "https://github.com/streetwriters/notesnook/releases/download/3.4.16-android/notesnook-x86.apk",
+     "size": 44040192,
+     "sizeText": "42 MB",
+     "releasedAt": "2026-11-16T18:55:25Z"
+    },
+    {
+     "name": "notesnook-x86_64.apk",
+     "url": "https://github.com/streetwriters/notesnook/releases/download/3.4.16-android/notesnook-x86_64.apk",
+     "size": 43620762,
+     "sizeText": "41.6 MB",
+     "releasedAt": "2026-11-16T18:55:25Z"
+    }
+   ]
+  },
+  {
+   "repo": "orgzly/orgzly-android",
+   "name": "Orgzly",
+   "category": "productivity",
+   "desc": "Outliner and todo app for Org-mode files.",
+   "owner": "orgzly",
+   "icon": "https://github.com/orgzly.png?size=160",
+   "page": "https://github.com/orgzly/orgzly-android",
+   "releasesPage": "https://github.com/orgzly/orgzly-android/releases",
+   "tag": "v1.8.11",
+   "version": "1.8.11",
+   "releasedAt": "2026-01-29T18:21:44Z",
+   "asset": {
+    "name": "orgzly-1.8.11.apk",
+    "url": "https://github.com/orgzly/orgzly-android/releases/download/v1.8.11/orgzly-1.8.11.apk",
+    "size": 5138022,
+    "sizeText": "4.9 MB",
+    "releasedAt": "2026-01-29T18:21:44Z"
+   },
+   "assets": [
+    {
+     "name": "orgzly-1.8.11.apk",
+     "url": "https://github.com/orgzly/orgzly-android/releases/download/v1.8.11/orgzly-1.8.11.apk",
+     "size": 5138022,
+     "sizeText": "4.9 MB",
+     "releasedAt": "2026-01-29T18:21:44Z"
+    }
+   ]
+  },
+  {
+   "repo": "saber-notes/saber",
+   "name": "Saber",
+   "category": "productivity",
+   "desc": "Handwritten notes with stylus support.",
+   "owner": "saber-notes",
+   "icon": "https://github.com/saber-notes.png?size=160",
+   "page": "https://github.com/saber-notes/saber",
+   "releasesPage": "https://github.com/saber-notes/saber/releases",
+   "tag": "v1.38.0",
+   "version": "1.38.0",
+   "releasedAt": "2026-11-21T20:43:02Z",
+   "asset": {
+    "name": "Saber_v1.38.0.apk",
+    "url": "https://github.com/saber-notes/saber/releases/download/v1.38.0/Saber_v1.38.0.apk",
+    "size": 139460608,
+    "sizeText": "133 MB",
+    "releasedAt": "2026-11-21T20:43:02Z"
+   },
+   "assets": [
+    {
+     "name": "Saber_v1.38.0.apk",
+     "url": "https://github.com/saber-notes/saber/releases/download/v1.38.0/Saber_v1.38.0.apk",
+     "size": 139460608,
+     "sizeText": "133 MB",
+     "releasedAt": "2026-11-21T20:43:02Z"
+    },
+    {
+     "name": "Saber_FOSS_v1.38.0.apk",
+     "url": "https://github.com/saber-notes/saber/releases/download/v1.38.0/Saber_FOSS_v1.38.0.apk",
+     "size": 113246208,
+     "sizeText": "108 MB",
+     "releasedAt": "2026-11-21T20:34:16Z"
+    }
+   ]
+  },
+  {
+   "repo": "rkkr/simple-keyboard",
+   "name": "Simple Keyboard",
+   "category": "productivity",
+   "desc": "Minimal keyboard without permissions.",
+   "owner": "rkkr",
+   "icon": "https://github.com/rkkr.png?size=160",
+   "page": "https://github.com/rkkr/simple-keyboard",
+   "releasesPage": "https://github.com/rkkr/simple-keyboard/releases",
+   "tag": "149",
+   "version": "149",
+   "releasedAt": "2026-10-22T09:56:14Z",
+   "asset": {
+    "name": "app-release.apk",
+    "url": "https://github.com/rkkr/simple-keyboard/releases/download/149/app-release.apk",
+    "size": 630784,
+    "sizeText": "616 KB",
+    "releasedAt": "2026-10-22T09:56:14Z"
+   },
+   "assets": [
+    {
+     "name": "app-release.apk",
+     "url": "https://github.com/rkkr/simple-keyboard/releases/download/149/app-release.apk",
+     "size": 630784,
+     "sizeText": "616 KB",
+     "releasedAt": "2026-10-22T09:56:14Z"
+    }
+   ]
+  },
+  {
+   "repo": "siyuan-note/siyuan",
+   "name": "SiYuan",
+   "category": "productivity",
+   "desc": "Local-first block-based knowledge base.",
+   "owner": "siyuan-note",
+   "icon": "https://github.com/siyuan-note.png?size=160",
+   "page": "https://github.com/siyuan-note/siyuan",
+   "releasesPage": "https://github.com/siyuan-note/siyuan/releases",
+   "tag": "v3.8.11",
+   "version": "3.8.11",
+   "releasedAt": "2026-11-19T14:33:59Z",
+   "asset": {
+    "name": "siyuan-3.8.11.apk",
+    "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11.apk",
+    "size": 122683392,
+    "sizeText": "117 MB",
+    "releasedAt": "2026-11-19T14:33:59Z"
+   },
+   "assets": [
+    {
+     "name": "siyuan-3.8.11.apk",
+     "url": "https://github.com/siyuan-note/siyuan/releases/download/v3.8.11/siyuan-3.8.11.apk",
+     "size": 122683392,
+     "sizeText": "117 MB",
+     "releasedAt": "2026-11-19T14:33:59Z"
+    }
+   ]
+  },
+  {
+   "repo": "tasks/tasks",
+   "name": "Tasks",
+   "category": "productivity",
+   "desc": "To-do list with CalDAV sync.",
+   "owner": "tasks",
+   "icon": "https://github.com/tasks.png?size=160",
+   "page": "https://github.com/tasks/tasks",
+   "releasesPage": "https://github.com/tasks/tasks/releases",
+   "tag": "15.14.1",
+   "version": "15.14.1",
+   "releasedAt": "2026-11-17T08:34:16Z",
+   "asset": {
+    "name": "tasks-googleplay-15.14.1.apk",
+    "url": "https://github.com/tasks/tasks/releases/download/15.14.1/tasks-googleplay-15.14.1.apk",
+    "size": 27682406,
+    "sizeText": "26.4 MB",
+    "releasedAt": "2026-11-17T08:34:16Z"
+   },
+   "assets": [
+    {
+     "name": "tasks-googleplay-15.14.1.apk",
+     "url": "https://github.com/tasks/tasks/releases/download/15.14.1/tasks-googleplay-15.14.1.apk",
+     "size": 27682406,
+     "sizeText": "26.4 MB",
+     "releasedAt": "2026-11-17T08:34:16Z"
+    },
+    {
+     "name": "tasks-fdroid-15.14.1.apk",
+     "url": "https://github.com/tasks/tasks/releases/download/15.14.1/tasks-fdroid-15.14.1.apk",
+     "size": 25585254,
+     "sizeText": "24.4 MB",
+     "releasedAt": "2026-11-17T08:34:16Z"
+    }
+   ]
+  },
+  {
+   "repo": "Julow/Unexpected-Keyboard",
+   "name": "Unexpected Keyboard",
+   "category": "productivity",
+   "desc": "Compact keyboard with extra keys.",
+   "owner": "Julow",
+   "icon": "https://github.com/Julow.png?size=160",
+   "page": "https://github.com/Julow/Unexpected-Keyboard",
+   "releasesPage": "https://github.com/Julow/Unexpected-Keyboard/releases",
+   "tag": "2.2.1",
+   "version": "2.2.1",
+   "releasedAt": "2026-11-12T21:49:45Z",
+   "asset": {
+    "name": "Unexpected-Keyboard-release.apk",
+    "url": "https://github.com/Julow/Unexpected-Keyboard/releases/download/2.2.1/Unexpected-Keyboard-release.apk",
+    "size": 852992,
+    "sizeText": "833 KB",
+    "releasedAt": "2026-11-12T21:49:45Z"
+   },
+   "assets": [
+    {
+     "name": "Unexpected-Keyboard-release.apk",
+     "url": "https://github.com/Julow/Unexpected-Keyboard/releases/download/2.2.1/Unexpected-Keyboard-release.apk",
+     "size": 852992,
+     "sizeText": "833 KB",
+     "releasedAt": "2026-11-12T21:49:45Z"
+    }
+   ]
+  },
+  {
+   "repo": "aniyomiorg/aniyomi",
+   "name": "Aniyomi",
+   "category": "reading",
+   "desc": "Anime and manga client.",
+   "owner": "aniyomiorg",
+   "icon": "https://github.com/aniyomiorg.png?size=160",
+   "page": "https://github.com/aniyomiorg/aniyomi",
+   "releasesPage": "https://github.com/aniyomiorg/aniyomi/releases",
+   "tag": "v0.18.2.1",
+   "version": "0.18.2.1",
+   "releasedAt": "2026-09-14T18:39:13Z",
+   "asset": {
+    "name": "aniyomi-arm64-v8a-v0.18.2.1.apk",
+    "url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.2.1/aniyomi-arm64-v8a-v0.18.2.1.apk",
+    "size": 83361792,
+    "sizeText": "79.5 MB",
+    "releasedAt": "2026-09-14T18:39:13Z"
+   },
+   "assets": [
+    {
+     "name": "aniyomi-arm64-v8a-v0.18.2.1.apk",
+     "url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.2.1/aniyomi-arm64-v8a-v0.18.2.1.apk",
+     "size": 83361792,
+     "sizeText": "79.5 MB",
+     "releasedAt": "2026-09-14T18:39:13Z"
+    },
+    {
+     "name": "aniyomi-armeabi-v7a-v0.18.2.1.apk",
+     "url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.2.1/aniyomi-armeabi-v7a-v0.18.2.1.apk",
+     "size": 76126618,
+     "sizeText": "72.6 MB",
+     "releasedAt": "2026-09-14T18:39:13Z"
+    },
+    {
+     "name": "aniyomi-v0.18.2.1.apk",
+     "url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.2.1/aniyomi-v0.18.2.1.apk",
+     "size": 283115520,
+     "sizeText": "270 MB",
+     "releasedAt": "2026-09-14T18:39:13Z"
+    },
+    {
+     "name": "aniyomi-x86_64-v0.18.2.1.apk",
+     "url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.2.1/aniyomi-x86_64-v0.18.2.1.apk",
+     "size": 93637837,
+     "sizeText": "89.3 MB",
+     "releasedAt": "2026-09-14T18:39:14Z"
+    },
+    {
+     "name": "aniyomi-x86-v0.18.2.1.apk",
+     "url": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.2.1/aniyomi-x86-v0.18.2.1.apk",
+     "size": 86822093,
+     "sizeText": "82.8 MB",
+     "releasedAt": "2026-09-14T18:39:13Z"
+    }
+   ]
+  },
+  {
+   "repo": "AnkiDroid/Anki-Android",
+   "name": "AnkiDroid",
+   "category": "reading",
+   "desc": "Spaced-repetition flashcards.",
+   "owner": "AnkiDroid",
+   "icon": "https://github.com/AnkiDroid.png?size=160",
+   "page": "https://github.com/AnkiDroid/Anki-Android",
+   "releasesPage": "https://github.com/AnkiDroid/Anki-Android/releases",
+   "tag": "v2.26.0alpha15",
+   "version": "2.26.0alpha15",
+   "releasedAt": "2026-11-19T15:45:18Z",
+   "asset": {
+    "name": "AnkiDroid-2.26.0alpha15-arm64-v8a.apk",
+    "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/AnkiDroid-2.26.0alpha15-arm64-v8a.apk",
+    "size": 41733325,
+    "sizeText": "39.8 MB",
+    "releasedAt": "2026-11-19T15:45:18Z"
+   },
+   "assets": [
+    {
+     "name": "AnkiDroid-2.26.0alpha15-arm64-v8a.apk",
+     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/AnkiDroid-2.26.0alpha15-arm64-v8a.apk",
+     "size": 41733325,
+     "sizeText": "39.8 MB",
+     "releasedAt": "2026-11-19T15:45:18Z"
+    },
+    {
+     "name": "z-AnkiDroid-2.26.0alpha15-full-universal-nominify.apk",
+     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/z-AnkiDroid-2.26.0alpha15-full-universal-nominify.apk",
+     "size": 123731968,
+     "sizeText": "118 MB",
+     "releasedAt": "2026-11-19T15:45:37Z"
+    },
+    {
+     "name": "AnkiDroid-2.26.0alpha15-full-universal.apk",
+     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/AnkiDroid-2.26.0alpha15-full-universal.apk",
+     "size": 108003328,
+     "sizeText": "103 MB",
+     "releasedAt": "2026-11-19T15:45:28Z"
+    },
+    {
+     "name": "dev-AnkiDroid-2.26.0alpha15-play-universal.apk",
+     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/dev-AnkiDroid-2.26.0alpha15-play-universal.apk",
+     "size": 108003328,
+     "sizeText": "103 MB",
+     "releasedAt": "2026-11-19T15:45:33Z"
+    },
+    {
+     "name": "variant-abi-AnkiDroid-2.26.0alpha15-armeabi-v7a.apk",
+     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/variant-abi-AnkiDroid-2.26.0alpha15-armeabi-v7a.apk",
+     "size": 37958451,
+     "sizeText": "36.2 MB",
+     "releasedAt": "2026-11-19T15:45:26Z"
+    },
+    {
+     "name": "AnkiDroid-2.26.0alpha15.parallel.A.apk",
+     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/AnkiDroid-2.26.0alpha15.parallel.A.apk",
+     "size": 108003328,
+     "sizeText": "103 MB",
+     "releasedAt": "2026-11-19T16:11:37Z"
+    },
+    {
+     "name": "AnkiDroid-2.26.0alpha15.parallel.B.apk",
+     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/AnkiDroid-2.26.0alpha15.parallel.B.apk",
+     "size": 108003328,
+     "sizeText": "103 MB",
+     "releasedAt": "2026-11-19T16:11:41Z"
+    },
+    {
+     "name": "variant-abi-AnkiDroid-2.26.0alpha15-x86_64.apk",
+     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/variant-abi-AnkiDroid-2.26.0alpha15-x86_64.apk",
+     "size": 43620762,
+     "sizeText": "41.6 MB",
+     "releasedAt": "2026-11-19T15:45:23Z"
+    },
+    {
+     "name": "variant-abi-AnkiDroid-2.26.0alpha15-x86.apk",
+     "url": "https://github.com/ankidroid/Anki-Android/releases/download/v2.26.0alpha15/variant-abi-AnkiDroid-2.26.0alpha15-x86.apk",
+     "size": 42572186,
+     "sizeText": "40.6 MB",
+     "releasedAt": "2026-11-19T15:45:20Z"
+    }
+   ]
+  },
+  {
+   "repo": "jocmp/capyreader",
+   "name": "Capy Reader",
+   "category": "reading",
+   "desc": "RSS reader for Android and desktop.",
+   "owner": "jocmp",
+   "icon": "https://github.com/jocmp.png?size=160",
+   "page": "https://github.com/jocmp/capyreader",
+   "releasesPage": "https://github.com/jocmp/capyreader/releases",
+   "tag": "2026.11.1217",
+   "version": "2026.11.1217",
+   "releasedAt": "2026-11-10T02:56:04Z",
+   "asset": {
+    "name": "app-free-release.apk",
+    "url": "https://github.com/jocmp/capyreader/releases/download/2026.11.1217/app-free-release.apk",
+    "size": 14050918,
+    "sizeText": "13.4 MB",
+    "releasedAt": "2026-11-10T02:56:04Z"
+   },
+   "assets": [
+    {
+     "name": "app-free-release.apk",
+     "url": "https://github.com/jocmp/capyreader/releases/download/2026.11.1217/app-free-release.apk",
+     "size": 14050918,
+     "sizeText": "13.4 MB",
+     "releasedAt": "2026-11-10T02:56:04Z"
+    }
+   ]
+  },
+  {
+   "repo": "recloudstream/cloudstream",
+   "name": "Cloudstream",
+   "category": "reading",
+   "desc": "Streaming app with extensible providers.",
+   "owner": "recloudstream",
+   "icon": "https://github.com/recloudstream.png?size=160",
+   "page": "https://github.com/recloudstream/cloudstream",
+   "releasesPage": "https://github.com/recloudstream/cloudstream/releases",
+   "tag": "v4.9.1",
+   "version": "4.9.1",
+   "releasedAt": "2026-11-09T12:56:00Z",
+   "asset": {
+    "name": "4.9.1.apk",
+    "url": "https://github.com/recloudstream/cloudstream/releases/download/v4.9.1/4.9.1.apk",
+    "size": 76021760,
+    "sizeText": "72.5 MB",
+    "releasedAt": "2026-11-09T12:56:00Z"
+   },
+   "assets": [
+    {
+     "name": "4.9.1.apk",
+     "url": "https://github.com/recloudstream/cloudstream/releases/download/v4.9.1/4.9.1.apk",
+     "size": 76021760,
+     "sizeText": "72.5 MB",
+     "releasedAt": "2026-11-09T12:56:00Z"
+    }
+   ]
+  },
+  {
+   "repo": "spacecowboy/Feeder",
+   "name": "Feeder",
+   "category": "reading",
+   "desc": "Feed reader for Android.",
+   "owner": "spacecowboy",
+   "icon": "https://github.com/spacecowboy.png?size=160",
+   "page": "https://github.com/spacecowboy/Feeder",
+   "releasesPage": "https://github.com/spacecowboy/Feeder/releases",
+   "tag": "2.25.0",
+   "version": "2.25.0",
+   "releasedAt": "2026-10-23T09:22:39Z",
+   "asset": {
+    "name": "app-fdroid-release.apk",
+    "url": "https://github.com/spacecowboy/Feeder/releases/download/2.25.0/app-fdroid-release.apk",
+    "size": 60817408,
+    "sizeText": "58 MB",
+    "releasedAt": "2026-10-23T09:22:39Z"
+   },
+   "assets": [
+    {
+     "name": "app-fdroid-release.apk",
+     "url": "https://github.com/spacecowboy/Feeder/releases/download/2.25.0/app-fdroid-release.apk",
+     "size": 60817408,
+     "sizeText": "58 MB",
+     "releasedAt": "2026-10-23T09:22:39Z"
+    },
+    {
+     "name": "app-play-release.apk",
+     "url": "https://github.com/spacecowboy/Feeder/releases/download/2.25.0/app-play-release.apk",
+     "size": 60817408,
+     "sizeText": "58 MB",
+     "releasedAt": "2026-10-23T09:22:39Z"
+    }
+   ]
+  },
+  {
+   "repo": "kiwix/kiwix-android",
+   "name": "Kiwix",
+   "category": "reading",
+   "desc": "Read Wikipedia and other content offline.",
+   "owner": "kiwix",
+   "icon": "https://github.com/kiwix.png?size=160",
+   "page": "https://github.com/kiwix/kiwix-android",
+   "releasesPage": "https://github.com/kiwix/kiwix-android/releases",
+   "tag": "4.0.1",
+   "version": "4.0.1",
+   "releasedAt": "2026-11-18T13:50:04Z",
+   "asset": {
+    "name": "app-arm64-v8a-standalone.apk",
+    "url": "https://github.com/kiwix/kiwix-android/releases/download/4.0.1/app-arm64-v8a-standalone.apk",
+    "size": 33135002,
+    "sizeText": "31.6 MB",
+    "releasedAt": "2026-11-18T13:50:04Z"
+   },
+   "assets": [
+    {
+     "name": "app-arm64-v8a-standalone.apk",
+     "url": "https://github.com/kiwix/kiwix-android/releases/download/4.0.1/app-arm64-v8a-standalone.apk",
+     "size": 33135002,
+     "sizeText": "31.6 MB",
+     "releasedAt": "2026-11-18T13:50:04Z"
+    },
+    {
+     "name": "app-universal-standalone.apk",
+     "url": "https://github.com/kiwix/kiwix-android/releases/download/4.0.1/app-universal-standalone.apk",
+     "size": 98775859,
+     "sizeText": "94.2 MB",
+     "releasedAt": "2026-11-18T13:49:54Z"
+    },
+    {
+     "name": "app-armeabi-v7a-standalone.apk",
+     "url": "https://github.com/kiwix/kiwix-android/releases/download/4.0.1/app-armeabi-v7a-standalone.apk",
+     "size": 29779558,
+     "sizeText": "28.4 MB",
+     "releasedAt": "2026-11-18T13:50:01Z"
+    },
+    {
+     "name": "app-x86-standalone.apk",
+     "url": "https://github.com/kiwix/kiwix-android/releases/download/4.0.1/app-x86-standalone.apk",
+     "size": 34288435,
+     "sizeText": "32.7 MB",
+     "releasedAt": "2026-11-18T13:49:50Z"
+    },
+    {
+     "name": "app-x86_64-standalone.apk",
+     "url": "https://github.com/kiwix/kiwix-android/releases/download/4.0.1/app-x86_64-standalone.apk",
+     "size": 34183578,
+     "sizeText": "32.6 MB",
+     "releasedAt": "2026-11-18T13:49:47Z"
+    }
+   ]
+  },
+  {
+   "repo": "koreader/koreader",
+   "name": "KOReader",
+   "category": "reading",
+   "desc": "E-book reader for PDF, EPUB and more.",
+   "owner": "koreader",
+   "icon": "https://github.com/koreader.png?size=160",
+   "page": "https://github.com/koreader/koreader",
+   "releasesPage": "https://github.com/koreader/koreader/releases",
+   "tag": "v2026.07.1",
+   "version": "2026.07.1",
+   "releasedAt": "2026-08-01T11:07:17Z",
+   "asset": {
+    "name": "koreader-android-arm64-v2026.07.1.apk",
+    "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-android-arm64-v2026.07.1.apk",
+    "size": 30094131,
+    "sizeText": "28.7 MB",
+    "releasedAt": "2026-08-01T11:07:17Z"
+   },
+   "assets": [
+    {
+     "name": "koreader-android-arm64-v2026.07.1.apk",
+     "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-android-arm64-v2026.07.1.apk",
+     "size": 30094131,
+     "sizeText": "28.7 MB",
+     "releasedAt": "2026-08-01T11:07:17Z"
+    },
+    {
+     "name": "koreader-android-arm-v2026.07.1.apk",
+     "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-android-arm-v2026.07.1.apk",
+     "size": 29045555,
+     "sizeText": "27.7 MB",
+     "releasedAt": "2026-08-01T11:07:23Z"
+    },
+    {
+     "name": "koreader-android-x86-v2026.07.1.apk",
+     "url": "https://github.com/koreader/koreader/releases/download/v2026.07.1/koreader-android-x86-v2026.07.1.apk",
+     "size": 30723277,
+     "sizeText": "29.3 MB",
+     "releasedAt": "2026-08-01T11:07:29Z"
+    }
+   ]
+  },
+  {
+   "repo": "mihonapp/mihon",
+   "name": "Mihon",
+   "category": "reading",
+   "desc": "Manga reader with extensions.",
+   "owner": "mihonapp",
+   "icon": "https://github.com/mihonapp.png?size=160",
+   "page": "https://github.com/mihonapp/mihon",
+   "releasesPage": "https://github.com/mihonapp/mihon/releases",
+   "tag": "v0.21.3",
+   "version": "0.21.3",
+   "releasedAt": "2026-10-25T21:50:23Z",
+   "asset": {
+    "name": "mihon-arm64-v8a-v0.21.3.apk",
+    "url": "https://github.com/mihonapp/mihon/releases/download/v0.21.3/mihon-arm64-v8a-v0.21.3.apk",
+    "size": 27787264,
+    "sizeText": "26.5 MB",
+    "releasedAt": "2026-10-25T21:50:23Z"
+   },
+   "assets": [
+    {
+     "name": "mihon-arm64-v8a-v0.21.3.apk",
+     "url": "https://github.com/mihonapp/mihon/releases/download/v0.21.3/mihon-arm64-v8a-v0.21.3.apk",
+     "size": 27787264,
+     "sizeText": "26.5 MB",
+     "releasedAt": "2026-10-25T21:50:23Z"
+    },
+    {
+     "name": "mihon-armeabi-v7a-v0.21.3.apk",
+     "url": "https://github.com/mihonapp/mihon/releases/download/v0.21.3/mihon-armeabi-v7a-v0.21.3.apk",
+     "size": 24641536,
+     "sizeText": "23.5 MB",
+     "releasedAt": "2026-10-25T21:50:23Z"
+    },
+    {
+     "name": "mihon-v0.21.3.apk",
+     "url": "https://github.com/mihonapp/mihon/releases/download/v0.21.3/mihon-v0.21.3.apk",
+     "size": 68157440,
+     "sizeText": "65 MB",
+     "releasedAt": "2026-10-25T21:50:23Z"
+    },
+    {
+     "name": "mihon-v0.21.3-foss.apk",
+     "url": "https://github.com/mihonapp/mihon/releases/download/v0.21.3/mihon-v0.21.3-foss.apk",
+     "size": 67318579,
+     "sizeText": "64.2 MB",
+     "releasedAt": "2026-10-25T21:50:23Z"
+    },
+    {
+     "name": "mihon-x86_64-v0.21.3.apk",
+     "url": "https://github.com/mihonapp/mihon/releases/download/v0.21.3/mihon-x86_64-v0.21.3.apk",
+     "size": 30303846,
+     "sizeText": "28.9 MB",
+     "releasedAt": "2026-10-25T21:50:23Z"
+    },
+    {
+     "name": "mihon-x86-v0.21.3.apk",
+     "url": "https://github.com/mihonapp/mihon/releases/download/v0.21.3/mihon-x86-v0.21.3.apk",
+     "size": 29255270,
+     "sizeText": "27.9 MB",
+     "releasedAt": "2026-10-25T21:50:23Z"
+    }
+   ]
+  },
+  {
+   "repo": "ReadYouApp/ReadYou",
+   "name": "ReadYou",
+   "category": "reading",
+   "desc": "RSS reader with Material You design.",
+   "owner": "ReadYouApp",
+   "icon": "https://github.com/ReadYouApp.png?size=160",
+   "page": "https://github.com/ReadYouApp/ReadYou",
+   "releasesPage": "https://github.com/ReadYouApp/ReadYou/releases",
+   "tag": "0.16.2",
+   "version": "0.16.2",
+   "releasedAt": "2026-06-03T14:52:54Z",
+   "asset": {
+    "name": "ReadYou-0.16.2-091c9207-signed.apk",
+    "url": "https://github.com/ReadYouApp/ReadYou/releases/download/0.16.2/ReadYou-0.16.2-091c9207-signed.apk",
+    "size": 11219763,
+    "sizeText": "10.7 MB",
+    "releasedAt": "2026-06-03T14:52:54Z"
+   },
+   "assets": [
+    {
+     "name": "ReadYou-0.16.2-091c9207-signed.apk",
+     "url": "https://github.com/ReadYouApp/ReadYou/releases/download/0.16.2/ReadYou-0.16.2-091c9207-signed.apk",
+     "size": 11219763,
+     "sizeText": "10.7 MB",
+     "releasedAt": "2026-06-03T14:52:54Z"
+    }
+   ]
+  },
+  {
+   "repo": "minetest/minetest",
+   "name": "Luanti",
+   "category": "games",
+   "desc": "Open-source voxel game platform.",
+   "owner": "minetest",
+   "icon": "https://github.com/minetest.png?size=160",
+   "page": "https://github.com/minetest/minetest",
+   "releasesPage": "https://github.com/minetest/minetest/releases",
+   "tag": "5.18.0",
+   "version": "5.18.0",
+   "releasedAt": "2026-11-01T21:31:06Z",
+   "asset": {
+    "name": "luanti-5.18.0-arm64-v8a.apk",
+    "url": "https://github.com/luanti-org/luanti/releases/download/5.18.0/luanti-5.18.0-arm64-v8a.apk",
+    "size": 17825792,
+    "sizeText": "17 MB",
+    "releasedAt": "2026-11-01T21:31:06Z"
+   },
+   "assets": [
+    {
+     "name": "luanti-5.18.0-arm64-v8a.apk",
+     "url": "https://github.com/luanti-org/luanti/releases/download/5.18.0/luanti-5.18.0-arm64-v8a.apk",
+     "size": 17825792,
+     "sizeText": "17 MB",
+     "releasedAt": "2026-11-01T21:31:06Z"
+    },
+    {
+     "name": "luanti-5.18.0-armeabi-v7a.apk",
+     "url": "https://github.com/luanti-org/luanti/releases/download/5.18.0/luanti-5.18.0-armeabi-v7a.apk",
+     "size": 16986931,
+     "sizeText": "16.2 MB",
+     "releasedAt": "2026-11-01T21:31:08Z"
+    },
+    {
+     "name": "luanti-5.18.0-x86.apk",
+     "url": "https://github.com/luanti-org/luanti/releases/download/5.18.0/luanti-5.18.0-x86.apk",
+     "size": 18559795,
+     "sizeText": "17.7 MB",
+     "releasedAt": "2026-11-01T21:31:10Z"
+    },
+    {
+     "name": "luanti-5.18.0-x86_64.apk",
+     "url": "https://github.com/luanti-org/luanti/releases/download/5.18.0/luanti-5.18.0-x86_64.apk",
+     "size": 18245222,
+     "sizeText": "17.4 MB",
+     "releasedAt": "2026-11-01T21:31:12Z"
+    }
+   ]
+  },
+  {
+   "repo": "OpenRCT2/OpenRCT2",
+   "name": "OpenRCT2",
+   "category": "games",
+   "desc": "Open-source roller coaster tycoon.",
+   "owner": "OpenRCT2",
+   "icon": "https://github.com/OpenRCT2.png?size=160",
+   "page": "https://github.com/OpenRCT2/OpenRCT2",
+   "releasesPage": "https://github.com/OpenRCT2/OpenRCT2/releases",
+   "tag": "v0.5.7",
+   "version": "0.5.7",
+   "releasedAt": "2026-11-01T10:52:33Z",
+   "asset": {
+    "name": "OpenRCT2-v0.5.7-android.apk",
+    "url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.7/OpenRCT2-v0.5.7-android.apk",
+    "size": 217055232,
+    "sizeText": "207 MB",
+    "releasedAt": "2026-11-01T10:52:33Z"
+   },
+   "assets": [
+    {
+     "name": "OpenRCT2-v0.5.7-android.apk",
+     "url": "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.5.7/OpenRCT2-v0.5.7-android.apk",
+     "size": 217055232,
+     "sizeText": "207 MB",
+     "releasedAt": "2026-11-01T10:52:33Z"
+    }
+   ]
+  },
+  {
+   "repo": "ppy/osu",
+   "name": "osu!",
+   "category": "games",
+   "desc": "Rhythm game with an official Android client.",
+   "owner": "ppy",
+   "icon": "https://github.com/ppy.png?size=160",
+   "page": "https://github.com/ppy/osu",
+   "releasesPage": "https://github.com/ppy/osu/releases",
+   "tag": "2026.1117.0-lazer",
+   "version": "2026.1117.0-lazer",
+   "releasedAt": "2026-11-17T08:43:09Z",
+   "asset": {
+    "name": "sh.ppy.osulazer.apk",
+    "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/sh.ppy.osulazer.apk",
+    "size": 174063616,
+    "sizeText": "166 MB",
+    "releasedAt": "2026-11-17T08:43:09Z"
+   },
+   "assets": [
+    {
+     "name": "sh.ppy.osulazer.apk",
+     "url": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/sh.ppy.osulazer.apk",
+     "size": 174063616,
+     "sizeText": "166 MB",
+     "releasedAt": "2026-11-17T08:43:09Z"
+    }
+   ]
+  },
+  {
+   "repo": "00-Evan/shattered-pixel-dungeon",
+   "name": "Shattered Pixel Dungeon",
+   "category": "games",
+   "desc": "Classic roguelike, expanded.",
+   "owner": "00-Evan",
+   "icon": "https://github.com/00-Evan.png?size=160",
+   "page": "https://github.com/00-Evan/shattered-pixel-dungeon",
+   "releasesPage": "https://github.com/00-Evan/shattered-pixel-dungeon/releases",
+   "tag": "v4.0.2",
+   "version": "4.0.2",
+   "releasedAt": "2026-10-07T16:13:21Z",
+   "asset": {
+    "name": "ShatteredPD-v4.0.2-GPlay.apk",
+    "url": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.2/ShatteredPD-v4.0.2-GPlay.apk",
+    "size": 31352422,
+    "sizeText": "29.9 MB",
+    "releasedAt": "2026-10-07T16:13:21Z"
+   },
+   "assets": [
+    {
+     "name": "ShatteredPD-v4.0.2-GPlay.apk",
+     "url": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.2/ShatteredPD-v4.0.2-GPlay.apk",
+     "size": 31352422,
+     "sizeText": "29.9 MB",
+     "releasedAt": "2026-10-07T16:13:21Z"
+    },
+    {
+     "name": "ShatteredPD-v4.0.2-Android.apk",
+     "url": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v4.0.2/ShatteredPD-v4.0.2-Android.apk",
+     "size": 30303846,
+     "sizeText": "28.9 MB",
+     "releasedAt": "2026-10-07T16:13:18Z"
+    }
+   ]
+  },
+  {
+   "repo": "supertux/supertux",
+   "name": "SuperTux",
+   "category": "games",
+   "desc": "Classic 2D platformer.",
+   "owner": "supertux",
+   "icon": "https://github.com/supertux.png?size=160",
+   "page": "https://github.com/supertux/supertux",
+   "releasesPage": "https://github.com/supertux/supertux/releases",
+   "tag": "v0.7.0.1",
+   "version": "0.7.0.1",
+   "releasedAt": "2026-11-22T05:22:44Z",
+   "asset": {
+    "name": "SuperTux-v0.7.0.1-arm64-v8a.apk",
+    "url": "https://github.com/SuperTux/supertux/releases/download/v0.7.0.1/SuperTux-v0.7.0.1-arm64-v8a.apk",
+    "size": 295698432,
+    "sizeText": "282 MB",
+    "releasedAt": "2026-11-22T05:22:44Z"
+   },
+   "assets": [
+    {
+     "name": "SuperTux-v0.7.0.1-arm64-v8a.apk",
+     "url": "https://github.com/SuperTux/supertux/releases/download/v0.7.0.1/SuperTux-v0.7.0.1-arm64-v8a.apk",
+     "size": 295698432,
+     "sizeText": "282 MB",
+     "releasedAt": "2026-11-22T05:22:44Z"
+    },
+    {
+     "name": "SuperTux-v0.7.0.1-armeabi-v7a.apk",
+     "url": "https://github.com/SuperTux/supertux/releases/download/v0.7.0.1/SuperTux-v0.7.0.1-armeabi-v7a.apk",
+     "size": 294649856,
+     "sizeText": "281 MB",
+     "releasedAt": "2026-11-22T05:22:09Z"
+    },
+    {
+     "name": "SuperTux-v0.7.0.1-x86.apk",
+     "url": "https://github.com/SuperTux/supertux/releases/download/v0.7.0.1/SuperTux-v0.7.0.1-x86.apk",
+     "size": 295698432,
+     "sizeText": "282 MB",
+     "releasedAt": "2026-11-22T05:21:36Z"
+    },
+    {
+     "name": "SuperTux-v0.7.0.1-x86_64.apk",
+     "url": "https://github.com/SuperTux/supertux/releases/download/v0.7.0.1/SuperTux-v0.7.0.1-x86_64.apk",
+     "size": 295698432,
+     "sizeText": "282 MB",
+     "releasedAt": "2026-11-22T05:21:10Z"
+    }
+   ]
+  },
+  {
+   "repo": "supertuxkart/stk-code",
+   "name": "SuperTuxKart",
+   "category": "games",
+   "desc": "Open-source kart racing game.",
+   "owner": "supertuxkart",
+   "icon": "https://github.com/supertuxkart.png?size=160",
+   "page": "https://github.com/supertuxkart/stk-code",
+   "releasesPage": "https://github.com/supertuxkart/stk-code/releases",
+   "tag": "1.5",
+   "version": "1.5",
+   "releasedAt": "2025-10-21T13:54:44Z",
+   "asset": {
+    "name": "SuperTuxKart-1.5.apk",
+    "url": "https://github.com/supertuxkart/stk-code/releases/download/1.5/SuperTuxKart-1.5.apk",
+    "size": 183500800,
+    "sizeText": "175 MB",
+    "releasedAt": "2025-10-21T13:54:44Z"
+   },
+   "assets": [
+    {
+     "name": "SuperTuxKart-1.5.apk",
+     "url": "https://github.com/supertuxkart/stk-code/releases/download/1.5/SuperTuxKart-1.5.apk",
+     "size": 183500800,
+     "sizeText": "175 MB",
+     "releasedAt": "2025-10-21T13:54:44Z"
+    }
+   ]
+  },
+  {
+   "repo": "yairm210/Unciv",
+   "name": "Unciv",
+   "category": "games",
+   "desc": "Open-source Civ V clone.",
+   "owner": "yairm210",
+   "icon": "https://github.com/yairm210.png?size=160",
+   "page": "https://github.com/yairm210/Unciv",
+   "releasesPage": "https://github.com/yairm210/Unciv/releases",
+   "tag": "5.0.1",
+   "version": "5.0.1",
+   "releasedAt": "2026-11-17T16:17:42Z",
+   "asset": {
+    "name": "Unciv-signed.apk",
+    "url": "https://github.com/yairm210/Unciv/releases/download/5.0.1/Unciv-signed.apk",
+    "size": 27577549,
+    "sizeText": "26.3 MB",
+    "releasedAt": "2026-11-17T16:17:42Z"
+   },
+   "assets": [
+    {
+     "name": "Unciv-signed.apk",
+     "url": "https://github.com/yairm210/Unciv/releases/download/5.0.1/Unciv-signed.apk",
+     "size": 27577549,
+     "sizeText": "26.3 MB",
+     "releasedAt": "2026-11-17T16:17:42Z"
+    }
+   ]
+  },
+  {
+   "repo": "vcmi/vcmi",
+   "name": "VCMI",
+   "category": "games",
+   "desc": "Open-source Heroes of Might and Magic III engine.",
+   "owner": "vcmi",
+   "icon": "https://github.com/vcmi.png?size=160",
+   "page": "https://github.com/vcmi/vcmi",
+   "releasesPage": "https://github.com/vcmi/vcmi/releases",
+   "tag": "1.7.5",
+   "version": "1.7.5",
+   "releasedAt": "2026-08-14T19:25:02Z",
+   "asset": {
+    "name": "VCMI-Android-arm64-v8a.apk",
+    "url": "https://github.com/vcmi/vcmi/releases/download/1.7.5/VCMI-Android-arm64-v8a.apk",
+    "size": 37329306,
+    "sizeText": "35.6 MB",
+    "releasedAt": "2026-08-14T19:25:02Z"
+   },
+   "assets": [
+    {
+     "name": "VCMI-Android-arm64-v8a.apk",
+     "url": "https://github.com/vcmi/vcmi/releases/download/1.7.5/VCMI-Android-arm64-v8a.apk",
+     "size": 37329306,
+     "sizeText": "35.6 MB",
+     "releasedAt": "2026-08-14T19:25:02Z"
+    },
+    {
+     "name": "VCMI-Android-armeabi-v7a.apk",
+     "url": "https://github.com/vcmi/vcmi/releases/download/1.7.5/VCMI-Android-armeabi-v7a.apk",
+     "size": 33659290,
+     "sizeText": "32.1 MB",
+     "releasedAt": "2026-08-14T19:26:00Z"
+    },
+    {
+     "name": "VCMI-Android-x86_64.apk",
+     "url": "https://github.com/vcmi/vcmi/releases/download/1.7.5/VCMI-Android-x86_64.apk",
+     "size": 39216742,
+     "sizeText": "37.4 MB",
+     "releasedAt": "2026-08-14T19:27:04Z"
+    }
+   ]
+  },
+  {
+   "repo": "FWGS/xash3d-fwgs",
+   "name": "Xash3D FWGS",
+   "category": "games",
+   "desc": "Classic Half-Life engine port.",
+   "owner": "FWGS",
+   "icon": "https://github.com/FWGS.png?size=160",
+   "page": "https://github.com/FWGS/xash3d-fwgs",
+   "releasesPage": "https://github.com/FWGS/xash3d-fwgs/releases",
+   "tag": "continuous",
+   "version": "continuous",
+   "releasedAt": "2026-11-21T20:52:38Z",
+   "asset": {
+    "name": "xash3d-fwgs-android.apk",
+    "url": "https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-android.apk",
+    "size": 47395635,
+    "sizeText": "45.2 MB",
+    "releasedAt": "2026-11-21T20:52:38Z"
+   },
+   "assets": [
+    {
+     "name": "xash3d-fwgs-android.apk",
+     "url": "https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-android.apk",
+     "size": 47395635,
+     "sizeText": "45.2 MB",
+     "releasedAt": "2026-11-21T20:52:38Z"
+    }
+   ]
+  },
+  {
+   "repo": "azahar-emu/azahar",
+   "name": "Azahar",
+   "category": "emulation",
+   "desc": "Nintendo 3DS emulator.",
+   "owner": "azahar-emu",
+   "icon": "https://github.com/azahar-emu.png?size=160",
+   "page": "https://github.com/azahar-emu/azahar",
+   "releasesPage": "https://github.com/azahar-emu/azahar/releases",
+   "tag": "2126.2",
+   "version": "2126.2",
+   "releasedAt": "2026-10-08T23:06:55Z",
+   "asset": {
+    "name": "azahar-android-googleplay-2126.2.apk",
+    "url": "https://github.com/azahar-emu/azahar/releases/download/2126.2/azahar-android-googleplay-2126.2.apk",
+    "size": 50226790,
+    "sizeText": "47.9 MB",
+    "releasedAt": "2026-10-08T23:06:55Z"
+   },
+   "assets": [
+    {
+     "name": "azahar-android-googleplay-2126.2.apk",
+     "url": "https://github.com/azahar-emu/azahar/releases/download/2126.2/azahar-android-googleplay-2126.2.apk",
+     "size": 50226790,
+     "sizeText": "47.9 MB",
+     "releasedAt": "2026-10-08T23:06:55Z"
+    },
+    {
+     "name": "azahar-android-vanilla-2126.2.apk",
+     "url": "https://github.com/azahar-emu/azahar/releases/download/2126.2/azahar-android-vanilla-2126.2.apk",
+     "size": 50226790,
+     "sizeText": "47.9 MB",
+     "releasedAt": "2026-10-08T23:07:15Z"
+    }
+   ]
+  },
+  {
+   "repo": "flyinghead/flycast",
+   "name": "Flycast",
+   "category": "emulation",
+   "desc": "Dreamcast and arcade emulator.",
+   "owner": "flyinghead",
+   "icon": "https://github.com/flyinghead.png?size=160",
+   "page": "https://github.com/flyinghead/flycast",
+   "releasesPage": "https://github.com/flyinghead/flycast/releases",
+   "tag": "v2.7",
+   "version": "2.7",
+   "releasedAt": "2026-08-19T12:25:38Z",
+   "asset": {
+    "name": "flycast-2.7.apk",
+    "url": "https://github.com/flyinghead/flycast/releases/download/v2.7/flycast-2.7.apk",
+    "size": 36280730,
+    "sizeText": "34.6 MB",
+    "releasedAt": "2026-08-19T12:25:38Z"
+   },
+   "assets": [
+    {
+     "name": "flycast-2.7.apk",
+     "url": "https://github.com/flyinghead/flycast/releases/download/v2.7/flycast-2.7.apk",
+     "size": 36280730,
+     "sizeText": "34.6 MB",
+     "releasedAt": "2026-08-19T12:25:38Z"
+    }
+   ]
+  },
+  {
+   "repo": "Swordfish90/Lemuroid",
+   "name": "Lemuroid",
+   "category": "emulation",
+   "desc": "All-in-one retro emulator.",
+   "owner": "Swordfish90",
+   "icon": "https://github.com/Swordfish90.png?size=160",
+   "page": "https://github.com/Swordfish90/Lemuroid",
+   "releasesPage": "https://github.com/Swordfish90/Lemuroid/releases",
+   "tag": "1.17.0",
+   "version": "1.17.0",
+   "releasedAt": "2026-05-31T08:26:01Z",
+   "asset": {
+    "name": "lemuroid-app-free-dynamic-release.apk",
+    "url": "https://github.com/Swordfish90/Lemuroid/releases/download/1.17.0/lemuroid-app-free-dynamic-release.apk",
+    "size": 11953766,
+    "sizeText": "11.4 MB",
+    "releasedAt": "2026-05-31T08:26:01Z"
+   },
+   "assets": [
+    {
+     "name": "lemuroid-app-free-dynamic-release.apk",
+     "url": "https://github.com/Swordfish90/Lemuroid/releases/download/1.17.0/lemuroid-app-free-dynamic-release.apk",
+     "size": 11953766,
+     "sizeText": "11.4 MB",
+     "releasedAt": "2026-05-31T08:26:01Z"
+    }
+   ]
+  },
+  {
+   "repo": "Vita3K/Vita3K",
+   "name": "Vita3K",
+   "category": "emulation",
+   "desc": "PlayStation Vita emulator.",
+   "owner": "Vita3K",
+   "icon": "https://github.com/Vita3K.png?size=160",
+   "page": "https://github.com/Vita3K/Vita3K",
+   "releasesPage": "https://github.com/Vita3K/Vita3K/releases",
+   "tag": "continuous",
+   "version": "continuous",
+   "releasedAt": "2026-11-21T17:50:08Z",
+   "asset": {
+    "name": "android-latest.apk",
+    "url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/android-latest.apk",
+    "size": 29674701,
+    "sizeText": "28.3 MB",
+    "releasedAt": "2026-11-21T17:50:08Z"
+   },
+   "assets": [
+    {
+     "name": "android-latest.apk",
+     "url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/android-latest.apk",
+     "size": 29674701,
+     "sizeText": "28.3 MB",
+     "releasedAt": "2026-11-21T17:50:08Z"
+    }
+   ]
+  },
+  {
+   "repo": "brunodev85/winlator",
+   "name": "Winlator",
+   "category": "emulation",
+   "desc": "Run Windows games with Wine on Android.",
+   "owner": "brunodev85",
+   "icon": "https://github.com/brunodev85.png?size=160",
+   "page": "https://github.com/brunodev85/winlator",
+   "releasesPage": "https://github.com/brunodev85/winlator/releases",
+   "tag": "v11.2.0",
+   "version": "11.2.0",
+   "releasedAt": "2026-09-14T14:04:23Z",
+   "asset": {
+    "name": "Winlator_11.2.apk",
+    "url": "https://github.com/brunodev85/winlator/releases/download/v11.2.0/Winlator_11.2.apk",
+    "size": 157286400,
+    "sizeText": "150 MB",
+    "releasedAt": "2026-09-14T14:04:23Z"
+   },
+   "assets": [
+    {
+     "name": "Winlator_11.2.apk",
+     "url": "https://github.com/brunodev85/winlator/releases/download/v11.2.0/Winlator_11.2.apk",
+     "size": 157286400,
+     "sizeText": "150 MB",
+     "releasedAt": "2026-09-14T14:04:23Z"
+    }
+   ]
+  },
+  {
+   "repo": "WinNative-Emu/WinNative",
+   "name": "WinNative",
+   "category": "emulation",
+   "desc": "Unified Windows game emulation frontend.",
+   "owner": "WinNative-Emu",
+   "icon": "https://github.com/WinNative-Emu.png?size=160",
+   "page": "https://github.com/WinNative-Emu/WinNative",
+   "releasesPage": "https://github.com/WinNative-Emu/WinNative/releases",
+   "tag": "v0.4.1",
+   "version": "0.4.1",
+   "releasedAt": "2026-08-21T23:29:56Z",
+   "asset": {
+    "name": "WinNative-v0.4.1-Antutu-signed.apk",
+    "url": "https://github.com/WinNative-Emu/WinNative/releases/download/v0.4.1/WinNative-v0.4.1-Antutu-signed.apk",
+    "size": 598736896,
+    "sizeText": "571 MB",
+    "releasedAt": "2026-08-21T23:29:56Z"
+   },
+   "assets": [
+    {
+     "name": "WinNative-v0.4.1-Antutu-signed.apk",
+     "url": "https://github.com/WinNative-Emu/WinNative/releases/download/v0.4.1/WinNative-v0.4.1-Antutu-signed.apk",
+     "size": 598736896,
+     "sizeText": "571 MB",
+     "releasedAt": "2026-08-21T23:29:56Z"
+    },
+    {
+     "name": "WinNative-v0.4.1-Ludashi-signed.apk",
+     "url": "https://github.com/WinNative-Emu/WinNative/releases/download/v0.4.1/WinNative-v0.4.1-Ludashi-signed.apk",
+     "size": 598736896,
+     "sizeText": "571 MB",
+     "releasedAt": "2026-08-21T23:29:56Z"
+    },
+    {
+     "name": "WinNative-v0.4.1-Pubg-signed.apk",
+     "url": "https://github.com/WinNative-Emu/WinNative/releases/download/v0.4.1/WinNative-v0.4.1-Pubg-signed.apk",
+     "size": 598736896,
+     "sizeText": "571 MB",
+     "releasedAt": "2026-08-21T23:29:56Z"
+    },
+    {
+     "name": "WinNative-v0.4.1-Standard-signed.apk",
+     "url": "https://github.com/WinNative-Emu/WinNative/releases/download/v0.4.1/WinNative-v0.4.1-Standard-signed.apk",
+     "size": 598736896,
+     "sizeText": "571 MB",
+     "releasedAt": "2026-08-21T23:29:56Z"
+    }
+   ]
+  },
+  {
+   "repo": "organicmaps/organicmaps",
+   "name": "Organic Maps",
+   "category": "maps",
+   "desc": "Offline maps and navigation.",
+   "owner": "organicmaps",
+   "icon": "https://github.com/organicmaps.png?size=160",
+   "page": "https://github.com/organicmaps/organicmaps",
+   "releasesPage": "https://github.com/organicmaps/organicmaps/releases",
+   "tag": "2026.11.11-39-android",
+   "version": "2026.11.11-39-android",
+   "releasedAt": "2026-11-11T22:18:56Z",
+   "asset": {
+    "name": "OrganicMaps-26111139-web-release.apk",
+    "url": "https://github.com/organicmaps/organicmaps/releases/download/2026.11.11-39-android/OrganicMaps-26111139-web-release.apk",
+    "size": 65745715,
+    "sizeText": "62.7 MB",
+    "releasedAt": "2026-11-11T22:18:56Z"
+   },
+   "assets": [
+    {
+     "name": "OrganicMaps-26111139-web-release.apk",
+     "url": "https://github.com/organicmaps/organicmaps/releases/download/2026.11.11-39-android/OrganicMaps-26111139-web-release.apk",
+     "size": 65745715,
+     "sizeText": "62.7 MB",
+     "releasedAt": "2026-11-11T22:18:56Z"
+    }
+   ]
+  },
+  {
+   "repo": "Arcticons-Team/Arcticons",
+   "name": "Arcticons",
+   "category": "launchers",
+   "desc": "Minimal monochrome icon pack.",
+   "owner": "Arcticons-Team",
+   "icon": "https://github.com/Arcticons-Team.png?size=160",
+   "page": "https://github.com/Arcticons-Team/Arcticons",
+   "releasesPage": "https://github.com/Arcticons-Team/Arcticons/releases",
+   "tag": "15.4.7",
+   "version": "15.4.7",
+   "releasedAt": "2026-11-07T15:07:01Z",
+   "asset": {
+    "name": "Arcticons-15.4.7-normal-release.apk",
+    "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/15.4.7/Arcticons-15.4.7-normal-release.apk",
+    "size": 71512883,
+    "sizeText": "68.2 MB",
+    "releasedAt": "2026-11-07T15:07:01Z"
+   },
+   "assets": [
+    {
+     "name": "Arcticons-15.4.7-normal-release.apk",
+     "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/15.4.7/Arcticons-15.4.7-normal-release.apk",
+     "size": 71512883,
+     "sizeText": "68.2 MB",
+     "releasedAt": "2026-11-07T15:07:01Z"
+    },
+    {
+     "name": "Arcticons-15.4.7-black-release.apk",
+     "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/15.4.7/Arcticons-15.4.7-black-release.apk",
+     "size": 70149734,
+     "sizeText": "66.9 MB",
+     "releasedAt": "2026-11-07T15:07:01Z"
+    },
+    {
+     "name": "Arcticons-15.4.7-you-release.apk",
+     "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/15.4.7/Arcticons-15.4.7-you-release.apk",
+     "size": 30303846,
+     "sizeText": "28.9 MB",
+     "releasedAt": "2026-11-07T15:07:01Z"
+    },
+    {
+     "name": "Arcticons-15.4.7-dayNight-release.apk",
+     "url": "https://github.com/Arcticons-Team/Arcticons/releases/download/15.4.7/Arcticons-15.4.7-dayNight-release.apk",
+     "size": 29884416,
+     "sizeText": "28.5 MB",
+     "releasedAt": "2026-11-07T15:07:01Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Launcher",
+   "name": "Fossify Launcher",
+   "category": "launchers",
+   "desc": "Simple, customizable launcher.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Launcher",
+   "releasesPage": "https://github.com/FossifyOrg/Launcher/releases",
+   "tag": "1.10.0",
+   "version": "1.10.0",
+   "releasedAt": "2026-02-17T02:37:57Z",
+   "asset": {
+    "name": "launcher-16-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Launcher/releases/download/1.10.0/launcher-16-foss-release.apk",
+    "size": 5221908,
+    "sizeText": "4.98 MB",
+    "releasedAt": "2026-02-17T02:37:57Z"
+   },
+   "assets": [
+    {
+     "name": "launcher-16-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Launcher/releases/download/1.10.0/launcher-16-foss-release.apk",
+     "size": 5221908,
+     "sizeText": "4.98 MB",
+     "releasedAt": "2026-02-17T02:37:57Z"
+    }
+   ]
+  },
+  {
+   "repo": "MM2-0/Kvaesitso",
+   "name": "Kvaesitso",
+   "category": "launchers",
+   "desc": "Search-first, feature-rich launcher.",
+   "owner": "MM2-0",
+   "icon": "https://github.com/MM2-0.png?size=160",
+   "page": "https://github.com/MM2-0/Kvaesitso",
+   "releasesPage": "https://github.com/MM2-0/Kvaesitso/releases",
+   "tag": "v1.41.0",
+   "version": "1.41.0",
+   "releasedAt": "2026-09-15T14:18:03Z",
+   "asset": {
+    "name": "de.mm20.launcher2.release-v1.41.0.apk",
+    "url": "https://github.com/MM2-0/Kvaesitso/releases/download/v1.41.0/de.mm20.launcher2.release-v1.41.0.apk",
+    "size": 13946061,
+    "sizeText": "13.3 MB",
+    "releasedAt": "2026-09-15T14:18:03Z"
+   },
+   "assets": [
+    {
+     "name": "de.mm20.launcher2.release-v1.41.0.apk",
+     "url": "https://github.com/MM2-0/Kvaesitso/releases/download/v1.41.0/de.mm20.launcher2.release-v1.41.0.apk",
+     "size": 13946061,
+     "sizeText": "13.3 MB",
+     "releasedAt": "2026-09-15T14:18:03Z"
+    }
+   ]
+  },
+  {
+   "repo": "LawnchairLauncher/lawnchair",
+   "name": "Lawnchair",
+   "category": "launchers",
+   "desc": "Pixel-style launcher with customization.",
+   "owner": "LawnchairLauncher",
+   "icon": "https://github.com/LawnchairLauncher.png?size=160",
+   "page": "https://github.com/LawnchairLauncher/lawnchair",
+   "releasesPage": "https://github.com/LawnchairLauncher/lawnchair/releases",
+   "tag": "nightly",
+   "version": "nightly",
+   "releasedAt": "2026-11-22T00:29:06Z",
+   "asset": {
+    "name": "Lawnchair.Debug.16-dev.Nightly-CI_5640-7d2f111.apk",
+    "url": "https://github.com/LawnchairLauncher/lawnchair/releases/download/nightly/Lawnchair.Debug.16-dev.Nightly-CI_5640-7d2f111.apk",
+    "size": 18140365,
+    "sizeText": "17.3 MB",
+    "releasedAt": "2026-11-22T00:29:06Z"
+   },
+   "assets": [
+    {
+     "name": "Lawnchair.Debug.16-dev.Nightly-CI_5640-7d2f111.apk",
+     "url": "https://github.com/LawnchairLauncher/lawnchair/releases/download/nightly/Lawnchair.Debug.16-dev.Nightly-CI_5640-7d2f111.apk",
+     "size": 18140365,
+     "sizeText": "17.3 MB",
+     "releasedAt": "2026-11-22T00:29:06Z"
+    }
+   ]
+  },
+  {
+   "repo": "LawnchairLauncher/lawnicons",
+   "name": "Lawnicons",
+   "category": "launchers",
+   "desc": "Icon pack for Lawnchair.",
+   "owner": "LawnchairLauncher",
+   "icon": "https://github.com/LawnchairLauncher.png?size=160",
+   "page": "https://github.com/LawnchairLauncher/lawnicons",
+   "releasesPage": "https://github.com/LawnchairLauncher/lawnicons/releases",
+   "tag": "v2.19.0",
+   "version": "2.19.0",
+   "releasedAt": "2026-10-17T15:52:45Z",
+   "asset": {
+    "name": "Lawnicons.2.19.0.apk",
+    "url": "https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.19.0/Lawnicons.2.19.0.apk",
+    "size": 18664653,
+    "sizeText": "17.8 MB",
+    "releasedAt": "2026-10-17T15:52:45Z"
+   },
+   "assets": [
+    {
+     "name": "Lawnicons.2.19.0.apk",
+     "url": "https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.19.0/Lawnicons.2.19.0.apk",
+     "size": 18664653,
+     "sizeText": "17.8 MB",
+     "releasedAt": "2026-10-17T15:52:45Z"
+    }
+   ]
+  },
+  {
+   "repo": "NeoApplications/Neo-Launcher",
+   "name": "Neo Launcher",
+   "category": "launchers",
+   "desc": "Launcher focused on productivity.",
+   "owner": "NeoApplications",
+   "icon": "https://github.com/NeoApplications.png?size=160",
+   "page": "https://github.com/NeoApplications/Neo-Launcher",
+   "releasesPage": "https://github.com/NeoApplications/Neo-Launcher/releases",
+   "tag": "0.9.3",
+   "version": "0.9.3",
+   "releasedAt": "2022-10-28T09:54:21Z",
+   "asset": {
+    "name": "NeoLauncher-release.apk",
+    "url": "https://github.com/NeoApplications/Neo-Launcher/releases/download/0.9.3/NeoLauncher-release.apk",
+    "size": 23383245,
+    "sizeText": "22.3 MB",
+    "releasedAt": "2022-10-28T09:54:21Z"
+   },
+   "assets": [
+    {
+     "name": "NeoLauncher-release.apk",
+     "url": "https://github.com/NeoApplications/Neo-Launcher/releases/download/0.9.3/NeoLauncher-release.apk",
+     "size": 23383245,
+     "sizeText": "22.3 MB",
+     "releasedAt": "2022-10-28T09:54:21Z"
+    }
+   ]
+  },
+  {
+   "repo": "tanujnotes/Olauncher",
+   "name": "Olauncher",
+   "category": "launchers",
+   "desc": "Minimal text-based launcher.",
+   "owner": "tanujnotes",
+   "icon": "https://github.com/tanujnotes.png?size=160",
+   "page": "https://github.com/tanujnotes/Olauncher",
+   "releasesPage": "https://github.com/tanujnotes/Olauncher/releases",
+   "tag": "v6.9.17",
+   "version": "6.9.17",
+   "releasedAt": "2026-09-17T10:29:18Z",
+   "asset": {
+    "name": "Olauncher-v6.9.17.apk",
+    "url": "https://github.com/tanujnotes/Olauncher/releases/download/v6.9.17/Olauncher-v6.9.17.apk",
+    "size": 2401239,
+    "sizeText": "2.29 MB",
+    "releasedAt": "2026-09-17T10:29:18Z"
+   },
+   "assets": [
+    {
+     "name": "Olauncher-v6.9.17.apk",
+     "url": "https://github.com/tanujnotes/Olauncher/releases/download/v6.9.17/Olauncher-v6.9.17.apk",
+     "size": 2401239,
+     "sizeText": "2.29 MB",
+     "releasedAt": "2026-09-17T10:29:18Z"
+    }
+   ]
+  },
+  {
+   "repo": "jkuester/Unlauncher",
+   "name": "Unlauncher",
+   "category": "launchers",
+   "desc": "Distraction-free launcher.",
+   "owner": "jkuester",
+   "icon": "https://github.com/jkuester.png?size=160",
+   "page": "https://github.com/jkuester/Unlauncher",
+   "releasesPage": "https://github.com/jkuester/Unlauncher/releases",
+   "tag": "2.1.1",
+   "version": "2.1.1",
+   "releasedAt": "2024-01-12T15:26:21Z",
+   "asset": {
+    "name": "com.jkuester.unlauncher.apk",
+    "url": "https://github.com/jkuester/unlauncher/releases/download/2.1.1/com.jkuester.unlauncher.apk",
+    "size": 1981809,
+    "sizeText": "1.89 MB",
+    "releasedAt": "2024-01-12T15:26:21Z"
+   },
+   "assets": [
+    {
+     "name": "com.jkuester.unlauncher.apk",
+     "url": "https://github.com/jkuester/unlauncher/releases/download/2.1.1/com.jkuester.unlauncher.apk",
+     "size": 1981809,
+     "sizeText": "1.89 MB",
+     "releasedAt": "2024-01-12T15:26:21Z"
+    }
+   ]
+  },
+  {
+   "repo": "OpenTracksApp/OpenTracks",
+   "name": "OpenTracks",
+   "category": "health",
+   "desc": "Outdoor activity tracker.",
+   "owner": "OpenTracksApp",
+   "icon": "https://github.com/OpenTracksApp.png?size=160",
+   "page": "https://github.com/OpenTracksApp/OpenTracks",
+   "releasesPage": "https://github.com/OpenTracksApp/OpenTracks/releases",
+   "tag": "v4.22.0",
+   "version": "4.22.0",
+   "releasedAt": "2025-08-24T06:58:14Z",
+   "asset": {
+    "name": "de.dennisguse.opentracks.playstore_v4.22.0.apk",
+    "url": "https://github.com/OpenTracksApp/OpenTracks/releases/download/v4.22.0/de.dennisguse.opentracks.playstore_v4.22.0.apk",
+    "size": 8357151,
+    "sizeText": "7.97 MB",
+    "releasedAt": "2025-08-24T06:58:14Z"
+   },
+   "assets": [
+    {
+     "name": "de.dennisguse.opentracks.playstore_v4.22.0.apk",
+     "url": "https://github.com/OpenTracksApp/OpenTracks/releases/download/v4.22.0/de.dennisguse.opentracks.playstore_v4.22.0.apk",
+     "size": 8357151,
+     "sizeText": "7.97 MB",
+     "releasedAt": "2025-08-24T06:58:14Z"
+    }
+   ]
+  },
+  {
+   "repo": "Acode-Foundation/Acode",
+   "name": "Acode",
+   "category": "dev",
+   "desc": "Powerful code editor for Android.",
+   "owner": "Acode-Foundation",
+   "icon": "https://github.com/Acode-Foundation.png?size=160",
+   "page": "https://github.com/Acode-Foundation/Acode",
+   "releasesPage": "https://github.com/Acode-Foundation/Acode/releases",
+   "tag": "1.13.5-nightly.747a48e",
+   "version": "1.13.5-nightly.747a48e",
+   "releasedAt": "2026-11-20T07:16:10Z",
+   "asset": {
+    "name": "acode-debug-normal-1.13.5-nightly.747a48e.apk",
+    "url": "https://github.com/Acode-Foundation/Acode/releases/download/1.13.5-nightly.747a48e/acode-debug-normal-1.13.5-nightly.747a48e.apk",
+    "size": 42047898,
+    "sizeText": "40.1 MB",
+    "releasedAt": "2026-11-20T07:16:10Z"
+   },
+   "assets": [
+    {
+     "name": "acode-debug-normal-1.13.5-nightly.747a48e.apk",
+     "url": "https://github.com/Acode-Foundation/Acode/releases/download/1.13.5-nightly.747a48e/acode-debug-normal-1.13.5-nightly.747a48e.apk",
+     "size": 42047898,
+     "sizeText": "40.1 MB",
+     "releasedAt": "2026-11-20T07:16:10Z"
+    },
+    {
+     "name": "acode-debug-fdroid-1.13.5-nightly.747a48e.apk",
+     "url": "https://github.com/Acode-Foundation/Acode/releases/download/1.13.5-nightly.747a48e/acode-debug-fdroid-1.13.5-nightly.747a48e.apk",
+     "size": 25270682,
+     "sizeText": "24.1 MB",
+     "releasedAt": "2026-11-20T07:16:10Z"
+    }
+   ]
+  },
+  {
+   "repo": "AndroidIDEOfficial/AndroidIDE",
+   "name": "AndroidIDE",
+   "category": "dev",
+   "desc": "Full Android IDE and toolchain on-device.",
+   "owner": "AndroidIDEOfficial",
+   "icon": "https://github.com/AndroidIDEOfficial.png?size=160",
+   "page": "https://github.com/AndroidIDEOfficial/AndroidIDE",
+   "releasesPage": "https://github.com/AndroidIDEOfficial/AndroidIDE/releases",
+   "tag": "v2.7.0-beta",
+   "version": "2.7.0-beta",
+   "releasedAt": "2024-01-12T15:42:17Z",
+   "asset": {
+    "name": "androidide-v2.7.0-beta-arm64-v8a-release.apk",
+    "url": "https://github.com/AndroidIDEOfficial/AndroidIDE/releases/download/v2.7.0-beta/androidide-v2.7.0-beta-arm64-v8a-release.apk",
+    "size": 92064973,
+    "sizeText": "87.8 MB",
+    "releasedAt": "2024-01-12T15:42:17Z"
+   },
+   "assets": [
+    {
+     "name": "androidide-v2.7.0-beta-arm64-v8a-release.apk",
+     "url": "https://github.com/AndroidIDEOfficial/AndroidIDE/releases/download/v2.7.0-beta/androidide-v2.7.0-beta-arm64-v8a-release.apk",
+     "size": 92064973,
+     "sizeText": "87.8 MB",
+     "releasedAt": "2024-01-12T15:42:17Z"
+    },
+    {
+     "name": "androidide-v2.7.0-beta-armeabi-v7a-release.apk",
+     "url": "https://github.com/AndroidIDEOfficial/AndroidIDE/releases/download/v2.7.0-beta/androidide-v2.7.0-beta-armeabi-v7a-release.apk",
+     "size": 88604672,
+     "sizeText": "84.5 MB",
+     "releasedAt": "2024-01-12T15:42:07Z"
+    },
+    {
+     "name": "androidide-v2.7.0-beta-x86_64-release.apk",
+     "url": "https://github.com/AndroidIDEOfficial/AndroidIDE/releases/download/v2.7.0-beta/androidide-v2.7.0-beta-x86_64-release.apk",
+     "size": 92694118,
+     "sizeText": "88.4 MB",
+     "releasedAt": "2024-01-12T15:42:25Z"
+    }
+   ]
+  },
+  {
+   "repo": "lunadevph/AIChat",
+   "name": "AI Chat",
+   "category": "ai",
+   "desc": "Native multi-provider AI chat client with vision support.",
+   "owner": "lunadevph",
+   "icon": "https://github.com/lunadevph.png?size=160",
+   "page": "https://github.com/lunadevph/AIChat",
+   "releasesPage": "https://github.com/lunadevph/AIChat/releases",
+   "tag": "v1.1.1",
+   "version": "1.1.1",
+   "releasedAt": "2026-11-05T03:01:57Z",
+   "asset": {
+    "name": "AIChat-v1.1.1.apk",
+    "url": "https://github.com/lunadevph/AIChat/releases/download/v1.1.1/AIChat-v1.1.1.apk",
+    "size": 22858957,
+    "sizeText": "21.8 MB",
+    "releasedAt": "2026-11-05T03:01:57Z"
+   },
+   "assets": [
+    {
+     "name": "AIChat-v1.1.1.apk",
+     "url": "https://github.com/lunadevph/AIChat/releases/download/v1.1.1/AIChat-v1.1.1.apk",
+     "size": 22858957,
+     "sizeText": "21.8 MB",
+     "releasedAt": "2026-11-05T03:01:57Z"
+    }
+   ]
+  },
+  {
+   "repo": "google-ai-edge/gallery",
+   "name": "AI Edge Gallery",
+   "category": "ai",
+   "desc": "Google AI Edge on-device generative AI experiment.",
+   "owner": "google-ai-edge",
+   "icon": "https://github.com/google-ai-edge.png?size=160",
+   "page": "https://github.com/google-ai-edge/gallery",
+   "releasesPage": "https://github.com/google-ai-edge/gallery/releases",
+   "tag": "1.0.23",
+   "version": "1.0.23",
+   "releasedAt": "2026-11-04T18:58:42Z",
+   "asset": {
+    "name": "ai_edge_gallery_app_sm8850.apk",
+    "url": "https://github.com/google-ai-edge/gallery/releases/download/1.0.23/ai_edge_gallery_app_sm8850.apk",
+    "size": 110100480,
+    "sizeText": "105 MB",
+    "releasedAt": "2026-11-04T18:58:42Z"
+   },
+   "assets": [
+    {
+     "name": "ai_edge_gallery_app_sm8850.apk",
+     "url": "https://github.com/google-ai-edge/gallery/releases/download/1.0.23/ai_edge_gallery_app_sm8850.apk",
+     "size": 110100480,
+     "sizeText": "105 MB",
+     "releasedAt": "2026-11-04T18:58:42Z"
+    },
+    {
+     "name": "ai_edge_gallery_app_sm8550.apk",
+     "url": "https://github.com/google-ai-edge/gallery/releases/download/1.0.23/ai_edge_gallery_app_sm8550.apk",
+     "size": 109051904,
+     "sizeText": "104 MB",
+     "releasedAt": "2026-11-04T18:58:08Z"
+    },
+    {
+     "name": "ai_edge_gallery_app_sm8650.apk",
+     "url": "https://github.com/google-ai-edge/gallery/releases/download/1.0.23/ai_edge_gallery_app_sm8650.apk",
+     "size": 109051904,
+     "sizeText": "104 MB",
+     "releasedAt": "2026-11-04T18:58:18Z"
+    },
+    {
+     "name": "ai_edge_gallery_app_sm8750.apk",
+     "url": "https://github.com/google-ai-edge/gallery/releases/download/1.0.23/ai_edge_gallery_app_sm8750.apk",
+     "size": 109051904,
+     "sizeText": "104 MB",
+     "releasedAt": "2026-11-04T18:58:27Z"
+    },
+    {
+     "name": "ai_edge_gallery_app_tensor_g5.apk",
+     "url": "https://github.com/google-ai-edge/gallery/releases/download/1.0.23/ai_edge_gallery_app_tensor_g5.apk",
+     "size": 93532979,
+     "sizeText": "89.2 MB",
+     "releasedAt": "2026-11-04T18:58:49Z"
+    },
+    {
+     "name": "ai_edge_gallery_app_tensor_g6.apk",
+     "url": "https://github.com/google-ai-edge/gallery/releases/download/1.0.23/ai_edge_gallery_app_tensor_g6.apk",
+     "size": 93532979,
+     "sizeText": "89.2 MB",
+     "releasedAt": "2026-11-04T18:58:54Z"
+    },
+    {
+     "name": "ai_edge_gallery_app.apk",
+     "url": "https://github.com/google-ai-edge/gallery/releases/download/1.0.23/ai_edge_gallery_app.apk",
+     "size": 87660954,
+     "sizeText": "83.6 MB",
+     "releasedAt": "2026-11-04T18:58:58Z"
+    }
+   ]
+  },
+  {
+   "repo": "YJLi-new/AndroidClaw",
+   "name": "AndroidClaw",
+   "category": "ai",
+   "desc": "Local AI assistant with tools, skills and scheduled automations.",
+   "owner": "YJLi-new",
+   "icon": "https://github.com/YJLi-new.png?size=160",
+   "page": "https://github.com/YJLi-new/AndroidClaw",
+   "releasesPage": "https://github.com/YJLi-new/AndroidClaw/releases",
+   "tag": "v0.3.1",
+   "version": "0.3.1",
+   "releasedAt": "2026-11-03T22:15:48Z",
+   "asset": {
+    "name": "AndroidClaw-latest.apk",
+    "url": "https://github.com/YJLi-new/AndroidClaw/releases/download/v0.3.1/AndroidClaw-latest.apk",
+    "size": 3250586,
+    "sizeText": "3.1 MB",
+    "releasedAt": "2026-11-03T22:15:48Z"
+   },
+   "assets": [
+    {
+     "name": "AndroidClaw-latest.apk",
+     "url": "https://github.com/YJLi-new/AndroidClaw/releases/download/v0.3.1/AndroidClaw-latest.apk",
+     "size": 3250586,
+     "sizeText": "3.1 MB",
+     "releasedAt": "2026-11-03T22:15:48Z"
+    },
+    {
+     "name": "AndroidClaw-v0.3.1.apk",
+     "url": "https://github.com/YJLi-new/AndroidClaw/releases/download/v0.3.1/AndroidClaw-v0.3.1.apk",
+     "size": 3250586,
+     "sizeText": "3.1 MB",
+     "releasedAt": "2026-11-03T22:15:45Z"
+    }
+   ]
+  },
+  {
+   "repo": "PurpleDoubleD/locally-uncensored",
+   "name": "Locally Uncensored",
+   "category": "ai",
+   "desc": "On-device AI studio for chat, images and video.",
+   "owner": "PurpleDoubleD",
+   "icon": "https://github.com/PurpleDoubleD.png?size=160",
+   "page": "https://github.com/PurpleDoubleD/locally-uncensored",
+   "releasesPage": "https://github.com/PurpleDoubleD/locally-uncensored/releases",
+   "tag": "v3.1.2",
+   "version": "3.1.2",
+   "releasedAt": "2026-11-19T04:53:22Z",
+   "asset": {
+    "name": "LU-3.1.2-Android.apk",
+    "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v3.1.2/LU-3.1.2-Android.apk",
+    "size": 35127296,
+    "sizeText": "33.5 MB",
+    "releasedAt": "2026-11-19T04:53:22Z"
+   },
+   "assets": [
+    {
+     "name": "LU-3.1.2-Android.apk",
+     "url": "https://github.com/PurpleDoubleD/locally-uncensored/releases/download/v3.1.2/LU-3.1.2-Android.apk",
+     "size": 35127296,
+     "sizeText": "33.5 MB",
+     "releasedAt": "2026-11-19T04:53:22Z"
+    }
+   ]
+  },
+  {
+   "repo": "off-grid-ai/mobile",
+   "name": "Off Grid",
+   "category": "ai",
+   "desc": "Offline on-device AI chat, vision, image generation and voice.",
+   "owner": "off-grid-ai",
+   "icon": "https://github.com/off-grid-ai.png?size=160",
+   "page": "https://github.com/off-grid-ai/mobile",
+   "releasesPage": "https://github.com/off-grid-ai/mobile/releases",
+   "tag": "v0.0.125",
+   "version": "0.0.125",
+   "releasedAt": "2026-11-18T12:36:17Z",
+   "asset": {
+    "name": "OffgridMobile-0.0.125.apk",
+    "url": "https://github.com/off-grid-ai/OGAM/releases/download/v0.0.125/OffgridMobile-0.0.125.apk",
+    "size": 304087040,
+    "sizeText": "290 MB",
+    "releasedAt": "2026-11-18T12:36:17Z"
+   },
+   "assets": [
+    {
+     "name": "OffgridMobile-0.0.125.apk",
+     "url": "https://github.com/off-grid-ai/OGAM/releases/download/v0.0.125/OffgridMobile-0.0.125.apk",
+     "size": 304087040,
+     "sizeText": "290 MB",
+     "releasedAt": "2026-11-18T12:36:17Z"
+    }
+   ]
+  },
+  {
+   "repo": "dineshsoudagar/local-llms-on-android",
+   "name": "Pocket LLM",
+   "category": "ai",
+   "desc": "Local LLM chat and LAN server with offline inference.",
+   "owner": "dineshsoudagar",
+   "icon": "https://github.com/dineshsoudagar.png?size=160",
+   "page": "https://github.com/dineshsoudagar/local-llms-on-android",
+   "releasesPage": "https://github.com/dineshsoudagar/local-llms-on-android/releases",
+   "tag": "v1.7.0",
+   "version": "1.7.0",
+   "releasedAt": "2026-11-18T12:02:48Z",
+   "asset": {
+    "name": "pocket_llm_v1.7.0.apk",
+    "url": "https://github.com/dineshsoudagar/local-llms-on-android/releases/download/v1.7.0/pocket_llm_v1.7.0.apk",
+    "size": 307232768,
+    "sizeText": "293 MB",
+    "releasedAt": "2026-11-18T12:02:48Z"
+   },
+   "assets": [
+    {
+     "name": "pocket_llm_v1.7.0.apk",
+     "url": "https://github.com/dineshsoudagar/local-llms-on-android/releases/download/v1.7.0/pocket_llm_v1.7.0.apk",
+     "size": 307232768,
+     "sizeText": "293 MB",
+     "releasedAt": "2026-11-18T12:02:48Z"
+    }
+   ]
+  },
+  {
+   "repo": "komikku-app/komikku",
+   "name": "Komikku",
+   "category": "manga",
+   "desc": "Feature-rich Mihon fork with themes and suggestions.",
+   "owner": "komikku-app",
+   "icon": "https://github.com/komikku-app.png?size=160",
+   "page": "https://github.com/komikku-app/komikku",
+   "releasesPage": "https://github.com/komikku-app/komikku/releases",
+   "tag": "v1.14.1",
+   "version": "1.14.1",
+   "releasedAt": "2026-07-17T18:56:55Z",
+   "asset": {
+    "name": "Komikku-arm64-v8a-v1.14.1.apk",
+    "url": "https://github.com/komikku-app/komikku/releases/download/v1.14.1/Komikku-arm64-v8a-v1.14.1.apk",
+    "size": 40894464,
+    "sizeText": "39 MB",
+    "releasedAt": "2026-07-17T18:56:55Z"
+   },
+   "assets": [
+    {
+     "name": "Komikku-arm64-v8a-v1.14.1.apk",
+     "url": "https://github.com/komikku-app/komikku/releases/download/v1.14.1/Komikku-arm64-v8a-v1.14.1.apk",
+     "size": 40894464,
+     "sizeText": "39 MB",
+     "releasedAt": "2026-07-17T18:56:55Z"
+    },
+    {
+     "name": "Komikku-armeabi-v7a-v1.14.1.apk",
+     "url": "https://github.com/komikku-app/komikku/releases/download/v1.14.1/Komikku-armeabi-v7a-v1.14.1.apk",
+     "size": 35022438,
+     "sizeText": "33.4 MB",
+     "releasedAt": "2026-07-17T18:56:55Z"
+    },
+    {
+     "name": "Komikku-v1.14.1.apk",
+     "url": "https://github.com/komikku-app/komikku/releases/download/v1.14.1/Komikku-v1.14.1.apk",
+     "size": 97832141,
+     "sizeText": "93.3 MB",
+     "releasedAt": "2026-07-17T18:56:55Z"
+    },
+    {
+     "name": "Komikku-x86_64-v1.14.1.apk",
+     "url": "https://github.com/komikku-app/komikku/releases/download/v1.14.1/Komikku-x86_64-v1.14.1.apk",
+     "size": 44354765,
+     "sizeText": "42.3 MB",
+     "releasedAt": "2026-07-17T18:56:55Z"
+    },
+    {
+     "name": "Komikku-x86-v1.14.1.apk",
+     "url": "https://github.com/komikku-app/komikku/releases/download/v1.14.1/Komikku-x86-v1.14.1.apk",
+     "size": 41733325,
+     "sizeText": "39.8 MB",
+     "releasedAt": "2026-07-17T18:56:55Z"
+    }
+   ]
+  },
+  {
+   "repo": "jobobby04/tachiyomisy",
+   "name": "TachiyomiSY",
+   "category": "manga",
+   "desc": "Mihon fork with advanced reader and source features.",
+   "owner": "jobobby04",
+   "icon": "https://github.com/jobobby04.png?size=160",
+   "page": "https://github.com/jobobby04/tachiyomisy",
+   "releasesPage": "https://github.com/jobobby04/tachiyomisy/releases",
+   "tag": "1.13.2",
+   "version": "1.13.2",
+   "releasedAt": "2026-07-13T19:55:01Z",
+   "asset": {
+    "name": "TachiyomiSY-arm64-v8a-v1.13.2.apk.apk",
+    "url": "https://github.com/jobobby04/TachiyomiSY/releases/download/1.13.2/TachiyomiSY-arm64-v8a-v1.13.2.apk.apk",
+    "size": 33973862,
+    "sizeText": "32.4 MB",
+    "releasedAt": "2026-07-13T19:55:01Z"
+   },
+   "assets": [
+    {
+     "name": "TachiyomiSY-arm64-v8a-v1.13.2.apk.apk",
+     "url": "https://github.com/jobobby04/TachiyomiSY/releases/download/1.13.2/TachiyomiSY-arm64-v8a-v1.13.2.apk.apk",
+     "size": 33973862,
+     "sizeText": "32.4 MB",
+     "releasedAt": "2026-07-13T19:55:01Z"
+    },
+    {
+     "name": "TachiyomiSY-armeabi-v7a-v1.13.2.apk.apk",
+     "url": "https://github.com/jobobby04/TachiyomiSY/releases/download/1.13.2/TachiyomiSY-armeabi-v7a-v1.13.2.apk.apk",
+     "size": 29884416,
+     "sizeText": "28.5 MB",
+     "releasedAt": "2026-07-13T19:55:01Z"
+    },
+    {
+     "name": "TachiyomiSY-v1.13.2.apk.apk",
+     "url": "https://github.com/jobobby04/TachiyomiSY/releases/download/1.13.2/TachiyomiSY-v1.13.2.apk.apk",
+     "size": 79167488,
+     "sizeText": "75.5 MB",
+     "releasedAt": "2026-07-13T19:55:01Z"
+    },
+    {
+     "name": "TachiyomiSY-x86_64-v1.13.2.apk.apk",
+     "url": "https://github.com/jobobby04/TachiyomiSY/releases/download/1.13.2/TachiyomiSY-x86_64-v1.13.2.apk.apk",
+     "size": 36595302,
+     "sizeText": "34.9 MB",
+     "releasedAt": "2026-07-13T19:55:01Z"
+    },
+    {
+     "name": "TachiyomiSY-x86-v1.13.2.apk.apk",
+     "url": "https://github.com/jobobby04/TachiyomiSY/releases/download/1.13.2/TachiyomiSY-x86-v1.13.2.apk.apk",
+     "size": 35546726,
+     "sizeText": "33.9 MB",
+     "releasedAt": "2026-07-13T19:55:01Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Calculator",
+   "name": "Fossify Calculator",
+   "category": "lifestyle",
+   "desc": "Offline calculator with history and unit conversion.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Calculator",
+   "releasesPage": "https://github.com/FossifyOrg/Calculator/releases",
+   "tag": "1.4.0",
+   "version": "1.4.0",
+   "releasedAt": "2026-01-30T20:48:01Z",
+   "asset": {
+    "name": "calculator-10-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Calculator/releases/download/1.4.0/calculator-10-foss-release.apk",
+    "size": 7046431,
+    "sizeText": "6.72 MB",
+    "releasedAt": "2026-01-30T20:48:01Z"
+   },
+   "assets": [
+    {
+     "name": "calculator-10-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Calculator/releases/download/1.4.0/calculator-10-foss-release.apk",
+     "size": 7046431,
+     "sizeText": "6.72 MB",
+     "releasedAt": "2026-01-30T20:48:01Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Clock",
+   "name": "Fossify Clock",
+   "category": "lifestyle",
+   "desc": "Alarm, world clock, timer and stopwatch.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Clock",
+   "releasesPage": "https://github.com/FossifyOrg/Clock/releases",
+   "tag": "1.6.0",
+   "version": "1.6.0",
+   "releasedAt": "2026-01-30T20:47:18Z",
+   "asset": {
+    "name": "clock-10-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Clock/releases/download/1.6.0/clock-10-foss-release.apk",
+    "size": 9112125,
+    "sizeText": "8.69 MB",
+    "releasedAt": "2026-01-30T20:47:18Z"
+   },
+   "assets": [
+    {
+     "name": "clock-10-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Clock/releases/download/1.6.0/clock-10-foss-release.apk",
+     "size": 9112125,
+     "sizeText": "8.69 MB",
+     "releasedAt": "2026-01-30T20:47:18Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Contacts",
+   "name": "Fossify Contacts",
+   "category": "lifestyle",
+   "desc": "Simple offline contacts manager.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Contacts",
+   "releasesPage": "https://github.com/FossifyOrg/Contacts/releases",
+   "tag": "1.6.0",
+   "version": "1.6.0",
+   "releasedAt": "2026-01-30T20:46:34Z",
+   "asset": {
+    "name": "contacts-13-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Contacts/releases/download/1.6.0/contacts-13-foss-release.apk",
+    "size": 8598323,
+    "sizeText": "8.2 MB",
+    "releasedAt": "2026-01-30T20:46:34Z"
+   },
+   "assets": [
+    {
+     "name": "contacts-13-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Contacts/releases/download/1.6.0/contacts-13-foss-release.apk",
+     "size": 8598323,
+     "sizeText": "8.2 MB",
+     "releasedAt": "2026-01-30T20:46:34Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Gallery",
+   "name": "Fossify Gallery",
+   "category": "lifestyle",
+   "desc": "Private offline photo and video gallery.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Gallery",
+   "releasesPage": "https://github.com/FossifyOrg/Gallery/releases",
+   "tag": "1.14.3",
+   "version": "1.14.3",
+   "releasedAt": "2026-11-21T17:10:52Z",
+   "asset": {
+    "name": "gallery-52-foss-arm64-v8a-release.apk",
+    "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.3/gallery-52-foss-arm64-v8a-release.apk",
+    "size": 17511219,
+    "sizeText": "16.7 MB",
+    "releasedAt": "2026-11-21T17:10:52Z"
+   },
+   "assets": [
+    {
+     "name": "gallery-52-foss-arm64-v8a-release.apk",
+     "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.3/gallery-52-foss-arm64-v8a-release.apk",
+     "size": 17511219,
+     "sizeText": "16.7 MB",
+     "releasedAt": "2026-11-21T17:10:52Z"
+    },
+    {
+     "name": "gallery-51-foss-armeabi-v7a-release.apk",
+     "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.3/gallery-51-foss-armeabi-v7a-release.apk",
+     "size": 15833498,
+     "sizeText": "15.1 MB",
+     "releasedAt": "2026-11-21T17:10:52Z"
+    },
+    {
+     "name": "gallery-50-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.3/gallery-50-foss-release.apk",
+     "size": 38587597,
+     "sizeText": "36.8 MB",
+     "releasedAt": "2026-11-21T17:10:52Z"
+    },
+    {
+     "name": "gallery-54-foss-x86_64-release.apk",
+     "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.3/gallery-54-foss-x86_64-release.apk",
+     "size": 19293798,
+     "sizeText": "18.4 MB",
+     "releasedAt": "2026-11-21T17:10:52Z"
+    },
+    {
+     "name": "gallery-53-foss-x86-release.apk",
+     "url": "https://github.com/FossifyOrg/Gallery/releases/download/1.14.3/gallery-53-foss-x86-release.apk",
+     "size": 18350080,
+     "sizeText": "17.5 MB",
+     "releasedAt": "2026-11-21T17:10:52Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Messages",
+   "name": "Fossify Messages",
+   "category": "lifestyle",
+   "desc": "Basic SMS and MMS messenger.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Messages",
+   "releasesPage": "https://github.com/FossifyOrg/Messages/releases",
+   "tag": "1.10.3",
+   "version": "1.10.3",
+   "releasedAt": "2026-11-21T17:08:35Z",
+   "asset": {
+    "name": "messages-27-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Messages/releases/download/1.10.3/messages-27-foss-release.apk",
+    "size": 6794772,
+    "sizeText": "6.48 MB",
+    "releasedAt": "2026-11-21T17:08:35Z"
+   },
+   "assets": [
+    {
+     "name": "messages-27-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Messages/releases/download/1.10.3/messages-27-foss-release.apk",
+     "size": 6794772,
+     "sizeText": "6.48 MB",
+     "releasedAt": "2026-11-21T17:08:35Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Notes",
+   "name": "Fossify Notes",
+   "category": "lifestyle",
+   "desc": "Simple notes app with checklists.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Notes",
+   "releasesPage": "https://github.com/FossifyOrg/Notes/releases",
+   "tag": "1.7.0",
+   "version": "1.7.0",
+   "releasedAt": "2026-01-30T20:53:49Z",
+   "asset": {
+    "name": "notes-13-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Notes/releases/download/1.7.0/notes-13-foss-release.apk",
+    "size": 9531556,
+    "sizeText": "9.09 MB",
+    "releasedAt": "2026-01-30T20:53:49Z"
+   },
+   "assets": [
+    {
+     "name": "notes-13-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Notes/releases/download/1.7.0/notes-13-foss-release.apk",
+     "size": 9531556,
+     "sizeText": "9.09 MB",
+     "releasedAt": "2026-01-30T20:53:49Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Phone",
+   "name": "Fossify Phone",
+   "category": "lifestyle",
+   "desc": "Dialer with call blocking and quick dial.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Phone",
+   "releasesPage": "https://github.com/FossifyOrg/Phone/releases",
+   "tag": "1.11.1",
+   "version": "1.11.1",
+   "releasedAt": "2026-02-03T02:36:23Z",
+   "asset": {
+    "name": "phone-22-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Phone/releases/download/1.11.1/phone-22-foss-release.apk",
+    "size": 9164554,
+    "sizeText": "8.74 MB",
+    "releasedAt": "2026-02-03T02:36:23Z"
+   },
+   "assets": [
+    {
+     "name": "phone-22-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Phone/releases/download/1.11.1/phone-22-foss-release.apk",
+     "size": 9164554,
+     "sizeText": "8.74 MB",
+     "releasedAt": "2026-02-03T02:36:23Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/SMS-Messenger",
+   "name": "Fossify SMS Messenger",
+   "category": "lifestyle",
+   "desc": "Lightweight SMS app without ads.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/SMS-Messenger",
+   "releasesPage": "https://github.com/FossifyOrg/SMS-Messenger/releases",
+   "tag": "1.10.3",
+   "version": "1.10.3",
+   "releasedAt": "2026-11-21T17:08:35Z",
+   "asset": {
+    "name": "messages-27-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Messages/releases/download/1.10.3/messages-27-foss-release.apk",
+    "size": 6794772,
+    "sizeText": "6.48 MB",
+    "releasedAt": "2026-11-21T17:08:35Z"
+   },
+   "assets": [
+    {
+     "name": "messages-27-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Messages/releases/download/1.10.3/messages-27-foss-release.apk",
+     "size": 6794772,
+     "sizeText": "6.48 MB",
+     "releasedAt": "2026-11-21T17:08:35Z"
+    }
+   ]
+  },
+  {
+   "repo": "FossifyOrg/Voice-Recorder",
+   "name": "Fossify Voice Recorder",
+   "category": "lifestyle",
+   "desc": "Minimal voice recorder.",
+   "owner": "FossifyOrg",
+   "icon": "https://github.com/FossifyOrg.png?size=160",
+   "page": "https://github.com/FossifyOrg/Voice-Recorder",
+   "releasesPage": "https://github.com/FossifyOrg/Voice-Recorder/releases",
+   "tag": "1.7.5",
+   "version": "1.7.5",
+   "releasedAt": "2026-11-21T17:09:25Z",
+   "asset": {
+    "name": "voicerecorder-22-foss-release.apk",
+    "url": "https://github.com/FossifyOrg/Voice-Recorder/releases/download/1.7.5/voicerecorder-22-foss-release.apk",
+    "size": 7308575,
+    "sizeText": "6.97 MB",
+    "releasedAt": "2026-11-21T17:09:25Z"
+   },
+   "assets": [
+    {
+     "name": "voicerecorder-22-foss-release.apk",
+     "url": "https://github.com/FossifyOrg/Voice-Recorder/releases/download/1.7.5/voicerecorder-22-foss-release.apk",
+     "size": 7308575,
+     "sizeText": "6.97 MB",
+     "releasedAt": "2026-11-21T17:09:25Z"
+    }
+   ]
+  }
+ ]
+}

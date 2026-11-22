@@ -1,0 +1,20 @@
+{
+  "name": "gitstore",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GitStore - a GitHub-only app store for Android",
+  "scripts": {
+    "catalog": "node tools/build-catalog.mjs",
+    "seeds": "node tools/export-seeds.mjs",
+    "check": "node --check www/js/util.js && node --check www/js/github.js && node --check www/js/native.js && node --check www/js/store.js && node --check www/js/app.js",
+    "test": "node tests/smoke.js",
+    "verify": "npm run check && npm test"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "jsdom": "^31.0.1"
+  }
+}

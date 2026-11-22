@@ -1,0 +1,1124 @@
+{
+ "categories": [
+  {
+   "id": "all",
+   "name": "All apps"
+  },
+  {
+   "id": "media",
+   "name": "Media & Streaming"
+  },
+  {
+   "id": "music",
+   "name": "Music & Audio"
+  },
+  {
+   "id": "social",
+   "name": "Social & Messaging"
+  },
+  {
+   "id": "privacy",
+   "name": "Privacy & Security"
+  },
+  {
+   "id": "tools",
+   "name": "Tools & Utilities"
+  },
+  {
+   "id": "productivity",
+   "name": "Productivity"
+  },
+  {
+   "id": "reading",
+   "name": "Reading & News"
+  },
+  {
+   "id": "games",
+   "name": "Games"
+  },
+  {
+   "id": "emulation",
+   "name": "Emulation"
+  },
+  {
+   "id": "maps",
+   "name": "Maps & Navigation"
+  },
+  {
+   "id": "launchers",
+   "name": "Launchers & Themes"
+  },
+  {
+   "id": "health",
+   "name": "Health & Fitness"
+  },
+  {
+   "id": "dev",
+   "name": "Development"
+  },
+  {
+   "id": "ai",
+   "name": "AI & Machine Learning"
+  },
+  {
+   "id": "manga",
+   "name": "Manga & Anime"
+  },
+  {
+   "id": "lifestyle",
+   "name": "Life Hacks & Daily"
+  }
+ ],
+ "seeds": [
+  {
+   "repo": "TeamNewPipe/NewPipe",
+   "category": "media",
+   "name": "NewPipe",
+   "desc": "Lightweight libre YouTube and streaming front-end."
+  },
+  {
+   "repo": "libre-tube/LibreTube",
+   "category": "media",
+   "name": "LibreTube",
+   "desc": "Alternative YouTube front-end with subscriptions and playlists."
+  },
+  {
+   "repo": "InfinityLoop1308/PipePipe",
+   "category": "media",
+   "name": "PipePipe",
+   "desc": "NewPipe fork with extra players and features."
+  },
+  {
+   "repo": "deniscerri/ytdlnis",
+   "category": "media",
+   "name": "YTDLnis",
+   "desc": "Video and audio downloader built on yt-dlp."
+  },
+  {
+   "repo": "JunkFood02/Seal",
+   "category": "media",
+   "name": "Seal",
+   "desc": "Video/audio downloader powered by yt-dlp."
+  },
+  {
+   "repo": "jellyfin/jellyfin-android",
+   "category": "media",
+   "name": "Jellyfin",
+   "desc": "Client for your self-hosted Jellyfin media server."
+  },
+  {
+   "repo": "jarnedemeulemeester/findroid",
+   "category": "media",
+   "name": "Findroid",
+   "desc": "Third-party Jellyfin client with offline support."
+  },
+  {
+   "repo": "nova-video-player/aos-AVP",
+   "category": "media",
+   "name": "Nova Video Player",
+   "desc": "Video player for local and network media."
+  },
+  {
+   "repo": "mpv-android/mpv-android",
+   "category": "media",
+   "name": "mpv-android",
+   "desc": "Hardware-accelerated mpv video player."
+  },
+  {
+   "repo": "videolan/vlc-android",
+   "category": "media",
+   "name": "VLC",
+   "desc": "The universal open-source media player."
+  },
+  {
+   "repo": "moneytoo/Player",
+   "category": "media",
+   "name": "Just Player",
+   "desc": "Simple, powerful media player based on ExoPlayer."
+  },
+  {
+   "repo": "anilbeesetti/nextplayer",
+   "category": "media",
+   "name": "Next Player",
+   "desc": "Native Android video player built with Jetpack Compose."
+  },
+  {
+   "repo": "xbmc/xbmc",
+   "category": "media",
+   "name": "Kodi",
+   "desc": "Home theater and media center."
+  },
+  {
+   "repo": "z-huang/InnerTune",
+   "category": "music",
+   "name": "InnerTune",
+   "desc": "YouTube Music client with offline support."
+  },
+  {
+   "repo": "OuterTune/OuterTune",
+   "category": "music",
+   "name": "OuterTune",
+   "desc": "Maintained InnerTune fork with more features."
+  },
+  {
+   "repo": "mostafaalagamy/Metrolist",
+   "category": "music",
+   "name": "Metrolist",
+   "desc": "Modern YouTube Music client."
+  },
+  {
+   "repo": "maxrave-dev/SimpMusic",
+   "category": "music",
+   "name": "SimpMusic",
+   "desc": "YouTube Music client with synced lyrics."
+  },
+  {
+   "repo": "fast4x/RiMusic",
+   "category": "music",
+   "name": "RiMusic",
+   "desc": "Multilingual YouTube Music client."
+  },
+  {
+   "repo": "KRTirtho/spotube",
+   "category": "music",
+   "name": "Spotube",
+   "desc": "Open-source Spotify client using YouTube as a source."
+  },
+  {
+   "repo": "anandnet/Harmony-Music",
+   "category": "music",
+   "name": "Harmony Music",
+   "desc": "Cross-platform music streaming app."
+  },
+  {
+   "repo": "OxygenCobalt/Auxio",
+   "category": "music",
+   "name": "Auxio",
+   "desc": "Fast, clean local music player."
+  },
+  {
+   "repo": "AkaneTan/Gramophone",
+   "category": "music",
+   "name": "Gramophone",
+   "desc": "Material 3 local music player."
+  },
+  {
+   "repo": "FossifyOrg/Music",
+   "category": "music",
+   "name": "Fossify Music",
+   "desc": "Simple offline music player."
+  },
+  {
+   "repo": "AntennaPod/AntennaPod",
+   "category": "music",
+   "name": "AntennaPod",
+   "desc": "Podcast manager with no ads or tracking."
+  },
+  {
+   "repo": "XilinJia/Podcini",
+   "category": "music",
+   "name": "Podcini",
+   "desc": "Podcast app with local and streaming support."
+  },
+  {
+   "repo": "deltachat/deltachat-android",
+   "category": "social",
+   "name": "Delta Chat",
+   "desc": "Messaging over email with end-to-end encryption."
+  },
+  {
+   "repo": "simplex-chat/simplex-chat",
+   "category": "social",
+   "name": "SimpleX",
+   "desc": "Private messenger without user identifiers."
+  },
+  {
+   "repo": "briar/briar",
+   "category": "social",
+   "name": "Briar",
+   "desc": "Peer-to-peer messenger that works over Tor."
+  },
+  {
+   "repo": "element-hq/element-x-android",
+   "category": "social",
+   "name": "Element X",
+   "desc": "Next-generation Matrix client."
+  },
+  {
+   "repo": "siacs/Conversations",
+   "category": "social",
+   "name": "Conversations",
+   "desc": "XMPP messenger with OMEMO encryption."
+  },
+  {
+   "repo": "LemmyNet/jerboa",
+   "category": "social",
+   "name": "Jerboa",
+   "desc": "Native Android client for Lemmy."
+  },
+  {
+   "repo": "LucasGGamerM/moshidon",
+   "category": "social",
+   "name": "Moshidon",
+   "desc": "Mastodon client with Material You design."
+  },
+  {
+   "repo": "tuskyapp/Tusky",
+   "category": "social",
+   "name": "Tusky",
+   "desc": "Lightweight Mastodon client."
+  },
+  {
+   "repo": "appFedilab/Fedilab",
+   "category": "social",
+   "name": "Fedilab",
+   "desc": "Multi-account Fediverse client."
+  },
+  {
+   "repo": "bitwarden/android",
+   "category": "privacy",
+   "name": "Bitwarden",
+   "desc": "Open-source password manager."
+  },
+  {
+   "repo": "Kunzisoft/KeePassDX",
+   "category": "privacy",
+   "name": "KeePassDX",
+   "desc": "Offline KeePass password manager."
+  },
+  {
+   "repo": "beemdevelopment/Aegis",
+   "category": "privacy",
+   "name": "Aegis Authenticator",
+   "desc": "Secure 2FA authenticator with encrypted backups."
+  },
+  {
+   "repo": "ente-io/ente",
+   "category": "privacy",
+   "name": "Ente Auth",
+   "desc": "End-to-end encrypted authenticator and photos."
+  },
+  {
+   "repo": "cryptomator/android",
+   "category": "privacy",
+   "name": "Cryptomator",
+   "desc": "Transparent client-side encryption for cloud files."
+  },
+  {
+   "repo": "M66B/NetGuard",
+   "category": "privacy",
+   "name": "NetGuard",
+   "desc": "Firewall without root."
+  },
+  {
+   "repo": "celzero/rethink-app",
+   "category": "privacy",
+   "name": "RethinkDNS",
+   "desc": "DNS and firewall with on-device blocking."
+  },
+  {
+   "repo": "TrackerControl/tracker-control-android",
+   "category": "privacy",
+   "name": "TrackerControl",
+   "desc": "Monitor and block in-app trackers."
+  },
+  {
+   "repo": "emanuele-f/PCAPdroid",
+   "category": "privacy",
+   "name": "PCAPdroid",
+   "desc": "Network capture and analysis without root."
+  },
+  {
+   "repo": "WireGuard/wireguard-android",
+   "category": "privacy",
+   "name": "WireGuard",
+   "desc": "Fast, modern VPN tunnel."
+  },
+  {
+   "repo": "schwabe/ics-openvpn",
+   "category": "privacy",
+   "name": "OpenVPN for Android",
+   "desc": "OpenVPN client."
+  },
+  {
+   "repo": "guardianproject/orbot",
+   "category": "privacy",
+   "name": "Orbot",
+   "desc": "Tor proxy for Android."
+  },
+  {
+   "repo": "Stoutner/Privacy-Browser",
+   "category": "privacy",
+   "name": "Privacy Browser",
+   "desc": "Browser focused on privacy and control."
+  },
+  {
+   "repo": "PeterCxy/Shelter",
+   "category": "privacy",
+   "name": "Shelter",
+   "desc": "Isolate and freeze apps with a work profile."
+  },
+  {
+   "repo": "MuntashirAkon/AppManager",
+   "category": "privacy",
+   "name": "App Manager",
+   "desc": "Advanced package manager and privacy audit tool."
+  },
+  {
+   "repo": "d4rken-org/sdmaid-se",
+   "category": "privacy",
+   "name": "SD Maid SE",
+   "desc": "System cleaning and app management."
+  },
+  {
+   "repo": "RikkaApps/Shizuku",
+   "category": "privacy",
+   "name": "Shizuku",
+   "desc": "Use system APIs with ADB-level privileges."
+  },
+  {
+   "repo": "iamr0s/Dhizuku",
+   "category": "privacy",
+   "name": "Dhizuku",
+   "desc": "Device owner privileges via Shizuku."
+  },
+  {
+   "repo": "termux/termux-app",
+   "category": "tools",
+   "name": "Termux",
+   "desc": "Linux terminal environment for Android."
+  },
+  {
+   "repo": "termux/termux-x11",
+   "category": "tools",
+   "name": "Termux:X11",
+   "desc": "X11 server for Termux."
+  },
+  {
+   "repo": "CypherpunkArmory/UserLAnd",
+   "category": "tools",
+   "name": "UserLAnd",
+   "desc": "Run Linux distributions without root."
+  },
+  {
+   "repo": "zhanghai/MaterialFiles",
+   "category": "tools",
+   "name": "Material Files",
+   "desc": "Material Design file manager."
+  },
+  {
+   "repo": "TeamAmaze/AmazeFileManager",
+   "category": "tools",
+   "name": "Amaze File Manager",
+   "desc": "Open-source file manager."
+  },
+  {
+   "repo": "FossifyOrg/File-Manager",
+   "category": "tools",
+   "name": "Fossify File Manager",
+   "desc": "Simple, fast file manager."
+  },
+  {
+   "repo": "ImranR98/Obtainium",
+   "category": "tools",
+   "name": "Obtainium",
+   "desc": "Install and update apps directly from their release pages."
+  },
+  {
+   "repo": "Droid-ify/client",
+   "category": "tools",
+   "name": "Droid-ify",
+   "desc": "F-Droid client with a modern UI."
+  },
+  {
+   "repo": "NeoApplications/Neo-Store",
+   "category": "tools",
+   "name": "Neo Store",
+   "desc": "F-Droid client with Material You."
+  },
+  {
+   "repo": "f-droid/fdroidclient",
+   "category": "tools",
+   "name": "F-Droid",
+   "desc": "The official F-Droid catalog client."
+  },
+  {
+   "repo": "auroraoss/AuroraStore",
+   "category": "tools",
+   "name": "Aurora Store",
+   "desc": "Anonymous Google Play client."
+  },
+  {
+   "repo": "rumboalla/apkupdater",
+   "category": "tools",
+   "name": "APKUpdater",
+   "desc": "Keep sideloaded apps up to date."
+  },
+  {
+   "repo": "localsend/localsend",
+   "category": "tools",
+   "name": "LocalSend",
+   "desc": "Share files across devices on your LAN."
+  },
+  {
+   "repo": "KDE/kdeconnect-android",
+   "category": "tools",
+   "name": "KDE Connect",
+   "desc": "Connect your phone to your computer."
+  },
+  {
+   "repo": "syncthing/syncthing-android",
+   "category": "tools",
+   "name": "Syncthing",
+   "desc": "Continuous file synchronization."
+  },
+  {
+   "repo": "rustdesk/rustdesk",
+   "category": "tools",
+   "name": "RustDesk",
+   "desc": "Open-source remote desktop."
+  },
+  {
+   "repo": "NeoApplications/Neo-Backup",
+   "category": "tools",
+   "name": "Neo Backup",
+   "desc": "Back up and restore apps and data."
+  },
+  {
+   "repo": "XayahSuSuSu/Android-DataBackup",
+   "category": "tools",
+   "name": "DataBackup",
+   "desc": "Root-based app data backup."
+  },
+  {
+   "repo": "AndroidIDEOfficial/AndroidIDE",
+   "category": "dev",
+   "name": "AndroidIDE",
+   "desc": "Full Android IDE and toolchain on-device."
+  },
+  {
+   "repo": "Acode-Foundation/Acode",
+   "category": "dev",
+   "name": "Acode",
+   "desc": "Powerful code editor for Android."
+  },
+  {
+   "repo": "joplin/joplin",
+   "category": "productivity",
+   "name": "Joplin",
+   "desc": "Encrypted note-taking and to-do sync."
+  },
+  {
+   "repo": "logseq/logseq",
+   "category": "productivity",
+   "name": "Logseq",
+   "desc": "Privacy-first knowledge base and notes."
+  },
+  {
+   "repo": "gsantner/markor",
+   "category": "productivity",
+   "name": "Markor",
+   "desc": "Markdown and plain-text editor."
+  },
+  {
+   "repo": "appml/neutrinote",
+   "category": "productivity",
+   "name": "neutriNote",
+   "desc": "Markdown note-taking with math support."
+  },
+  {
+   "repo": "OmGodse/Notally",
+   "category": "productivity",
+   "name": "Notally",
+   "desc": "Minimal notes app."
+  },
+  {
+   "repo": "tasks/tasks",
+   "category": "productivity",
+   "name": "Tasks",
+   "desc": "To-do list with CalDAV sync."
+  },
+  {
+   "repo": "FossifyOrg/Calendar",
+   "category": "productivity",
+   "name": "Fossify Calendar",
+   "desc": "Offline calendar and agenda."
+  },
+  {
+   "repo": "etar-calendar/etar",
+   "category": "productivity",
+   "name": "Etar Calendar",
+   "desc": "Open-source material calendar."
+  },
+  {
+   "repo": "saber-notes/saber",
+   "category": "productivity",
+   "name": "Saber",
+   "desc": "Handwritten notes with stylus support."
+  },
+  {
+   "repo": "florisboard/florisboard",
+   "category": "productivity",
+   "name": "FlorisBoard",
+   "desc": "Privacy-friendly keyboard with themes."
+  },
+  {
+   "repo": "Helium314/HeliBoard",
+   "category": "productivity",
+   "name": "HeliBoard",
+   "desc": "Customizable offline keyboard."
+  },
+  {
+   "repo": "Julow/Unexpected-Keyboard",
+   "category": "productivity",
+   "name": "Unexpected Keyboard",
+   "desc": "Compact keyboard with extra keys."
+  },
+  {
+   "repo": "AnySoftKeyboard/AnySoftKeyboard",
+   "category": "productivity",
+   "name": "AnySoftKeyboard",
+   "desc": "Keyboard with many languages and layouts."
+  },
+  {
+   "repo": "rkkr/simple-keyboard",
+   "category": "productivity",
+   "name": "Simple Keyboard",
+   "desc": "Minimal keyboard without permissions."
+  },
+  {
+   "repo": "ReadYouApp/ReadYou",
+   "category": "reading",
+   "name": "ReadYou",
+   "desc": "RSS reader with Material You design."
+  },
+  {
+   "repo": "spacecowboy/Feeder",
+   "category": "reading",
+   "name": "Feeder",
+   "desc": "Feed reader for Android."
+  },
+  {
+   "repo": "jocmp/capyreader",
+   "category": "reading",
+   "name": "Capy Reader",
+   "desc": "RSS reader for Android and desktop."
+  },
+  {
+   "repo": "koreader/koreader",
+   "category": "reading",
+   "name": "KOReader",
+   "desc": "E-book reader for PDF, EPUB and more."
+  },
+  {
+   "repo": "mihonapp/mihon",
+   "category": "reading",
+   "name": "Mihon",
+   "desc": "Manga reader with extensions."
+  },
+  {
+   "repo": "KotatsuApp/Kotatsu",
+   "category": "reading",
+   "name": "Kotatsu",
+   "desc": "Manga reader with local and online sources."
+  },
+  {
+   "repo": "aniyomiorg/aniyomi",
+   "category": "reading",
+   "name": "Aniyomi",
+   "desc": "Anime and manga client."
+  },
+  {
+   "repo": "Dantotsuapp/Dantotsu",
+   "category": "reading",
+   "name": "Dantotsu",
+   "desc": "Anime and manga tracker and player."
+  },
+  {
+   "repo": "recloudstream/cloudstream",
+   "category": "reading",
+   "name": "Cloudstream",
+   "desc": "Streaming app with extensible providers."
+  },
+  {
+   "repo": "kiwix/kiwix-android",
+   "category": "reading",
+   "name": "Kiwix",
+   "desc": "Read Wikipedia and other content offline."
+  },
+  {
+   "repo": "Anuken/Mindustry",
+   "category": "games",
+   "name": "Mindustry",
+   "desc": "Automation tower-defense game."
+  },
+  {
+   "repo": "yairm210/Unciv",
+   "category": "games",
+   "name": "Unciv",
+   "desc": "Open-source Civ V clone."
+  },
+  {
+   "repo": "00-Evan/shattered-pixel-dungeon",
+   "category": "games",
+   "name": "Shattered Pixel Dungeon",
+   "desc": "Classic roguelike, expanded."
+  },
+  {
+   "repo": "Cataclysm-DDA/Cataclysm-DDA",
+   "category": "games",
+   "name": "Cataclysm: DDA",
+   "desc": "Post-apocalyptic survival roguelike."
+  },
+  {
+   "repo": "minetest/minetest",
+   "category": "games",
+   "name": "Luanti",
+   "desc": "Open-source voxel game platform."
+  },
+  {
+   "repo": "OpenTTD/OpenTTD",
+   "category": "games",
+   "name": "OpenTTD",
+   "desc": "Open-source transport tycoon."
+  },
+  {
+   "repo": "supertuxkart/stk-code",
+   "category": "games",
+   "name": "SuperTuxKart",
+   "desc": "Open-source kart racing game."
+  },
+  {
+   "repo": "ppsspp/ppsspp",
+   "category": "emulation",
+   "name": "PPSSPP",
+   "desc": "Fast PSP emulator."
+  },
+  {
+   "repo": "dolphin-emu/dolphin",
+   "category": "emulation",
+   "name": "Dolphin",
+   "desc": "GameCube and Wii emulator."
+  },
+  {
+   "repo": "libretro/RetroArch",
+   "category": "emulation",
+   "name": "RetroArch",
+   "desc": "Front-end for many emulator cores."
+  },
+  {
+   "repo": "Swordfish90/Lemuroid",
+   "category": "emulation",
+   "name": "Lemuroid",
+   "desc": "All-in-one retro emulator."
+  },
+  {
+   "repo": "brunodev85/winlator",
+   "category": "emulation",
+   "name": "Winlator",
+   "desc": "Run Windows games with Wine on Android."
+  },
+  {
+   "repo": "organicmaps/organicmaps",
+   "category": "maps",
+   "name": "Organic Maps",
+   "desc": "Offline maps and navigation."
+  },
+  {
+   "repo": "osmandapp/OsmAnd",
+   "category": "maps",
+   "name": "OsmAnd",
+   "desc": "Offline maps with turn-by-turn navigation."
+  },
+  {
+   "repo": "grote/Transportr",
+   "category": "maps",
+   "name": "Transportr",
+   "desc": "Public transport companion."
+  },
+  {
+   "repo": "LawnchairLauncher/lawnchair",
+   "category": "launchers",
+   "name": "Lawnchair",
+   "desc": "Pixel-style launcher with customization."
+  },
+  {
+   "repo": "MM2-0/Kvaesitso",
+   "category": "launchers",
+   "name": "Kvaesitso",
+   "desc": "Search-first, feature-rich launcher."
+  },
+  {
+   "repo": "tanujnotes/Olauncher",
+   "category": "launchers",
+   "name": "Olauncher",
+   "desc": "Minimal text-based launcher."
+  },
+  {
+   "repo": "jkuester/Unlauncher",
+   "category": "launchers",
+   "name": "Unlauncher",
+   "desc": "Distraction-free launcher."
+  },
+  {
+   "repo": "FossifyOrg/Launcher",
+   "category": "launchers",
+   "name": "Fossify Launcher",
+   "desc": "Simple, customizable launcher."
+  },
+  {
+   "repo": "LawnchairLauncher/lawnicons",
+   "category": "launchers",
+   "name": "Lawnicons",
+   "desc": "Icon pack for Lawnchair."
+  },
+  {
+   "repo": "Arcticons-Team/Arcticons",
+   "category": "launchers",
+   "name": "Arcticons",
+   "desc": "Minimal monochrome icon pack."
+  },
+  {
+   "repo": "NeoApplications/Neo-Launcher",
+   "category": "launchers",
+   "name": "Neo Launcher",
+   "desc": "Launcher focused on productivity."
+  },
+  {
+   "repo": "OpenTracksApp/OpenTracks",
+   "category": "health",
+   "name": "OpenTracks",
+   "desc": "Outdoor activity tracker."
+  },
+  {
+   "repo": "Freeyourgadget/Gadgetbridge",
+   "category": "health",
+   "name": "Gadgetbridge",
+   "desc": "Use your smartwatch without vendor apps."
+  },
+  {
+   "repo": "AnkiDroid/Anki-Android",
+   "category": "reading",
+   "name": "AnkiDroid",
+   "desc": "Spaced-repetition flashcards."
+  },
+  {
+   "repo": "home-assistant/android",
+   "category": "tools",
+   "name": "Home Assistant",
+   "desc": "Control your smart home."
+  },
+  {
+   "repo": "immich-app/immich",
+   "category": "tools",
+   "name": "Immich",
+   "desc": "Self-hosted photo and video backup."
+  },
+  {
+   "repo": "off-grid-ai/mobile",
+   "category": "ai",
+   "name": "Off Grid",
+   "desc": "Offline on-device AI chat, vision, image generation and voice."
+  },
+  {
+   "repo": "timmyy123/LLM-Hub",
+   "category": "ai",
+   "name": "LLM Hub",
+   "desc": "On-device LLM chat with image, video and music generation."
+  },
+  {
+   "repo": "dineshsoudagar/local-llms-on-android",
+   "category": "ai",
+   "name": "Pocket LLM",
+   "desc": "Local LLM chat and LAN server with offline inference."
+  },
+  {
+   "repo": "lunadevph/AIChat",
+   "category": "ai",
+   "name": "AI Chat",
+   "desc": "Native multi-provider AI chat client with vision support."
+  },
+  {
+   "repo": "YJLi-new/AndroidClaw",
+   "category": "ai",
+   "name": "AndroidClaw",
+   "desc": "Local AI assistant with tools, skills and scheduled automations."
+  },
+  {
+   "repo": "PurpleDoubleD/locally-uncensored",
+   "category": "ai",
+   "name": "Locally Uncensored",
+   "desc": "On-device AI studio for chat, images and video."
+  },
+  {
+   "repo": "mlc-ai/mlc-llm",
+   "category": "ai",
+   "name": "MLC LLM",
+   "desc": "Universal LLM deployment with mobile GPU acceleration."
+  },
+  {
+   "repo": "google-ai-edge/gallery",
+   "category": "ai",
+   "name": "AI Edge Gallery",
+   "desc": "Google AI Edge on-device generative AI experiment."
+  },
+  {
+   "repo": "jobobby04/tachiyomisy",
+   "category": "manga",
+   "name": "TachiyomiSY",
+   "desc": "Mihon fork with advanced reader and source features."
+  },
+  {
+   "repo": "komikku-app/komikku",
+   "category": "manga",
+   "name": "Komikku",
+   "desc": "Feature-rich Mihon fork with themes and suggestions."
+  },
+  {
+   "repo": "SaikouApp/Saikou",
+   "category": "manga",
+   "name": "Saikou",
+   "desc": "Anime and manga streaming app with extensions."
+  },
+  {
+   "repo": "AniHyou/AniHyou",
+   "category": "manga",
+   "name": "AniHyou",
+   "desc": "AniList client for discovering and tracking anime."
+  },
+  {
+   "repo": "J2KApp/TachiyomiJ2K",
+   "category": "manga",
+   "name": "TachiyomiJ2K",
+   "desc": "Manga reader fork with a modern design."
+  },
+  {
+   "repo": "tachiyomiorg/Tachiyomi",
+   "category": "manga",
+   "name": "Tachiyomi",
+   "desc": "The original free and open source manga reader."
+  },
+  {
+   "repo": "FossifyOrg/Calculator",
+   "category": "lifestyle",
+   "name": "Fossify Calculator",
+   "desc": "Offline calculator with history and unit conversion."
+  },
+  {
+   "repo": "FossifyOrg/Clock",
+   "category": "lifestyle",
+   "name": "Fossify Clock",
+   "desc": "Alarm, world clock, timer and stopwatch."
+  },
+  {
+   "repo": "FossifyOrg/Contacts",
+   "category": "lifestyle",
+   "name": "Fossify Contacts",
+   "desc": "Simple offline contacts manager."
+  },
+  {
+   "repo": "FossifyOrg/Gallery",
+   "category": "lifestyle",
+   "name": "Fossify Gallery",
+   "desc": "Private offline photo and video gallery."
+  },
+  {
+   "repo": "FossifyOrg/Messages",
+   "category": "lifestyle",
+   "name": "Fossify Messages",
+   "desc": "Basic SMS and MMS messenger."
+  },
+  {
+   "repo": "FossifyOrg/Notes",
+   "category": "lifestyle",
+   "name": "Fossify Notes",
+   "desc": "Simple notes app with checklists."
+  },
+  {
+   "repo": "FossifyOrg/Phone",
+   "category": "lifestyle",
+   "name": "Fossify Phone",
+   "desc": "Dialer with call blocking and quick dial."
+  },
+  {
+   "repo": "FossifyOrg/SMS-Messenger",
+   "category": "lifestyle",
+   "name": "Fossify SMS Messenger",
+   "desc": "Lightweight SMS app without ads."
+  },
+  {
+   "repo": "FossifyOrg/Sound-Recorder",
+   "category": "lifestyle",
+   "name": "Fossify Sound Recorder",
+   "desc": "Record audio without ads or tracking."
+  },
+  {
+   "repo": "FossifyOrg/Voice-Recorder",
+   "category": "lifestyle",
+   "name": "Fossify Voice Recorder",
+   "desc": "Minimal voice recorder."
+  },
+  {
+   "repo": "OmGodse/NotallyX",
+   "category": "productivity",
+   "name": "NotallyX",
+   "desc": "Enhanced fork of the Notally notes app."
+  },
+  {
+   "repo": "orgzly/orgzly-android",
+   "category": "productivity",
+   "name": "Orgzly",
+   "desc": "Outliner and todo app for Org-mode files."
+  },
+  {
+   "repo": "streetwriters/notesnook",
+   "category": "productivity",
+   "name": "Notesnook",
+   "desc": "End-to-end encrypted note taking."
+  },
+  {
+   "repo": "siyuan-note/siyuan",
+   "category": "productivity",
+   "name": "SiYuan",
+   "desc": "Local-first block-based knowledge base."
+  },
+  {
+   "repo": "nextcloud/android",
+   "category": "tools",
+   "name": "Nextcloud",
+   "desc": "Self-hosted files, calendar and contacts client."
+  },
+  {
+   "repo": "owncloud/android",
+   "category": "tools",
+   "name": "ownCloud",
+   "desc": "Self-hosted file sync and share client."
+  },
+  {
+   "repo": "termux/termux-api",
+   "category": "tools",
+   "name": "Termux:API",
+   "desc": "Termux add-on exposing device APIs to scripts."
+  },
+  {
+   "repo": "termux/termux-widget",
+   "category": "tools",
+   "name": "Termux:Widget",
+   "desc": "Launch Termux scripts from home-screen widgets."
+  },
+  {
+   "repo": "termux/termux-tasker",
+   "category": "tools",
+   "name": "Termux:Tasker",
+   "desc": "Run Termux scripts from automation apps."
+  },
+  {
+   "repo": "termux/termux-boot",
+   "category": "tools",
+   "name": "Termux:Boot",
+   "desc": "Run Termux scripts when the device boots."
+  },
+  {
+   "repo": "traccar/traccar-client-android",
+   "category": "tools",
+   "name": "Traccar Client",
+   "desc": "GPS tracking client for self-hosted servers."
+  },
+  {
+   "repo": "stenzek/duckstation",
+   "category": "emulation",
+   "name": "DuckStation",
+   "desc": "PlayStation 1 emulator with upscaling."
+  },
+  {
+   "repo": "melonDS-emu/melonDS",
+   "category": "emulation",
+   "name": "melonDS",
+   "desc": "Nintendo DS emulator."
+  },
+  {
+   "repo": "flyinghead/flycast",
+   "category": "emulation",
+   "name": "Flycast",
+   "desc": "Dreamcast and arcade emulator."
+  },
+  {
+   "repo": "Vita3K/Vita3K",
+   "category": "emulation",
+   "name": "Vita3K",
+   "desc": "PlayStation Vita emulator."
+  },
+  {
+   "repo": "azahar-emu/azahar",
+   "category": "emulation",
+   "name": "Azahar",
+   "desc": "Nintendo 3DS emulator."
+  },
+  {
+   "repo": "mobox-team/mobox",
+   "category": "emulation",
+   "name": "Mobox",
+   "desc": "Windows x86 emulation and gaming layer."
+  },
+  {
+   "repo": "WinNative-Emu/WinNative",
+   "category": "emulation",
+   "name": "WinNative",
+   "desc": "Unified Windows game emulation frontend."
+  },
+  {
+   "repo": "FWGS/xash3d-fwgs",
+   "category": "games",
+   "name": "Xash3D FWGS",
+   "desc": "Classic Half-Life engine port."
+  },
+  {
+   "repo": "scummvm/scummvm",
+   "category": "games",
+   "name": "ScummVM",
+   "desc": "Run classic point-and-click adventure games."
+  },
+  {
+   "repo": "gcompris/gcompris-qt",
+   "category": "games",
+   "name": "GCompris",
+   "desc": "Educational games suite for children."
+  },
+  {
+   "repo": "ppy/osu",
+   "category": "games",
+   "name": "osu!",
+   "desc": "Rhythm game with an official Android client."
+  },
+  {
+   "repo": "OpenRCT2/OpenRCT2",
+   "category": "games",
+   "name": "OpenRCT2",
+   "desc": "Open-source roller coaster tycoon."
+  },
+  {
+   "repo": "pingus/pingus",
+   "category": "games",
+   "name": "Pingus",
+   "desc": "Puzzle platformer with penguins."
+  },
+  {
+   "repo": "supertux/supertux",
+   "category": "games",
+   "name": "SuperTux",
+   "desc": "Classic 2D platformer."
+  },
+  {
+   "repo": "endless-sky/endless-sky",
+   "category": "games",
+   "name": "Endless Sky",
+   "desc": "Open-world space exploration game."
+  },
+  {
+   "repo": "vcmi/vcmi",
+   "category": "games",
+   "name": "VCMI",
+   "desc": "Open-source Heroes of Might and Magic III engine."
+  }
+ ]
+}
